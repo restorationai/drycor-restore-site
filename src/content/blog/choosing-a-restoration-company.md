@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Thonotosassa (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Thonotosassa (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in thonotosassa without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -11,7 +11,7 @@ plan_hash: "0cb75dafabbc7aaa"
 generated_at: "2026-09-03T11:33:30.759969+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/fire-damage-restoration/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Thonotosassa (Without Getting Burned)"}]
 faq: [{"question": "Should I call my insurance company or a restoration company first?", "answer": "Call your insurance company first, or at least simultaneously. Your policy may have requirements about how quickly you report a loss, and your adjuster can help you understand what's covered before you authorize work. A reputable restoration company will work alongside your insurer and can often communicate directly with your adjuster, but you want your carrier in the loop from the start, not after a scope of work has already been signed."}, {"question": "What is an Assignment of Benefits, and should I sign one?", "answer": "An Assignment of Benefits (AOB) is a legal document that transfers your right to collect insurance benefits for a specific claim to the contractor. This can simplify the billing process, the contractor bills the insurer directly and you're less involved in the back-and-forth. However, signing an AOB also limits your ability to dispute the contractor's scope or billing after the fact. Read it carefully, ask your insurance agent to review it, and never sign one under pressure before you understand the scope of work."}, {"question": "How long does a typical water damage restoration project take from start to finish?", "answer": "The emergency mitigation phase, water extraction, initial drying equipment setup, usually happens within the first day or two. The structural drying phase typically runs three to five days, though materials like concrete block, hardwood subfloor, or plaster can extend that timeline. After drying is confirmed with moisture readings, any necessary mold testing, demolition of unsalvageable materials, and reconstruction begins, which can add days to several weeks depending on the scope. Your contractor should give you a written timeline estimate once the initial assessment is complete."}, {"question": "Can I do any of the cleanup myself to save money?", "answer": "For minor surface water, a small appliance leak caught immediately on a tile floor, basic cleanup and drying with fans may be sufficient. But for anything involving more than a few square feet of saturated material, water that has been standing for more than 24 hours, any possibility of sewage contamination, or visible mold, DIY cleanup carries real risk. Moisture behind walls or under flooring that isn't fully dried can fuel mold growth within days, and disturbing mold without proper containment can spread spores through your HVAC system. When in doubt, have a professional assess before you start pulling things apart."}]
 published_at: "2026-08-26"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
