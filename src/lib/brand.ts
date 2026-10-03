@@ -58,7 +58,7 @@ export const brand = {
   // Operator-confirmed "licensed & insured" attestation from plan-input.json —
   // lets the TrustStrip show the badge before a license number is on file.
   licensedInsuredAttested: true as boolean,
-  certifications: ["IICRC CERTIFIED FIRM", "IICRC WRT (WATER)", "EPA LEAD-SAFE CERTIFIED", "OSHA TRAINED", "NAERMC-(MOLD)"] as string[],
+  certifications: ["IICRC Certified Firm", "IICRC WRT (Water)", "EPA Lead-Safe Certified", "OSHA Trained", "NAERMC-(Mold)"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.linkedin.com/company/drycor-restore/", "https://www.bing.com/maps?ss=ypid.YND295ED88552C26BD", "https://homeguide.com/fl/tampa/water-damage-restoration/drycor-restore-B7Lx1MPyy"] as string[],
