@@ -17,6 +17,7 @@ faq: [{"question": "How much does sewage cleanup cost in Florida?", "answer": "M
 published_at: "2026-09-30"
 services: []
 rendered: true
+author: "Robert Showalter"
 ---
 **TL;DR:** Sewage cleanup and remediation means removing contaminated wastewater, disposing of unsalvageable porous materials, and disinfecting every affected surface to IICRC S500 standards for Category 3 water. In Florida, most jobs run $1,500 to $7,500 depending on how far the water traveled and what it touched. Homeowners insurance often covers sudden sewage backups under the dwelling or personal property section, though many policies require a separate sewer backup rider. Never attempt cleanup yourself if the water has touched drywall, carpet padding, or HVAC returns.
 

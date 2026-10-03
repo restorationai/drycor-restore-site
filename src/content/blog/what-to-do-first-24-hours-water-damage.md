@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have before water damage becomes a mold proble
 published_at: "2026-08-31"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Robert Showalter"
 ---
 Stop what you're doing and cut the water supply first, then work through the rest. If a pipe burst, a supply line failed, or an appliance flooded a room, the single most important move in the first few minutes is finding your main shutoff valve and turning it off. Everything after that is about limiting how far the water travels, what it soaks into, and how much secondary damage, mold, rot, warped floors, ruined drywall, you'll be dealing with a week from now. Here is what to do, in order.
 

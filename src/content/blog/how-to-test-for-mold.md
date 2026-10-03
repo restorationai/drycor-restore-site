@@ -16,6 +16,7 @@ faq: [{"question": "Can a DIY mold test kit tell me if my home is safe?", "answe
 published_at: "2026-08-21"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Robert Showalter"
 ---
 Testing for mold in your home comes down to one core question: do you need to know *if* mold is present, or do you need to know *what kind*, *how much*, and *where it's spreading*? A $10 petri-dish kit from the hardware store can answer the first question, poorly. A professional inspection with air sampling and moisture mapping answers all three. Here's how each option works, where each one falls short, and how to decide which one your situation actually calls for.
 

@@ -16,6 +16,7 @@ faq: [{"question": "Should I call my insurance company or a restoration company 
 published_at: "2026-08-26"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Robert Showalter"
 ---
 The single most important thing to do when choosing a restoration company is to verify credentials *before* you sign anything, not after the crew is already in your home pulling up flooring. Restoration contractors can arrive within hours of a disaster, and the pressure of that moment makes it easy to skip due diligence. This guide walks you through exactly what to check, what red flags to walk away from, and what questions to ask so you end up with a company that actually fixes the problem instead of one that disappears after the check clears.
 

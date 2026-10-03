@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration typically take?", "ans
 published_at: "2026-08-28"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Robert Showalter"
 ---
 After a house fire, most people expect the hardest part to be the fire itself. It isn't. The days and weeks that follow, the smoke that has settled into every surface, the water left behind by suppression efforts, the structural unknowns hidden behind charred walls, are where the real recovery happens. Understanding what the fire damage restoration process looks like, step by step, helps you ask the right questions, make faster decisions, and avoid the mistakes that turn a recoverable loss into a permanent one.
 

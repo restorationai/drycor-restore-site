@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow inside walls without any visible water damage 
 published_at: "2026-08-21"
 services: ["mold-remediation"]
 rendered: true
+author: "Robert Showalter"
 ---
 Hidden mold doesn't announce itself. By the time you see a fuzzy patch on a wall, colonies may have been growing behind it for weeks, or months. The seven signs below don't require you to tear anything open; they're what your nose, eyes, and body are already picking up. If three or more apply to your home, treat it as a strong signal to investigate further, not a reason to wait.
 

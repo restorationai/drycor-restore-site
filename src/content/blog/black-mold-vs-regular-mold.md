@@ -16,6 +16,7 @@ faq: [{"question": "Can a home mold test kit tell me if I have Stachybotrys?", "
 published_at: "2026-08-21"
 services: ["mold-remediation"]
 rendered: true
+author: "Robert Showalter"
 ---
 Most mold you find in a home is not the toxic black mold you've heard about, but that doesn't mean it's harmless, and it doesn't mean you can always tell the difference by looking. The short answer: color alone is not a reliable identifier. "Black mold" is a nickname for *Stachybotrys chartarum*, a specific species that happens to be dark greenish-black, but dozens of other mold species also grow dark. Meanwhile, some *Stachybotrys* colonies look olive or gray in early stages. The only way to confirm a species is laboratory testing. What you *can* do is learn the visual, textural, and situational clues that raise or lower concern, and know when to stop guessing and call a professional.
 

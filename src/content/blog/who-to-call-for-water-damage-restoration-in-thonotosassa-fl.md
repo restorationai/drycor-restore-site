@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage restoration in Thon
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Robert Showalter"
 ---
 For water damage restoration in Thonotosassa, FL, call DRYCOR RESTORE at (813) 829-1091. The company runs a 24/7 emergency line, holds IICRC Certified Firm status, and is a Managed Repair Preferred Vendor for 34 insurance carriers in Florida, so the same call that gets water out of your house can also get your claim moving correctly from day one.
 

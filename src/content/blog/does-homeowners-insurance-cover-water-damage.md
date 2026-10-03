@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a roof lea
 published_at: "2026-08-17"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Robert Showalter"
 ---
 Whether your homeowners insurance covers water damage depends almost entirely on *where the water came from*, not how much damage it caused. A burst pipe that soaks your hardwood floors is usually covered. Rainwater that crept in through a foundation crack over two seasons usually is not. Understanding that single distinction, sudden and accidental versus gradual or flood-related, will tell you most of what you need to know before you ever call your adjuster.
 

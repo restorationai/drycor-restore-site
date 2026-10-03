@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have before water damage becomes a mold proble
 published_at: "2026-08-19"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Robert Showalter"
 ---
 When a pipe bursts, the first two minutes matter more than the next two hours. Shut off your main water supply valve immediately, don't wait to find the source of the break. Then cut power to any rooms where water is pooling near outlets or panels. Those two steps alone limit the majority of secondary damage. Everything after that is about documentation, drying, and deciding what you can handle yourself versus what requires professional equipment.
 

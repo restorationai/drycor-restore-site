@@ -17,6 +17,7 @@ faq: [{"question": "How long does the water damage restoration process take from
 published_at: "2026-09-24"
 services: ["water-damage-restoration", "water-cleanup", "contents-restoration-storage"]
 rendered: true
+author: "Robert Showalter"
 ---
 **TL;DR:** Water damage restoration follows a defined sequence: inspect and map moisture, extract standing water, remove unsalvageable materials, dry the structure with commercial air movers and dehumidifiers, monitor daily until readings hit the dry standard, then rebuild. A properly run job takes 3 to 5 days of active drying for most residential losses, plus additional time for reconstruction. Skipping or rushing any phase risks hidden moisture, structural rot, and mold growth within 24 to 48 hours.
 
