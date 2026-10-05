@@ -73,7 +73,7 @@ Dry-season fires, typically November through April in this part of Florida, tend
 
 ## Service area
 
-DRYCOR RESTORE is based in Thonotosassa and serves communities throughout Hillsborough County and the surrounding region, including Tampa, Brandon, Valrico, Seffner, Plant City, Lutz, Land O' Lakes, and New Tampa. Dedicated service-area pages for each city link back to this page for the full technical detail on fire and smoke restoration.
+DRYCOR RESTORE is based in Thonotosassa and serves communities throughout Hillsborough County and the surrounding region, including [Tampa](/service-areas/tampa-fl/fire-damage-restoration/), [Brandon](/service-areas/brandon-fl/fire-damage-restoration/), Valrico, [Seffner](/service-areas/seffner-fl/fire-damage-restoration/), [Plant City](/service-areas/plant-city-fl/fire-damage-restoration/), Lutz, Land O' Lakes, and New Tampa. Dedicated service-area pages for each city link back to this page for the full technical detail on fire and smoke restoration.
 
 ---
 

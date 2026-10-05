@@ -27,13 +27,13 @@ Thonotosassa sits in Hillsborough County's flood-prone low country, with the Hil
 
 ## Services we provide in Thonotosassa
 
-Water damage in Thonotosassa often starts at a slab penetration, a roof flashing failure, or a supply line that gave out under the pressure swings common in older plumbing. We extract standing water, pull wet flooring and drywall where needed, and dry structures in place using the IICRC S500 drying standard as our benchmark.
+[Water damage](/services/water-damage-restoration/) in Thonotosassa often starts at a slab penetration, a roof flashing failure, or a supply line that gave out under the pressure swings common in older plumbing. We extract standing water, pull wet flooring and drywall where needed, and dry structures in place using the IICRC S500 drying standard as our benchmark.
 
 Fire and smoke damage here tends to involve synthetic furnishings and modern finishes that produce heavy, acidic soot. We handle structural cleaning, odor control, and contents restoration so a fire loss doesn't become a full teardown.
 
 Storm damage, from downed limbs to wind-driven rain intrusion, is a regular call during Florida's wet season. We tarp roofs, board openings, and extract water before it migrates into wall cavities.
 
-Mold remediation follows naturally from the area's humidity and frequent water intrusion. We contain the affected area, remove compromised materials, and address the moisture source so regrowth isn't just a matter of time.
+[Mold remediation](/services/mold-remediation/) follows naturally from the area's humidity and frequent water intrusion. We contain the affected area, remove compromised materials, and address the moisture source so regrowth isn't just a matter of time.
 
 Biohazard and sewage cleanup round out our scope, handled with the containment and disposal protocols required for contaminated water and bloodborne material.
 

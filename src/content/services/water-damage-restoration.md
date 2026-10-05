@@ -73,6 +73,6 @@ The region's high ambient humidity also means that a water loss left unaddressed
 
 ## Service area
 
-DRYCOR RESTORE is based in Thonotosassa and serves communities throughout Hillsborough County and the surrounding area, including Tampa, Brandon, Plant City, Lutz, Land O' Lakes, Seffner, and Mango. Each city-specific page covers local considerations, housing stock, typical construction, and routing, but all work is performed to the same IICRC WRT standard regardless of location.
+DRYCOR RESTORE is based in Thonotosassa and serves communities throughout Hillsborough County and the surrounding area, including [Tampa](/service-areas/tampa-fl/water-damage-restoration/), [Brandon](/service-areas/brandon-fl/water-damage-restoration/), [Plant City](/service-areas/plant-city-fl/water-damage-restoration/), Lutz, Land O' Lakes, Seffner, and Mango. Each city-specific page covers local considerations, housing stock, typical construction, and routing, but all work is performed to the same IICRC WRT standard regardless of location.
 
 If you're seeing water where it shouldn't be, call (813) 829-1091 to schedule your moisture assessment. DRYCOR RESTORE responds 24/7, because water damage doesn't wait for business hours, and neither do we.
