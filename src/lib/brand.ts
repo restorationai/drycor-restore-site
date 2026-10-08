@@ -65,14 +65,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "27",
+  gbpReviewCount: "35",
   gbpReviews: [
-    { author: "Lauren", rating: 5, text: "They did excellent work upon the flood and the clean up process !! Thank you!", when: "October 2026" },
-    { author: "Tim", rating: 5, text: "Robert and his crew did excellent work following water damage to our home.", when: "October 2026" },
-    { author: "John", rating: 5, text: "These guys are absolutely amazing. So happy that we used them for our family’s home and I believe you will be happy as well.", when: "October 2026" },
-    { author: "Charles", rating: 5, text: "Very detail oriented on the drying process. Works with all major insurance carriers & makes the entire process as smooth as possible. Definitely recommend", when: "September 2026" },
-    { author: "Bobbie", rating: 5, text: "I can’t say enough wonderful things about Drycor Company! When a pipe broke in my home and caused water and mold problems, they responded so quickly and were there when I needed them most. Their promptness, professionalism, and genuine concern made a very stressful situation so much easier to…", when: "August 2026" },
-    { author: "Shane", rating: 5, text: "A company with a long track record! Willow is great to deal with and really cares. No one wants to use the service but can not mess around with having mold in Florida", when: "July 2026" },
+    { author: "Peter", rating: 5, text: "Great response, action AND follow up! Top quality people, process, equipment and materials. Hard working and conscientious crew on job-site. Knowledgeable office staff handling the complicated paperwork that accompanies these projects. Was refreshing to see an old school business with a hands on…", when: "October 2026" },
+    { author: "Jeremy", rating: 5, text: "Robert and team are always on top of every issue. I’m amazed at how fast they respond and the fact they always respond and show up. Really appreciate it!", when: "October 2026" },
+    { author: "Jake", rating: 5, text: "Great company did a great job clean professional work was very helpful and responsive with all our questions", when: "October 2026" },
+    { author: "Michael", rating: 5, text: "Working with said company was a great experience. Very professional and timely. I would absolutely recommend this company for any type of construction work.", when: "October 2026" },
+    { author: "Virgil", rating: 5, text: "Very consistent professional friendly customer service during a trying time being out of my home for 7 months.", when: "October 2026" },
+    { author: "Don", rating: 5, text: "Rob and crew did great work when my indoor water heater leaked overnight and I needed to get a lot of work done!! Very satisfied with it all.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Thonotosassa, FL.",
   // Rob 2026-09-15: replaces "we work with all insurance carriers" (no carrier logos/names)
