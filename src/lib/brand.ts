@@ -65,7 +65,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "35",
+  gbpReviewCount: "33",
   gbpReviews: [
     { author: "Peter", rating: 5, text: "Great response, action AND follow up! Top quality people, process, equipment and materials. Hard working and conscientious crew on job-site. Knowledgeable office staff handling the complicated paperwork that accompanies these projects. Was refreshing to see an old school business with a hands on…", when: "October 2026" },
     { author: "Jeremy", rating: 5, text: "Robert and team are always on top of every issue. I’m amazed at how fast they respond and the fact they always respond and show up. Really appreciate it!", when: "October 2026" },
