@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Renovations, Remodels and General Contracting in Thonotosassa | DRYCOR RESTORE"
-h1: "Renovations, Remodels and General Contracting in Thonotosassa"
-meta_description: "24/7 renovations, remodels and general contracting in Thonotosassa and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
+title: "Renovations, Remodels and General Contracting in Tampa Bay | DRYCOR RESTORE"
+h1: "Renovations, Remodels and General Contracting in Tampa Bay"
+meta_description: "24/7 renovations, remodels and general contracting in Tampa Bay and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
 primary_keyword: "renovations, remodels and general contracting thonotosasa"
 secondary_keywords: ["general contractor", "home renovation services", "home remodeling", "kitchen remodel", "bathroom remodel", "post-damage rebuild"]
 search_intent: "local_commercial"
@@ -68,10 +68,10 @@ In Thonotosassa and the broader Hillsborough County area, the renovation calenda
 
 Humidity is a year-round factor indoors. Drywall mud, paint, and tile adhesives all have manufacturer-specified temperature and humidity ranges. In an un-air-conditioned space during a Florida summer, those ranges can be difficult to maintain without temporary climate control, something worth discussing during scope development, not after finishes start failing.
 
-Pre-1978 housing stock is common in the older neighborhoods surrounding Thonotosassa. The EPA Lead-Safe certification the team holds is not a formality on these jobs, it's a legal requirement for any renovation that disturbs painted surfaces.
+Pre-1978 housing stock is common in the older neighborhoods around Tampa Bay. The EPA Lead-Safe certification the team holds is not a formality on these jobs, it's a legal requirement for any renovation that disturbs painted surfaces.
 
 ## Service area
 
-DRYCOR RESTORE is based in Thonotosassa, FL and serves communities throughout Hillsborough County and the surrounding region, including Tampa, Brandon, Seffner, Mango, Plant City, Valrico, and neighboring areas. Dedicated service-area pages cover specific city combinations, this page is the reference point for what the work actually involves.
+DRYCOR RESTORE is based in the Tampa Bay area and serves communities throughout Hillsborough County and the surrounding region, including Tampa, Brandon, Seffner, Mango, Plant City, Valrico, and neighboring areas. Dedicated service-area pages cover specific city combinations, this page is the reference point for what the work actually involves.
 
 When you're ready to move from damage or outdated finishes to a finished, permitted, inspected space, call (813) 829-1091 to schedule a scope walkthrough, the first step toward a written estimate that tells you exactly what the project will cost and how long it will take.

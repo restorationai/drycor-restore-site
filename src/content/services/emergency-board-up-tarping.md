@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Board-Up and Tarping in Thonotosassa | DRYCOR RESTORE"
-h1: "24/7 Emergency Board-Up and Tarping in Thonotosassa"
-meta_description: "24/7 emergency board-up and tarping in Thonotosassa and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
+title: "24/7 Emergency Board-Up and Tarping in Tampa Bay | DRYCOR RESTORE"
+h1: "24/7 Emergency Board-Up and Tarping in Tampa Bay"
+meta_description: "24/7 emergency board-up and tarping in Tampa Bay and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
 primary_keyword: "emergency board-up and tarping thonotosasa"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -72,6 +72,6 @@ Thonotosassa and the broader Hillsborough County area sit squarely in Florida's 
 
 ## Service area
 
-DRYCOR RESTORE is based in Thonotosassa and responds to emergency board-up and tarping calls throughout the surrounding area, including Tampa, Brandon, Seffner, Mango, Lutz, Land O' Lakes, and neighboring Hillsborough and Pasco County communities. Dedicated service-area pages cover specific cities, each links back here for the full service detail.
+DRYCOR RESTORE is based in the Tampa Bay area and responds to emergency board-up and tarping calls throughout the surrounding area, including Tampa, Brandon, Seffner, Mango, Lutz, Land O' Lakes, and neighboring Hillsborough and Pasco County communities. Dedicated service-area pages cover specific cities, each links back here for the full service detail.
 
 If a storm, fire, or impact has left your structure open right now, call (813) 829-1091. DRYCOR RESTORE operates 24/7, the crew that secures your property tonight also documents the loss for your adjuster tomorrow.

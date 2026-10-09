@@ -45,7 +45,7 @@ Kitchen and bathroom remodels follow this same sequence. So do full post-damage 
 
 ## Reaching New Port Richey from Thonotosassa
 
-DRYCOR RESTORE's home base in Thonotosassa puts the team on SR-54 west to reach New Port Richey, a straightforward run across northern Pasco County. For scheduled renovation work, crews are coordinated to arrive at the project start time with materials staged. Because DRYCOR RESTORE operates 24/7, post-damage assessment calls from New Port Richey are answered around the clock, useful when a storm or pipe failure happens overnight and a homeowner needs to know whether the structure is safe to stay in.
+DRYCOR RESTORE's home base in the Tampa Bay area puts the team on SR-54 west to reach New Port Richey, a straightforward run across northern Pasco County. For scheduled renovation work, crews are coordinated to arrive at the project start time with materials staged. Because DRYCOR RESTORE operates 24/7, post-damage assessment calls from New Port Richey are answered around the clock, useful when a storm or pipe failure happens overnight and a homeowner needs to know whether the structure is safe to stay in.
 
 ## Local Note
 

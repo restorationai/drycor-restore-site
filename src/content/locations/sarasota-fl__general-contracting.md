@@ -40,7 +40,7 @@ For post-damage rebuilds where an insurance carrier is involved, DRYCOR RESTORE 
 
 ## Reaching Sarasota from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 out of Thonotosassa, with Sarasota accessible via I-75 South. The drive puts the crew into the city's core neighborhoods and the barrier island communities within a practical window for urgent post-damage situations. Whether a project is in a historic district near downtown or a newer development closer to the county's southern reaches, the routing is straightforward and the team is reachable around the clock.
+DRYCOR RESTORE operates 24/7 out of its Tampa Bay base, with Sarasota accessible via I-75 South. The drive puts the crew into the city's core neighborhoods and the barrier island communities within a practical window for urgent post-damage situations. Whether a project is in a historic district near downtown or a newer development closer to the county's southern reaches, the routing is straightforward and the team is reachable around the clock.
 
 ## Sarasota HOA and Permitting Coordination
 

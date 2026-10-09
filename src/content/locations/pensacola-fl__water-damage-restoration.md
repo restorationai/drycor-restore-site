@@ -32,7 +32,7 @@ We start every call with moisture mapping, not guesswork, because standing water
 
 ## Reaching Pensacola from Thonotosassa
 
-Our crews travel from Thonotosassa to cover water losses across the Pensacola area, and we coordinate dispatch the moment a call comes in so a technician is already en route while we're confirming details with the homeowner or property manager. Because Pensacola sits toward the far western edge of the territory we serve, we stage equipment and schedule proactively during hurricane watches and heavy rain forecasts so trucks aren't starting from zero when storm calls spike across Escambia County.
+Our crews travel from our Tampa Bay base to cover water losses across the Pensacola area, and we coordinate dispatch the moment a call comes in so a technician is already en route while we're confirming details with the homeowner or property manager. Because Pensacola sits toward the far western edge of the territory we serve, we stage equipment and schedule proactively during hurricane watches and heavy rain forecasts so trucks aren't starting from zero when storm calls spike across Escambia County.
 
 ## Pensacola Insurance & Storm Claims Coordination
 

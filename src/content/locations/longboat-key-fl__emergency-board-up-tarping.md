@@ -38,7 +38,7 @@ For roof tarps, we use heavy-duty polyethylene sheeting rated for the Florida ma
 
 ## Reaching Longboat Key from Thonotosassa
 
-Our base in Thonotosassa puts us on I-75 south toward Sarasota County, then west across the Cortez Bridge or north via the Longboat Key Bridge depending on which part of the island the call is coming from. Because Longboat Key is a single-road island with limited access points, we coordinate routing before departure to avoid delays at bridge lift schedules or post-storm traffic backups on Gulf of Mexico Drive. We are available 24 hours a day, seven days a week, so a call at 2 a.m. after a storm passes through gets the same response as a midday call.
+Our base in the Tampa Bay area puts us on I-75 south toward Sarasota County, then west across the Cortez Bridge or north via the Longboat Key Bridge depending on which part of the island the call is coming from. Because Longboat Key is a single-road island with limited access points, we coordinate routing before departure to avoid delays at bridge lift schedules or post-storm traffic backups on Gulf of Mexico Drive. We are available 24 hours a day, seven days a week, so a call at 2 a.m. after a storm passes through gets the same response as a midday call.
 
 ## Longboat Key Insurance and HOA Coordination
 

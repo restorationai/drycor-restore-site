@@ -38,7 +38,7 @@ On the build side, material selection accounts for the salt environment. Stainle
 
 ## Reaching Siesta Key from Thonotosassa
 
-DRYCOR RESTORE operates around the clock, and the team is available 24/7 for urgent situations. From our Thonotosassa base, the standard route to Siesta Key runs south on I-75 to the Sarasota area, then west toward the key via Stickney Point Road or Midnight Pass Road depending on the project location. We account for causeway congestion in our scheduling, particularly during winter season when both bridges see heavier traffic, and we coordinate material deliveries for early-morning windows when access is most predictable.
+DRYCOR RESTORE operates around the clock, and the team is available 24/7 for urgent situations. From our Tampa Bay base, the standard route to Siesta Key runs south on I-75 to the Sarasota area, then west toward the key via Stickney Point Road or Midnight Pass Road depending on the project location. We account for causeway congestion in our scheduling, particularly during winter season when both bridges see heavier traffic, and we coordinate material deliveries for early-morning windows when access is most predictable.
 
 ## Siesta Key HOA and Insurance Coordination
 

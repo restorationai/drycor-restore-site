@@ -38,7 +38,7 @@ Throughout construction, our OSHA-trained crews follow lead-safe work practices 
 
 ## Reaching Ruskin from Our Thonotosassa Base
 
-DRYCOR RESTORE operates out of Thonotosassa, which puts Ruskin roughly 30 to 35 minutes south via I-75 or US-301 depending on traffic through Riverview. For renovation and remodeling projects, scheduling is coordinated in advance, and our team is available around the clock to take your call at (813) 829-1091, including for post-storm damage assessments when you need to understand what needs to be rebuilt before you can plan what you want to improve.
+DRYCOR RESTORE operates out of its Tampa Bay base, which puts Ruskin roughly 30 to 35 minutes south via I-75 or US-301 depending on traffic through Riverview. For renovation and remodeling projects, scheduling is coordinated in advance, and our team is available around the clock to take your call at (813) 829-1091, including for post-storm damage assessments when you need to understand what needs to be rebuilt before you can plan what you want to improve.
 
 For homeowners in the waterfront sections of Ruskin closer to the bay, access via Shell Point Road or 19th Avenue NE is straightforward, and we factor drive time into project scheduling so crews arrive with the full day's materials rather than making mid-day runs back north.
 

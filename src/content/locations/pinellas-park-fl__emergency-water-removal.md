@@ -38,7 +38,7 @@ Monitoring visits track the psychrometric data, temperature, relative humidity, 
 
 ## Reaching Pinellas Park from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts crews on US-92 west through Tampa, then south on I-275 or US-19 depending on traffic and the specific address. Pinellas Park is reachable around the clock, the 24/7 line at (813) 829-1091 connects directly to a dispatcher, not a voicemail. For properties near the US-19 corridor or the neighborhoods clustered around Park Boulevard, routing is straightforward. Crews carry full extraction and pumping equipment on every vehicle so there is no delay waiting for a second truck.
+DRYCOR RESTORE's base in the Tampa Bay area puts crews on US-92 west through Tampa, then south on I-275 or US-19 depending on traffic and the specific address. Pinellas Park is reachable around the clock, the 24/7 line at (813) 829-1091 connects directly to a dispatcher, not a voicemail. For properties near the US-19 corridor or the neighborhoods clustered around Park Boulevard, routing is straightforward. Crews carry full extraction and pumping equipment on every vehicle so there is no delay waiting for a second truck.
 
 ## Local Note: What the Water Table Means for Removal Timelines
 

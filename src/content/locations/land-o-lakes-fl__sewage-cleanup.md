@@ -42,7 +42,7 @@ Raw sewage is classified as Category 3 water, the most hazardous contamination c
 
 ## Reaching Land O' Lakes from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa, which puts the crew on US-301 North or SR-54 West depending on traffic and the specific address. Land O' Lakes is a sprawling community, the distance from the southern edge near Lutz to the northern sections near SR-52 is significant, and response time varies by location within the city. Because the team is available around the clock, a call at 2 a.m. after a septic backup reaches the same dispatcher and the same trained crew as a call during business hours. If you are unsure of your exact address or cross street, the nearest major intersection helps dispatch route the crew efficiently.
+DRYCOR RESTORE operates out of its Tampa Bay base, which puts the crew on US-301 North or SR-54 West depending on traffic and the specific address. Land O' Lakes is a sprawling community, the distance from the southern edge near Lutz to the northern sections near SR-52 is significant, and response time varies by location within the city. Because the team is available around the clock, a call at 2 a.m. after a septic backup reaches the same dispatcher and the same trained crew as a call during business hours. If you are unsure of your exact address or cross street, the nearest major intersection helps dispatch route the crew efficiently.
 
 ## Land O' Lakes Insurance and HOA Coordination
 

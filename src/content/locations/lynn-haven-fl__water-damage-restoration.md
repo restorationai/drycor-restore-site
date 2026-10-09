@@ -36,7 +36,7 @@ Structural drying in this climate takes some calibration. With outdoor humidity 
 
 ## Reaching Lynn Haven from Thonotosassa
 
-Our crews travel from Thonotosassa to Bay County for scheduled restoration and emergency calls alike. Because this is a longer haul than some of our closer service areas, we ask for as much detail as possible when you call, what rooms are affected, whether the water is clean or contaminated, whether power is on, so the crew arrives with the right equipment loaded and ready rather than making a second trip.
+Our crews travel from our Tampa Bay base to Bay County for scheduled restoration and emergency calls alike. Because this is a longer haul than some of our closer service areas, we ask for as much detail as possible when you call, what rooms are affected, whether the water is clean or contaminated, whether power is on, so the crew arrives with the right equipment loaded and ready rather than making a second trip.
 
 ## Lynn Haven Insurance & HOA Coordination
 

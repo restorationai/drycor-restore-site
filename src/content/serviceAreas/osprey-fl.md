@@ -49,7 +49,7 @@ Once drying and remediation are complete, structural repairs, drywall replacemen
 
 ## Coverage and how fast we can get there
 
-From Thonotosassa, the most direct route to Osprey runs south on I-75 to Exit 195 (Laurel Road) or Exit 191 (Jacaranda Boulevard), then west to US-41. The drive covers roughly 65 to 70 miles depending on the specific address. Because Osprey is a smaller unincorporated community in Sarasota County without a dense grid of cross streets, property locations along South Tamiami Trail (US-41), Blackburn Point Road, and the roads approaching Casey Key vary in how accessible they are from the highway. We are available 24 hours a day, seven days a week, and dispatch as soon as a call comes in. Travel time will depend on time of day and traffic on I-75, and we will give you an honest arrival estimate when you call.
+From our Tampa Bay base, the most direct route to Osprey runs south on I-75 to Exit 195 (Laurel Road) or Exit 191 (Jacaranda Boulevard), then west to US-41. The drive covers roughly 65 to 70 miles depending on the specific address. Because Osprey is a smaller unincorporated community in Sarasota County without a dense grid of cross streets, property locations along South Tamiami Trail (US-41), Blackburn Point Road, and the roads approaching Casey Key vary in how accessible they are from the highway. We are available 24 hours a day, seven days a week, and dispatch as soon as a call comes in. Travel time will depend on time of day and traffic on I-75, and we will give you an honest arrival estimate when you call.
 
 ## Building stock, site conditions, and permits in Osprey
 

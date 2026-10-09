@@ -36,6 +36,8 @@ const B = brand as unknown as Record<string, unknown>;
 const str = (v: unknown) => String(v ?? "").trim();
 
 const city = str(brand.primaryCity);
+// Display area for the copy (Robert 2026-10-09); `city` still ranks local reviews.
+const area = str((brand as { marketArea?: string }).marketArea) || city;
 const name = str(brand.displayName);
 const trade = str(B.tradeNoun) || "restoration";
 
@@ -74,10 +76,10 @@ const reviews = ((B.gbpReviews as { author: string; rating: number; text: string
   .map((r) => ({ author: r.author, rating: r.rating, when: r.when, quote: excerpt(r.text) }));
 
 const lead = topRated
-  ? `${name} is a top-rated ${trade} company in ${city}, with a ${rating}-star Google rating across ${count} reviews.`
+  ? `${name} is a top-rated ${trade} company in ${area}, with a ${rating}-star Google rating across ${count} reviews.`
   : hasRating && ratingNum >= 4
-    ? `${city} homeowners rate ${name} ${rating} out of 5 stars across ${count} Google reviews.`
-    : `Here is what ${name} brings to every ${trade} job in ${city}.`;
+    ? `${area} homeowners rate ${name} ${rating} out of 5 stars across ${count} Google reviews.`
+    : `Here is what ${name} brings to every ${trade} job in ${area}.`;
 
 const show = Boolean(city && name) && (hasRating || reviews.length > 0);
 const short = str(brand.shortName);
@@ -95,7 +97,7 @@ const headName = fits(name) ? name : short && fits(short) ? short : "us";
       <div class="max-w-4xl mx-auto text-center">
         <div class="eyebrow">Proof, not promises</div>
         <h2 id="home-proof-heading" class="text-base min-[360px]:text-xl sm:text-3xl md:text-4xl text-balance font-black uppercase tracking-tighter text-white mb-4">
-          Why {city} homeowners choose {headName}
+          Why {area} homeowners choose {headName}
         </h2>
         <script is:inline>
           (() => {

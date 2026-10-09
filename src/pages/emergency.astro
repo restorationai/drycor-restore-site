@@ -50,12 +50,12 @@ const areas = (await getCollection("serviceAreas")).sort(
 );
 const cityPreview = areas.slice(0, 5).map((a) => a.data.city).join(", ");
 
-const h1 = `Water Emergency in ${brand.primaryCity}? What to Do Right Now`;
+const h1 = `Water Emergency in ${brand.marketArea}? What to Do Right Now`;
 
-const metaDescription = `Flooded home or burst pipe in ${brand.primaryCity}, ${brand.primaryState}? Here is what to do right now. ${shortLabel} ${dispatchLine}${is247 ? ", 24/7" : " during business hours"}, with direct insurance billing. Call ${brand.phone}.`;
+const metaDescription = `Flooded home or burst pipe in ${brand.marketArea}, ${brand.primaryState}? Here is what to do right now. ${shortLabel} ${dispatchLine}${is247 ? ", 24/7" : " during business hours"}, with direct insurance billing. Call ${brand.phone}.`;
 
 // Opening answer capsule — 2-3 standalone sentences an AI engine can quote verbatim.
-const answerCapsule = `${brand.displayName} provides ${is247 ? "24/7 " : ""}emergency water damage response in ${brand.primaryCity}, ${brand.primaryState} and nearby cities including ${cityPreview}. We provide ${responseClaim}, and we bill your insurance company directly. Call ${brand.phone} to get a crew moving now.`;
+const answerCapsule = `${brand.displayName} provides ${is247 ? "24/7 " : ""}emergency water damage response across ${brand.marketArea}, ${brand.primaryState} and nearby cities including ${cityPreview}. We provide ${responseClaim}, and we bill your insurance company directly. Call ${brand.phone} to get a crew moving now.`;
 
 const faq = [
   is247
@@ -70,7 +70,7 @@ const faq = [
   {
     question: "How quickly can you be on-site?",
     answer: hasResp
-      ? `Crews are typically on-site within ${respMin} minutes of your call anywhere in the ${brand.primaryCity} area${is247 ? ", 24/7" : ""}. Call ${brand.phone} and we will give you a real ETA for your address.`
+      ? `Crews are typically on-site within ${respMin} minutes of your call anywhere in the ${brand.marketArea} area${is247 ? ", 24/7" : ""}. Call ${brand.phone} and we will give you a real ETA for your address.`
       : `We dispatch the nearest available crew as soon as you call${is247 ? ", 24/7" : ` during business hours (${brand.hours})`}. Call ${brand.phone} and we will give you a real ETA for your address.`,
   },
   {
@@ -113,7 +113,7 @@ const faq = [
           <p class="mt-6 mb-0 text-base text-white/80">
             Need the full service?{" "}
             <a href={`/services/${ownerService.data.service_slug || "water-damage-restoration"}/`} class="font-bold text-primary-400">
-              Emergency water damage restoration in {brand.primaryCity}
+              Emergency water damage restoration in {brand.marketArea}
             </a>
           </p>
         )}
@@ -158,7 +158,7 @@ const faq = [
             : `${shortLabel} dispatches the nearest available crew as quickly as possible during business hours (${brand.hours}).`}
           Water damage gets worse by the hour, so we treat every call as urgent.
         </p>
-        <p>We respond throughout the {brand.primaryCity} area, including:</p>
+        <p>We respond throughout the {brand.marketArea} area, including:</p>
       </div>
       <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 max-w-4xl mx-auto mt-8">
         {areas.map((a) => (

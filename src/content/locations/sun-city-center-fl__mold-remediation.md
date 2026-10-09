@@ -34,9 +34,9 @@ Every job begins with a thorough moisture mapping inspection using thermal imagi
 
 Affected porous materials, such as drywall, insulation, and flooring underlayment, are removed and bagged in accordance with industry containment protocols. Structural surfaces that can be retained are treated with an EPA-registered antimicrobial agent and dried to manufacturer-specified moisture content levels. Our team holds NAERMC mold certification and operates as an IICRC Certified Firm, so the remediation protocol follows a documented standard rather than a judgment call. After remediation is complete, we recommend independent post-clearance air testing to confirm spore counts have returned to acceptable levels before any reconstruction begins.
 
-## Reaching Sun City Center from Thonotosassa
+## Reaching Sun City Center From Our Tampa Bay Base
 
-From our Thonotosassa location, the most direct route to Sun City Center runs south on US-301 through Riverview, connecting to SR-674 into the community. Because we operate 24 hours a day, seven days a week, a call at 2 a.m. about a visible mold problem or a sudden leak that puts mold risk in motion gets the same response as a daytime call. Sun City Center's layout, with its network of internal roads serving the various residential sections, is familiar territory for our crews, and we stage equipment efficiently once on site.
+From our Tampa Bay location, the most direct route to Sun City Center runs south on US-301 through Riverview, connecting to SR-674 into the community. Because we operate 24 hours a day, seven days a week, a call at 2 a.m. about a visible mold problem or a sudden leak that puts mold risk in motion gets the same response as a daytime call. Sun City Center's layout, with its network of internal roads serving the various residential sections, is familiar territory for our crews, and we stage equipment efficiently once on site.
 
 ## Sun City Center HOA Coordination
 

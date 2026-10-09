@@ -38,7 +38,7 @@ For kitchen and bathroom remodels specifically, we pay close attention to ventil
 
 ## Reaching Seminole from Thonotosassa
 
-Drycor Restore's base in Thonotosassa puts crews on the road toward Seminole via US-92 west to I-275 south, then across to Pinellas County. The route is straightforward on off-peak hours. Because Seminole spans a compact footprint between Largo to the south and St. Petersburg to the east, crews can stage efficiently once they are across the Howard Frankland Bridge. For remodel and general contracting work, scheduling is coordinated directly with the homeowner or property manager, and we are reachable around the clock at (813) 829-1091 for questions at any stage of a project.
+Drycor Restore's base in the Tampa Bay area puts crews on the road toward Seminole via US-92 west to I-275 south, then across to Pinellas County. The route is straightforward on off-peak hours. Because Seminole spans a compact footprint between Largo to the south and St. Petersburg to the east, crews can stage efficiently once they are across the Howard Frankland Bridge. For remodel and general contracting work, scheduling is coordinated directly with the homeowner or property manager, and we are reachable around the clock at (813) 829-1091 for questions at any stage of a project.
 
 ## Local Note: What Concrete Block Construction Means for Your Remodel
 

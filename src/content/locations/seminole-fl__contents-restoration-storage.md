@@ -38,7 +38,7 @@ Once treated, items move into climate-controlled storage. Seminole's year-round 
 
 ## Reaching Seminole from Thonotosassa
 
-Drycor Restore operates 24/7 out of Thonotosassa, and the crew routes to Seminole via I-275 South to the Ulmerton Road corridor, which provides direct access to the city's interior neighborhoods. The route is well-traveled and consistent, which matters when a loss is active and every hour of exposure increases the damage to your belongings. Calls to (813) 829-1091 connect you to a live dispatcher at any hour.
+Drycor Restore operates 24/7 out of its Tampa Bay base, and the crew routes to Seminole via I-275 South to the Ulmerton Road corridor, which provides direct access to the city's interior neighborhoods. The route is well-traveled and consistent, which matters when a loss is active and every hour of exposure increases the damage to your belongings. Calls to (813) 829-1091 connect you to a live dispatcher at any hour.
 
 ## Seminole Insurance Coordination
 

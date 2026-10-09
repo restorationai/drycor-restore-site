@@ -41,7 +41,7 @@ For Clearwater homes with tile flooring over concrete slab, an extremely common 
 
 ## Reaching Clearwater from Thonotosassa
 
-Drycor Restore operates 24/7 out of Thonotosassa, and Clearwater is a regular part of our service area. The most direct route runs west on SR-60 (Gulf to Bay Boulevard) through the heart of Pinellas County, putting us within reach of central Clearwater and the beach communities to the west. For calls in the northern parts of the city, US-19 provides a direct corridor. We are available around the clock, a water loss at 2 a.m. on a holiday weekend gets the same response as one on a Tuesday afternoon.
+Drycor Restore operates 24/7 out of its Tampa Bay base, and Clearwater is a regular part of our service area. The most direct route runs west on SR-60 (Gulf to Bay Boulevard) through the heart of Pinellas County, putting us within reach of central Clearwater and the beach communities to the west. For calls in the northern parts of the city, US-19 provides a direct corridor. We are available around the clock, a water loss at 2 a.m. on a holiday weekend gets the same response as one on a Tuesday afternoon.
 
 ## Clearwater Insurance Coordination
 

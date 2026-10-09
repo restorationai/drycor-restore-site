@@ -38,7 +38,7 @@ Once your property is dried, repaired, and cleared, contents are returned and pl
 
 ## Reaching Winter Haven from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa, and Winter Haven is reachable via US-92 west through Lakeland or via I-4 west to the Polk Parkway (SR-570) south, routes our crews run regularly for Polk County calls. Because we operate around the clock, a call at 2 a.m. after a pipe failure gets the same dispatch priority as a midday call. If your property is on the eastern side of Winter Haven near the US-17 corridor, or further west toward the Lake Howard shoreline, we factor local traffic and routing into our response so we're not adding unnecessary delay to an already stressful situation.
+DRYCOR RESTORE operates out of its Tampa Bay base, and Winter Haven is reachable via US-92 west through Lakeland or via I-4 west to the Polk Parkway (SR-570) south, routes our crews run regularly for Polk County calls. Because we operate around the clock, a call at 2 a.m. after a pipe failure gets the same dispatch priority as a midday call. If your property is on the eastern side of Winter Haven near the US-17 corridor, or further west toward the Lake Howard shoreline, we factor local traffic and routing into our response so we're not adding unnecessary delay to an already stressful situation.
 
 ## Winter Haven Insurance Coordination
 

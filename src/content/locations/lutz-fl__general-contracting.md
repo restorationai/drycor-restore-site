@@ -36,7 +36,7 @@ Once permits are in hand, we sequence trades to protect finished work from Flori
 
 ## Reaching Lutz from Our Thonotosassa Base
 
-Our crews operate out of Thonotosassa, which puts Lutz a short drive west on SR-579 (Fowler Avenue) or north via US-301 depending on traffic patterns. We're available around the clock for emergency calls, and for scheduled renovation projects we coordinate start times that account for the SR-54 and Dale Mabry corridor congestion that can affect morning crew arrivals from the south. If your project is in a gated community, and there are several in the Lutz area, we confirm access credentials before the first day so no one is sitting at a gate at 7 a.m.
+Our crews operate out of our Tampa Bay base, which puts Lutz a short drive west on SR-579 (Fowler Avenue) or north via US-301 depending on traffic patterns. We're available around the clock for emergency calls, and for scheduled renovation projects we coordinate start times that account for the SR-54 and Dale Mabry corridor congestion that can affect morning crew arrivals from the south. If your project is in a gated community, and there are several in the Lutz area, we confirm access credentials before the first day so no one is sitting at a gate at 7 a.m.
 
 ## Local Note
 

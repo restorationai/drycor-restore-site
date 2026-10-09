@@ -40,7 +40,7 @@ Finish work, whether that is tile, cabinetry, flooring, or drywall, is scheduled
 
 ## Reaching Lake Wales from Thonotosassa
 
-DRYCOR RESTORE is headquartered in Thonotosassa, and the team reaches Lake Wales via US-92 east to I-4, then south on US-27 through Haines City into Polk County. The route is straightforward, and because we operate around the clock, scheduling is not limited to standard business hours. For post-storm or post-damage rebuild consultations, we can arrange same-day site visits when the calendar allows.
+DRYCOR RESTORE is headquartered in the Tampa Bay area, and the team reaches Lake Wales via US-92 east to I-4, then south on US-27 through Haines City into Polk County. The route is straightforward, and because we operate around the clock, scheduling is not limited to standard business hours. For post-storm or post-damage rebuild consultations, we can arrange same-day site visits when the calendar allows.
 
 Lake Wales is a compact city, and most residential and commercial properties are within a short drive of the US-27 corridor, which makes logistics for material delivery and crew staging manageable even on tighter project timelines.
 

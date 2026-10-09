@@ -38,7 +38,7 @@ Final clearance is the step that matters most for your peace of mind and for any
 
 ## Reaching Siesta Key from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 out of Thonotosassa and routes crews south via I-75 to reach Sarasota County. Access to Siesta Key runs through either the Stickney Point Road bridge or the Siesta Drive bridge, both of which can experience congestion during peak season and weekend beach traffic. For emergency calls, we factor bridge access into dispatch timing and communicate an honest arrival estimate rather than a number that sounds good on the phone. If you are calling from a condo on the north end of the island near Siesta Drive, the routing differs from a call originating near the south end toward Turtle Beach, and our dispatcher accounts for that.
+DRYCOR RESTORE operates 24/7 out of its Tampa Bay base and routes crews south via I-75 to reach Sarasota County. Access to Siesta Key runs through either the Stickney Point Road bridge or the Siesta Drive bridge, both of which can experience congestion during peak season and weekend beach traffic. For emergency calls, we factor bridge access into dispatch timing and communicate an honest arrival estimate rather than a number that sounds good on the phone. If you are calling from a condo on the north end of the island near Siesta Drive, the routing differs from a call originating near the south end toward Turtle Beach, and our dispatcher accounts for that.
 
 ## Siesta Key Insurance and HOA Coordination
 

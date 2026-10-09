@@ -38,7 +38,7 @@ Every opening is logged with dimensions and materials used. That documentation g
 
 ## Reaching Venice from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and the primary route to Venice runs south on I-75 to Exit 193, then west on Jacaranda Boulevard into the city. The route is straightforward outside of peak tourist season, though the stretch of US-41 through North Port and into Venice can slow significantly during winter months when seasonal residents return. For properties on the barrier island itself, the Hatchett Creek and Circus bridges are the primary crossings, and post-storm traffic on those bridges can add time. We account for that in dispatch planning and communicate estimated arrival honestly rather than quoting a number we cannot guarantee under storm conditions.
+DRYCOR RESTORE is based in the Tampa Bay area, and the primary route to Venice runs south on I-75 to Exit 193, then west on Jacaranda Boulevard into the city. The route is straightforward outside of peak tourist season, though the stretch of US-41 through North Port and into Venice can slow significantly during winter months when seasonal residents return. For properties on the barrier island itself, the Hatchett Creek and Circus bridges are the primary crossings, and post-storm traffic on those bridges can add time. We account for that in dispatch planning and communicate estimated arrival honestly rather than quoting a number we cannot guarantee under storm conditions.
 
 ## Venice Insurance and HOA Coordination
 

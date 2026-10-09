@@ -38,7 +38,7 @@ Because Sarasota County can experience permit backlogs following a widespread st
 
 ## Reaching Nokomis from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 and dispatches from Thonotosassa. The primary routing to Nokomis runs south via I-75 to Exit 195, then west on Laurel Road into the heart of the community. Depending on traffic and storm conditions that may affect I-75 through the Sarasota County interchange, crews may route via US-41 (Tamiami Trail) as an alternate corridor. Because Nokomis sits between the Intracoastal and the Gulf, access to waterfront properties can require coordination around bridge openings on the Intracoastal crossings, something we account for when staging equipment for jobs near the water.
+DRYCOR RESTORE operates 24/7 and dispatches from its Tampa Bay base. The primary routing to Nokomis runs south via I-75 to Exit 195, then west on Laurel Road into the heart of the community. Depending on traffic and storm conditions that may affect I-75 through the Sarasota County interchange, crews may route via US-41 (Tamiami Trail) as an alternate corridor. Because Nokomis sits between the Intracoastal and the Gulf, access to waterfront properties can require coordination around bridge openings on the Intracoastal crossings, something we account for when staging equipment for jobs near the water.
 
 ## Nokomis Insurance Coordination After a Storm
 

@@ -38,7 +38,7 @@ For planned remodels, including kitchen and bathroom renovations, we develop sco
 
 ## Reaching Anna Maria from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa and serves Anna Maria Island around the clock. The primary route runs west on I-4 and connects through the Bradenton area before crossing onto the island via the Manatee Avenue corridor. Travel time varies with bridge traffic, particularly during peak season when the island's population swells, so we account for that in scheduling and communicate arrival windows clearly. For urgent post-damage situations, we're reachable at (813) 829-1091 at any hour.
+DRYCOR RESTORE is based in the Tampa Bay area and serves Anna Maria Island around the clock. The primary route runs west on I-4 and connects through the Bradenton area before crossing onto the island via the Manatee Avenue corridor. Travel time varies with bridge traffic, particularly during peak season when the island's population swells, so we account for that in scheduling and communicate arrival windows clearly. For urgent post-damage situations, we're reachable at (813) 829-1091 at any hour.
 
 ## Local Note: What Island Contractors Learn About Older Beach Cottages
 

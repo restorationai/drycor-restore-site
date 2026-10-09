@@ -40,7 +40,7 @@ Throughout the process, the IICRC-certified crew documents drying progress and t
 
 ## Reaching Tarpon Springs from Thonotosassa
 
-The drive from DRYCOR RESTORE's Thonotosassa location to Tarpon Springs runs west on SR-54 to US-19, then south into Pinellas County, a route that avoids the worst of the Tampa metro congestion for most of the day. Because the team operates around the clock, calls that come in during off-peak hours often reach the city faster than midday estimates would suggest. The coastal neighborhoods closest to the bayou and the downtown sponge docks area are straightforward to access from US-19 north; the residential streets west of Pinellas Avenue add a few minutes but present no unusual staging challenges for a service vehicle and equipment trailer.
+The drive from DRYCOR RESTORE's Tampa Bay location to Tarpon Springs runs west on SR-54 to US-19, then south into Pinellas County, a route that avoids the worst of the Tampa metro congestion for most of the day. Because the team operates around the clock, calls that come in during off-peak hours often reach the city faster than midday estimates would suggest. The coastal neighborhoods closest to the bayou and the downtown sponge docks area are straightforward to access from US-19 north; the residential streets west of Pinellas Avenue add a few minutes but present no unusual staging challenges for a service vehicle and equipment trailer.
 
 ## Tarpon Springs Insurance Coordination for Contents Claims
 

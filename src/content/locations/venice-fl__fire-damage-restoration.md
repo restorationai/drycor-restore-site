@@ -43,7 +43,7 @@ Content pack-out, cleaning, and storage are coordinated so that salvageable belo
 
 ## Reaching Venice from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa and responds to fire damage calls across the greater Tampa Bay and Sarasota region around the clock. Venice is reached via I-75 south to the Jacaranda Boulevard or Laurel Road exits, depending on which part of the city is affected. Because Venice extends across both the mainland and the island connected by bridges, address location matters for routing. A property on the island near the historic downtown core has different access considerations than one in a newer development on the mainland side. When you call, giving the cross street or neighborhood helps the crew plan the fastest approach.
+DRYCOR RESTORE operates out of its Tampa Bay base and responds to fire damage calls across the greater Tampa Bay and Sarasota region around the clock. Venice is reached via I-75 south to the Jacaranda Boulevard or Laurel Road exits, depending on which part of the city is affected. Because Venice extends across both the mainland and the island connected by bridges, address location matters for routing. A property on the island near the historic downtown core has different access considerations than one in a newer development on the mainland side. When you call, giving the cross street or neighborhood helps the crew plan the fastest approach.
 
 ## Venice Insurance and HOA Coordination
 

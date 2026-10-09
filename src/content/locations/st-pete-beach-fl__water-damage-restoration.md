@@ -38,7 +38,7 @@ For homes with terrazzo floors or original plaster-over-block walls, drying time
 
 ## Reaching St. Pete Beach from Thonotosassa
 
-DRYCOR RESTORE operates 24/7, and the route from the Thonotosassa area to St. Pete Beach runs west on I-4 to I-275 south, crossing the Howard Frankland Bridge into Pinellas County and continuing south toward the beaches. Because St. Pete Beach is accessed primarily via Gulf Boulevard and the Pinellas Bayway, traffic patterns and bridge access can affect staging, particularly during peak tourist season when Gulf Boulevard sees heavy congestion. When you call, the dispatch team accounts for current conditions and routes the nearest available crew. If you are on the bay-side streets near the Corey Avenue corridor or out toward the quieter residential blocks closer to Pass-a-Grille, let the dispatcher know your cross street so the crew can plan the most direct approach.
+DRYCOR RESTORE operates 24/7, and the route from its Tampa Bay base to St. Pete Beach runs west on I-4 to I-275 south, crossing the Howard Frankland Bridge into Pinellas County and continuing south toward the beaches. Because St. Pete Beach is accessed primarily via Gulf Boulevard and the Pinellas Bayway, traffic patterns and bridge access can affect staging, particularly during peak tourist season when Gulf Boulevard sees heavy congestion. When you call, the dispatch team accounts for current conditions and routes the nearest available crew. If you are on the bay-side streets near the Corey Avenue corridor or out toward the quieter residential blocks closer to Pass-a-Grille, let the dispatcher know your cross street so the crew can plan the most direct approach.
 
 ## St. Pete Beach Insurance Coordination
 

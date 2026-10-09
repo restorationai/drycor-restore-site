@@ -42,7 +42,7 @@ DryCor Restore holds a Florida contractor license (#CBC1253966) and carries the 
 
 ## Reaching Parrish from Thonotosassa
 
-DryCor Restore operates out of Thonotosassa, and Parrish is a straightforward run via I-75 south to the Moccasin Wallow Road or Parrish Road exits depending on which part of the community the project is in. The team is available around the clock, so initial assessments for urgent post-damage situations aren't held to business-hours scheduling.
+DryCor Restore operates out of its Tampa Bay base, and Parrish is a straightforward run via I-75 south to the Moccasin Wallow Road or Parrish Road exits depending on which part of the community the project is in. The team is available around the clock, so initial assessments for urgent post-damage situations aren't held to business-hours scheduling.
 
 For active renovation projects, the crew routes are planned around the specific subdivision or road access point. Some of the newer communities in the Parrish area have single-entry access during certain hours, and coordinating material deliveries and subcontractor staging around those constraints is part of how projects stay on schedule.
 

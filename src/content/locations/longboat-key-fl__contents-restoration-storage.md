@@ -42,7 +42,7 @@ Once the structure is cleared and the home is ready for reoccupancy, contents ar
 
 ## Reaching Longboat Key from Thonotosassa
 
-DryCor Restore operates around the clock and responds to Longboat Key losses at any hour. From the Thonotosassa headquarters, the typical route runs west on I-4, south on I-275, and across the Sunshine Skyway corridor toward the Sarasota County side of the island, or via US-41 through Bradenton depending on traffic and time of day. The island's single-access geography means coordinating arrival with any active emergency services on the bridge approaches, which the team accounts for when staging the initial response.
+DryCor Restore operates around the clock and responds to Longboat Key losses at any hour. From the Tampa Bay headquarters, the typical route runs west on I-4, south on I-275, and across the Sunshine Skyway corridor toward the Sarasota County side of the island, or via US-41 through Bradenton depending on traffic and time of day. The island's single-access geography means coordinating arrival with any active emergency services on the bridge approaches, which the team accounts for when staging the initial response.
 
 ## Insurance and HOA Coordination on Longboat Key
 

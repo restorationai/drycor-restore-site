@@ -30,9 +30,9 @@ Most homes in this part of Hillsborough County were built on slab foundations, w
 
 The first call is about stopping the loss, not diagnosing every detail over the phone. We talk you through shutting off the main if you haven't already, then our crew arrives to isolate the source, whether that's a slab leak, a burst supply line in an attic (common after a hard freeze snap), or a failed drain stack. From there we extract standing water, assess which materials are salvageable, and document everything with photos before any demolition starts, since that documentation is what your insurance adjuster will want to see. Drying follows IICRC S500 guidelines, and our WRT-trained technicians know that Florida's ambient humidity means air movers and dehumidifiers often need to run longer here than they would in a drier climate.
 
-## Reaching Valrico from Thonotosassa
+## Reaching Valrico From Our Tampa Bay Base
 
-Our base in Thonotosassa sits a short drive from Valrico along State Road 60 and the connecting county roads, which keeps us close to both the established neighborhoods near the town center and the newer subdivisions pushing east toward Lithia. We don't publish a fixed response window because every call is different, but being based this close means we're not routing a crew in from Tampa or Brandon when your pipe lets go.
+Our base in the Tampa Bay area sits a short drive from Valrico along State Road 60 and the connecting county roads, which keeps us close to both the established neighborhoods near the town center and the newer subdivisions pushing east toward Lithia. We don't publish a fixed response window because every call is different, but being based this close means we're not routing a crew in from Tampa or Brandon when your pipe lets go.
 
 ## Valrico Insurance & HOA Coordination
 

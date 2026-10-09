@@ -40,7 +40,7 @@ For larger remodels, we use a written change-order process so scope adjustments 
 
 ## Reaching Haines City from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and Haines City is a regular part of our service area. The most direct route runs south on US-92 through Plant City and into Polk County, typically putting a crew on-site without the congestion that affects I-4 travel during peak hours. For projects on the south side of the city near Lake Marion Creek, we route through Davenport to avoid the US-27 and SR-544 intersection backup that builds up during tourist-season traffic. We're available around the clock, so scheduling a project consultation or responding to an urgent post-damage situation doesn't depend on catching us during a narrow window.
+DRYCOR RESTORE is based in the Tampa Bay area, and Haines City is a regular part of our service area. The most direct route runs south on US-92 through Plant City and into Polk County, typically putting a crew on-site without the congestion that affects I-4 travel during peak hours. For projects on the south side of the city near Lake Marion Creek, we route through Davenport to avoid the US-27 and SR-544 intersection backup that builds up during tourist-season traffic. We're available around the clock, so scheduling a project consultation or responding to an urgent post-damage situation doesn't depend on catching us during a narrow window.
 
 ## Local Note
 

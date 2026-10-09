@@ -38,7 +38,7 @@ Because DRYCOR RESTORE also holds IICRC certifications in water damage restorati
 
 ## Reaching Polk City from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and Polk City is a straightforward run west on I-4 through the Lakeland corridor. For urgent post-damage situations, that route stays accessible around the clock, which matters when a burst pipe or storm breach cannot wait for a scheduled estimate. For planned renovation projects, the same route means site visits, material deliveries, and crew mobilization are all manageable without the logistical overhead of a distant contractor.
+DRYCOR RESTORE is based in the Tampa Bay area, and Polk City is a straightforward run west on I-4 through the Lakeland corridor. For urgent post-damage situations, that route stays accessible around the clock, which matters when a burst pipe or storm breach cannot wait for a scheduled estimate. For planned renovation projects, the same route means site visits, material deliveries, and crew mobilization are all manageable without the logistical overhead of a distant contractor.
 
 Polk City's relatively compact footprint means that once a crew is in the area, moving between job sites or making material runs to the Lakeland supply corridor is efficient. That matters for project pacing, especially on phased remodels where work happens in stages.
 

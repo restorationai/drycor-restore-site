@@ -38,7 +38,7 @@ When your home is cleared and dried to IICRC standards, contents are returned in
 
 ## Reaching Anna Maria from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa and dispatches 24/7. Reaching Anna Maria from the mainland means crossing onto the island via Manatee Avenue (SR 64) or Cortez Road, then traveling the length of the island on Gulf Drive or Marina Drive depending on the address. Because Anna Maria Island has limited road access and a single main corridor, response logistics matter. We account for bridge traffic and seasonal congestion when dispatching, and we communicate arrival windows clearly so you are not left waiting without information during an already stressful situation.
+DRYCOR RESTORE operates out of its Tampa Bay base and dispatches 24/7. Reaching Anna Maria from the mainland means crossing onto the island via Manatee Avenue (SR 64) or Cortez Road, then traveling the length of the island on Gulf Drive or Marina Drive depending on the address. Because Anna Maria Island has limited road access and a single main corridor, response logistics matter. We account for bridge traffic and seasonal congestion when dispatching, and we communicate arrival windows clearly so you are not left waiting without information during an already stressful situation.
 
 ## Insurance Coordination for Anna Maria Losses
 

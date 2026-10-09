@@ -38,7 +38,7 @@ Affected porous materials, drywall, insulation, carpet backing, are removed and 
 
 ## Reaching North Port from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa and dispatches crews to North Port 24 hours a day, seven days a week. The primary route runs south on I-75 to the North Port exits, with service extending across the city's broad footprint from the commercial corridors near US-41 to the quieter residential sections further west. Because North Port covers a large geographic area, callers should let the dispatcher know their general location so the crew can stage equipment and plan the most direct approach. Response is available at any hour, so there is no need to wait until morning to make the call.
+DRYCOR RESTORE operates out of its Tampa Bay base and dispatches crews to North Port 24 hours a day, seven days a week. The primary route runs south on I-75 to the North Port exits, with service extending across the city's broad footprint from the commercial corridors near US-41 to the quieter residential sections further west. Because North Port covers a large geographic area, callers should let the dispatcher know their general location so the crew can stage equipment and plan the most direct approach. Response is available at any hour, so there is no need to wait until morning to make the call.
 
 ## North Port Insurance and HOA Coordination
 

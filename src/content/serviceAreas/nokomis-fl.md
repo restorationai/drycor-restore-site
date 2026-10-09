@@ -49,7 +49,7 @@ When mitigation uncovers structural damage, rotted framing, or materials that mu
 
 ## Coverage and how fast we can get there
 
-From DRYCOR RESTORE's Thonotosassa headquarters, Nokomis is roughly 65 to 70 miles south via I-75. Because the company operates 24/7, a crew can be dispatched at any hour, day or night. Nokomis proper, the areas along Albee Road near the Intracoastal, and properties closer to Nokomis Beach and the North Jetty are all reachable without navigating the heavier congestion that builds around Sarasota's downtown corridor during peak hours. Call (813) 829-1091 and a dispatcher will give you a realistic arrival window based on current conditions.
+From DRYCOR RESTORE's Tampa Bay headquarters, Nokomis is roughly 65 to 70 miles south via I-75. Because the company operates 24/7, a crew can be dispatched at any hour, day or night. Nokomis proper, the areas along Albee Road near the Intracoastal, and properties closer to Nokomis Beach and the North Jetty are all reachable without navigating the heavier congestion that builds around Sarasota's downtown corridor during peak hours. Call (813) 829-1091 and a dispatcher will give you a realistic arrival window based on current conditions.
 
 ## Building stock, site conditions, and permits in Nokomis
 

@@ -38,7 +38,7 @@ Kitchen and bathroom remodels follow a trade-sequencing plan: rough-in plumbing 
 
 ## Reaching North Port from Thonotosassa
 
-Drycor Restore is based in Thonotosassa and serves the North Port area, with the primary route running south on I-75 to the North Port exits. For project consultations and scheduled work, the team coordinates arrival windows that work around the I-75 corridor traffic patterns that build up on weekday afternoons between Tampa and Sarasota. Because Drycor Restore operates 24/7, urgent calls related to post-damage rebuild assessments can be handled outside business hours without waiting until the next morning.
+Drycor Restore is based in the Tampa Bay area and serves the North Port area, with the primary route running south on I-75 to the North Port exits. For project consultations and scheduled work, the team coordinates arrival windows that work around the I-75 corridor traffic patterns that build up on weekday afternoons between Tampa and Sarasota. Because Drycor Restore operates 24/7, urgent calls related to post-damage rebuild assessments can be handled outside business hours without waiting until the next morning.
 
 ## Local Note: Slab Movement and Finish Material Selection
 

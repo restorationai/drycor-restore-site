@@ -38,7 +38,7 @@ For kitchen and bathroom remodels specifically, we pay close attention to ventil
 
 ## Reaching Holiday from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa, and the most direct route to Holiday runs west on SR-54 through Land O' Lakes and into the US-19 corridor. Depending on traffic near the New Port Richey interchange, the drive typically puts our crews in Holiday without significant delay. We are available around the clock, which matters on post-damage projects where a temporary repair or board-up may need to happen before the formal rebuild scope is even written.
+DRYCOR RESTORE operates out of its Tampa Bay base, and the most direct route to Holiday runs west on SR-54 through Land O' Lakes and into the US-19 corridor. Depending on traffic near the New Port Richey interchange, the drive typically puts our crews in Holiday without significant delay. We are available around the clock, which matters on post-damage projects where a temporary repair or board-up may need to happen before the formal rebuild scope is even written.
 
 For projects on the western edge of Holiday near the Gulf frontage, we factor in the additional exposure those properties have to salt air and storm-driven moisture when specifying materials. Stainless fasteners, moisture-resistant drywall, and marine-grade finishes are not overkill in that zone; they are the baseline.
 

@@ -32,7 +32,7 @@ We start with containment, because Gulf Coast humidity means spores travel furth
 
 ## Reaching Destin from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and we schedule Destin mold jobs along the I-10 corridor into Okaloosa County. Because mold remediation is rarely a same-hour emergency the way a burst pipe is, we're able to plan the visit, confirm containment requirements with any property manager or HOA ahead of time, and arrive with the right equipment already loaded rather than guessing on-site. For condo associations and rental management companies, that planning step tends to matter more than speed, since access, parking, and building notice requirements vary by property.
+DRYCOR RESTORE is based in the Tampa Bay area, and we schedule Destin mold jobs along the I-10 corridor into Okaloosa County. Because mold remediation is rarely a same-hour emergency the way a burst pipe is, we're able to plan the visit, confirm containment requirements with any property manager or HOA ahead of time, and arrive with the right equipment already loaded rather than guessing on-site. For condo associations and rental management companies, that planning step tends to matter more than speed, since access, parking, and building notice requirements vary by property.
 
 ## Destin Insurance & HOA Coordination
 

@@ -36,7 +36,7 @@ Once extraction is complete, the work shifts to structural drying. In Siesta Key
 
 For homes with older plaster walls or wood-framed interior partitions common in mid-century island cottages, drying timelines run longer than they do in newer drywall construction. Plaster releases moisture slowly and can read dry at the surface while the lath behind it remains saturated. We account for that in our monitoring schedule rather than closing out a job early.
 
-## Reaching Siesta Key from Thonotosassa
+## Reaching Siesta Key From Our Tampa Bay Base
 
 Siesta Key is accessible from the mainland via the Stickney Point Road bridge or the Siesta Drive bridge, both of which connect to U.S. 41 and then to I-75. Our dispatch team monitors bridge and causeway conditions, particularly during storm events when traffic backs up on both approaches, and routes crews accordingly. Because the island has a single road network with limited through-routes, we communicate an estimated arrival window when you call so you are not waiting without information. Calls are answered around the clock, every day of the year.
 

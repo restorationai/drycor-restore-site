@@ -38,7 +38,7 @@ Inspections are scheduled proactively rather than reactively. Barrier-island pro
 
 ## Reaching St. Pete Beach from Thonotosassa
 
-Drycor Restore operates 24/7 out of Thonotosassa, and St. Pete Beach is a regular part of the service area. The standard route runs west on I-4, south on I-275, and across the Howard Frankland Bridge, then down through St. Petersburg to the Pinellas Bayway onto the island. Traffic on that corridor can vary significantly depending on time of day and season, which is worth factoring in when scheduling material deliveries or inspection windows. The team accounts for that variability when setting project timelines so that a delay on the causeway does not cascade into a missed inspection.
+Drycor Restore operates 24/7 out of its Tampa Bay base, and St. Pete Beach is a regular part of the service area. The standard route runs west on I-4, south on I-275, and across the Howard Frankland Bridge, then down through St. Petersburg to the Pinellas Bayway onto the island. Traffic on that corridor can vary significantly depending on time of day and season, which is worth factoring in when scheduling material deliveries or inspection windows. The team accounts for that variability when setting project timelines so that a delay on the causeway does not cascade into a missed inspection.
 
 ## St. Pete Beach Permitting and HOA Coordination
 

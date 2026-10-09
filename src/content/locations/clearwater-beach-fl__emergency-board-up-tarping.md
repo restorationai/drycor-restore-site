@@ -40,7 +40,7 @@ If the property has an HOA or is part of a managed condominium association, the 
 
 ## Reaching Clearwater Beach from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, east of Tampa, and routes to Clearwater Beach via I-275 South to the Courtney Campbell Causeway or SR-60 West depending on traffic and time of day. The causeway route deposits crews directly onto the island, which matters when a loss is on the Gulf-facing side and every minute of open exposure counts. Because Clearwater Beach is a barrier island with limited ingress points, the crew coordinates with you on the best access route and any bridge or drawbridge timing that could affect arrival, particularly during peak season when Causeway Boulevard and the Memorial Causeway see heavy tourist traffic.
+DRYCOR RESTORE is based in the Tampa Bay area, east of Tampa, and routes to Clearwater Beach via I-275 South to the Courtney Campbell Causeway or SR-60 West depending on traffic and time of day. The causeway route deposits crews directly onto the island, which matters when a loss is on the Gulf-facing side and every minute of open exposure counts. Because Clearwater Beach is a barrier island with limited ingress points, the crew coordinates with you on the best access route and any bridge or drawbridge timing that could affect arrival, particularly during peak season when Causeway Boulevard and the Memorial Causeway see heavy tourist traffic.
 
 ## Clearwater Beach Insurance and HOA Coordination
 

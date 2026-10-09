@@ -38,7 +38,7 @@ Once your property is dry, repaired, and cleared for re-occupancy, contents are 
 
 ## Reaching St. Petersburg from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa and responds to St. Petersburg around the clock. The primary route runs west on I-4 to I-275 South, crossing the Howard Frankland Bridge into Pinellas County and reaching the city's core in roughly 45 to 55 minutes under normal conditions, though bridge traffic during peak hours or storm-related closures can extend that window. For properties on the southern end of the peninsula, the Sunshine Skyway corridor adds a different routing option. Because St. Petersburg is a peninsula, we plan routes proactively when a major weather event is active, so a crew isn't caught on a causeway when surge closures happen.
+DRYCOR RESTORE operates out of its Tampa Bay base and responds to St. Petersburg around the clock. The primary route runs west on I-4 to I-275 South, crossing the Howard Frankland Bridge into Pinellas County and reaching the city's core in roughly 45 to 55 minutes under normal conditions, though bridge traffic during peak hours or storm-related closures can extend that window. For properties on the southern end of the peninsula, the Sunshine Skyway corridor adds a different routing option. Because St. Petersburg is a peninsula, we plan routes proactively when a major weather event is active, so a crew isn't caught on a causeway when surge closures happen.
 
 ## St. Petersburg Insurance Coordination for Contents Claims
 

@@ -44,7 +44,7 @@ Kitchen remodels and bathroom remodels in Venice often involve rerouting plumbin
 
 ## Reaching Venice from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa, and the drive to Venice typically routes south on I-75 to the Jacaranda Boulevard or Laurel Road exits, depending on whether the project is on the island or the mainland side of the Intracoastal. For post-storm or post-flood rebuild consultations, the team is available around the clock, any day of the week, to assess scope and get a project moving before further damage accumulates.
+DRYCOR RESTORE operates out of its Tampa Bay base, and the drive to Venice typically routes south on I-75 to the Jacaranda Boulevard or Laurel Road exits, depending on whether the project is on the island or the mainland side of the Intracoastal. For post-storm or post-flood rebuild consultations, the team is available around the clock, any day of the week, to assess scope and get a project moving before further damage accumulates.
 
 ## Local Note: What Venice's Coastal Construction Zone Means for Your Remodel
 

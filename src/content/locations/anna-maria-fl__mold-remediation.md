@@ -40,7 +40,7 @@ Drying and dehumidification follow removal. On an island where outdoor relative 
 
 ## Reaching Anna Maria from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and the primary route to Anna Maria Island runs west on I-4, south on US-19 or US-41, and then across the Manatee Avenue causeway into Bradenton before crossing the bridge onto the island. The island itself is small, so once a crew is on Anna Maria, travel time between the north end near the city pier area and the south end near the bridge is minimal. Because DRYCOR RESTORE operates 24/7, a call at any hour reaches a live dispatcher who can coordinate crew mobilization toward the island without waiting for a next-business-day callback.
+DRYCOR RESTORE is based in the Tampa Bay area, and the primary route to Anna Maria Island runs west on I-4, south on US-19 or US-41, and then across the Manatee Avenue causeway into Bradenton before crossing the bridge onto the island. The island itself is small, so once a crew is on Anna Maria, travel time between the north end near the city pier area and the south end near the bridge is minimal. Because DRYCOR RESTORE operates 24/7, a call at any hour reaches a live dispatcher who can coordinate crew mobilization toward the island without waiting for a next-business-day callback.
 
 ## Local Note
 

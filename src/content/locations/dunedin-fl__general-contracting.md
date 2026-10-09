@@ -38,7 +38,7 @@ On the finish side, material selections account for the climate. Solid hardwood 
 
 ## Reaching Dunedin from Thonotosassa
 
-The drive from DRYCOR RESTORE's Thonotosassa base typically runs west on SR-580 through Oldsmar and into the Dunedin corridor, or via US-19 depending on traffic patterns. Dunedin's grid is compact and most residential neighborhoods are accessible without navigating the beach-traffic congestion that backs up closer to Honeymoon Island on weekends. For project consultations and scheduled site visits, we coordinate timing to keep travel efficient. Because we operate 24/7, urgent calls, a burst pipe that transitions immediately into a rebuild conversation, for example, don't wait for a business-hours window.
+The drive from DRYCOR RESTORE's Tampa Bay base typically runs west on SR-580 through Oldsmar and into the Dunedin corridor, or via US-19 depending on traffic patterns. Dunedin's grid is compact and most residential neighborhoods are accessible without navigating the beach-traffic congestion that backs up closer to Honeymoon Island on weekends. For project consultations and scheduled site visits, we coordinate timing to keep travel efficient. Because we operate 24/7, urgent calls, a burst pipe that transitions immediately into a rebuild conversation, for example, don't wait for a business-hours window.
 
 ## Local Note
 

@@ -38,7 +38,7 @@ For homeowners rebuilding after a covered loss, we document the scope in the for
 
 ## Reaching Temple Terrace from Thonotosassa
 
-Drycor Restore's home base in Thonotosassa puts Temple Terrace well within our regular service area, the two communities share the northeastern edge of Hillsborough County, and the drive along Morris Bridge Road or through the New Tampa corridor is straightforward in either direction. For scheduled renovation projects, we coordinate site visits and crew arrivals around your availability. For post-damage situations where reconstruction needs to begin quickly, our 24/7 availability means the assessment call can happen any time and work can be scoped without waiting for a business-hours window.
+Drycor Restore's home base in the Tampa Bay area puts Temple Terrace well within our regular service area, the two communities share the northeastern edge of Hillsborough County, and the drive along Morris Bridge Road or through the New Tampa corridor is straightforward in either direction. For scheduled renovation projects, we coordinate site visits and crew arrivals around your availability. For post-damage situations where reconstruction needs to begin quickly, our 24/7 availability means the assessment call can happen any time and work can be scoped without waiting for a business-hours window.
 
 ## Temple Terrace HOA and Permit Coordination
 

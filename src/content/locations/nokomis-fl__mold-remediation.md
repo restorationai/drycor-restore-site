@@ -38,7 +38,7 @@ Our team holds NAERMC mold certification and the firm is IICRC certified, which 
 
 ## Reaching Nokomis from Thonotosassa
 
-DRYCOR RESTORE operates around the clock, and the drive from our Thonotosassa headquarters to Nokomis runs primarily along I-75 South to the Laurel Road or Jacaranda Boulevard exits, depending on exactly where in the Nokomis area the property sits. We dispatch crews at any hour because mold remediation calls often surface after a weekend of noticing a smell or discovering water damage during a home inspection, not during a Monday morning business window.
+DRYCOR RESTORE operates around the clock, and the drive from our Tampa Bay headquarters to Nokomis runs primarily along I-75 South to the Laurel Road or Jacaranda Boulevard exits, depending on exactly where in the Nokomis area the property sits. We dispatch crews at any hour because mold remediation calls often surface after a weekend of noticing a smell or discovering water damage during a home inspection, not during a Monday morning business window.
 
 ## Nokomis Insurance and HOA Coordination
 

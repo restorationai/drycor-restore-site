@@ -32,7 +32,7 @@ We start with board-up and tarping to secure the structure, since a fire-damaged
 
 ## Reaching Pensacola from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and our crews run the I-10 corridor west into Escambia County for fire damage calls across Pensacola and the surrounding Gulf Coast communities. We dispatch as soon as a call comes in and coordinate timing with homeowners and property managers so board-up and tarping happen before the next line of weather moves through, which matters more here than in most inland markets given how quickly afternoon storms roll in off the Gulf.
+DRYCOR RESTORE is based in the Tampa Bay area, and our crews run the I-10 corridor west into Escambia County for fire damage calls across Pensacola and the surrounding Gulf Coast communities. We dispatch as soon as a call comes in and coordinate timing with homeowners and property managers so board-up and tarping happen before the next line of weather moves through, which matters more here than in most inland markets given how quickly afternoon storms roll in off the Gulf.
 
 ## Pensacola Insurance & HOA Coordination
 

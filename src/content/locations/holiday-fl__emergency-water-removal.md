@@ -36,7 +36,7 @@ Extraction comes next. Truck-mounted and portable extraction units pull standing
 
 ## Reaching Holiday from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa and serves Holiday around the clock. The practical route runs west on SR-54 to US-19, then north into Holiday. US-19 is the main commercial corridor through town, and most residential streets branch off it toward the Gulf. Because Holiday's grid is relatively compact, crews can reach addresses near the water as well as neighborhoods further inland without significant delay. If you call at any hour, dispatch coordinates the closest available crew rather than routing everyone from a single point.
+DRYCOR RESTORE operates out of its Tampa Bay base and serves Holiday around the clock. The practical route runs west on SR-54 to US-19, then north into Holiday. US-19 is the main commercial corridor through town, and most residential streets branch off it toward the Gulf. Because Holiday's grid is relatively compact, crews can reach addresses near the water as well as neighborhoods further inland without significant delay. If you call at any hour, dispatch coordinates the closest available crew rather than routing everyone from a single point.
 
 ## Holiday Insurance and Documentation
 

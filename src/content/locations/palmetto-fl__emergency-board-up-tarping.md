@@ -40,7 +40,7 @@ Every job is photographed before, during, and after installation. That photo set
 
 ## Reaching Palmetto from Thonotosassa
 
-DRYCOR RESTORE is headquartered in Thonotosassa, which puts Palmetto within practical reach via US-301 South through Riverview and into Manatee County. The route is a straightforward corridor without the interchange congestion that can slow response on I-75 during peak hours. For properties on the western side of Palmetto closer to Terra Ceia Bay or along US-19, crews can route through Bradenton to approach from the south. Because we operate around the clock, dispatch isn't waiting for a business-hours window, a call at 2 a.m. after a storm moves through gets the same response as a midday call.
+DRYCOR RESTORE is headquartered in the Tampa Bay area, which puts Palmetto within practical reach via US-301 South through Riverview and into Manatee County. The route is a straightforward corridor without the interchange congestion that can slow response on I-75 during peak hours. For properties on the western side of Palmetto closer to Terra Ceia Bay or along US-19, crews can route through Bradenton to approach from the south. Because we operate around the clock, dispatch isn't waiting for a business-hours window, a call at 2 a.m. after a storm moves through gets the same response as a midday call.
 
 ## Insurance and Documentation in Palmetto
 

@@ -40,7 +40,7 @@ Our team holds IICRC certification and is EPA Lead-Safe certified, which matters
 
 ## Reaching Holiday from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa, and Holiday is reachable via US-19 north through New Port Richey or via SR-54 west connecting to US-19. Because Holiday sits in the western portion of Pasco County close to the Pinellas County line, the routing is straightforward from our base. We are available around the clock, so a call at any hour reaches a live team member who can begin coordinating a response.
+DRYCOR RESTORE operates out of its Tampa Bay base, and Holiday is reachable via US-19 north through New Port Richey or via SR-54 west connecting to US-19. Because Holiday sits in the western portion of Pasco County close to the Pinellas County line, the routing is straightforward from our base. We are available around the clock, so a call at any hour reaches a live team member who can begin coordinating a response.
 
 ## Holiday Insurance Coordination
 

@@ -40,7 +40,7 @@ For post-damage rebuilds, the scope often integrates directly with the remediati
 
 ## Reaching Tarpon Springs from Thonotosassa
 
-DRYCOR RESTORE is headquartered in Thonotosassa, and the route to Tarpon Springs runs west across the Tampa metro via SR-54 and US-19, or through the Veterans Expressway corridor depending on traffic. The team is available around the clock, so whether a post-storm assessment or an urgent project consultation is needed on a weekend or after business hours, reaching Tarpon Springs is part of the regular service area.
+DRYCOR RESTORE is headquartered in the Tampa Bay area, and the route to Tarpon Springs runs west across the Tampa metro via SR-54 and US-19, or through the Veterans Expressway corridor depending on traffic. The team is available around the clock, so whether a post-storm assessment or an urgent project consultation is needed on a weekend or after business hours, reaching Tarpon Springs is part of the regular service area.
 
 For properties along the Anclote River corridor or closer to the Sponge Docks area, access routing can vary based on bridge traffic and seasonal congestion near the waterfront. Scheduling a site visit with that in mind keeps things efficient.
 

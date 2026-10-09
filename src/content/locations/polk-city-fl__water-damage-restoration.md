@@ -36,9 +36,9 @@ Extraction comes first. High-capacity truck-mounted and portable extractors pull
 
 Drying progress is monitored with daily readings logged against the psychrometric targets established by the IICRC S500 standard. We don't pull equipment based on a calendar. We pull it when the readings confirm the structure has returned to acceptable moisture levels.
 
-## Reaching Polk City from Thonotosassa
+## Reaching Polk City From Our Tampa Bay Base
 
-From DRYCOR RESTORE's base in Thonotosassa, the most direct route to Polk City runs west on SR-92 to I-4, then southwest before cutting south on US-98 into Polk City proper. Under normal traffic conditions the drive is straightforward, and because we operate around the clock, we're not fighting Tampa metro congestion when most water emergencies actually happen, which is overnight and on weekends.
+From DRYCOR RESTORE's base in the Tampa Bay area, the most direct route to Polk City runs west on SR-92 to I-4, then southwest before cutting south on US-98 into Polk City proper. Under normal traffic conditions the drive is straightforward, and because we operate around the clock, we're not fighting Tampa metro congestion when most water emergencies actually happen, which is overnight and on weekends.
 
 For properties on the western side of town near the lake frontage roads, we stage equipment access from the main road to avoid soft shoulder conditions that are common after heavy rain events in this part of the county.
 

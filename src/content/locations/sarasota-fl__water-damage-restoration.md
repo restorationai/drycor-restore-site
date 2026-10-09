@@ -38,7 +38,7 @@ For homes with older plumbing, particularly galvanized supply lines still found 
 
 ## Reaching Sarasota from Thonotosassa
 
-Drycor Restore is based in Thonotosassa, and the primary route into Sarasota runs south on I-75 to the Fruitville Road or University Parkway exits, depending on where in the city the job is located. Coastal areas and barrier island communities involve a different approach, as bridge access and seasonal traffic on the Ringling Causeway and Stickney Point Road can affect routing. Because hours are 24/7, overnight and early-morning calls avoid the congestion that builds on US-41 and Tamiami Trail during peak hours, which means faster on-site arrival for late-night emergencies.
+Drycor Restore is based in the Tampa Bay area, and the primary route into Sarasota runs south on I-75 to the Fruitville Road or University Parkway exits, depending on where in the city the job is located. Coastal areas and barrier island communities involve a different approach, as bridge access and seasonal traffic on the Ringling Causeway and Stickney Point Road can affect routing. Because hours are 24/7, overnight and early-morning calls avoid the congestion that builds on US-41 and Tamiami Trail during peak hours, which means faster on-site arrival for late-night emergencies.
 
 ## Sarasota Insurance and HOA Coordination
 

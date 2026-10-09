@@ -38,7 +38,7 @@ Most Tampa homeowners' policies cover smoke and fire damage, but documentation m
 
 ## Reaching Tampa from Thonotosassa
 
-Our crews run out of Thonotosassa, just northeast of the city, and reach Tampa neighborhoods primarily via I-75 and the Fowler Avenue corridor. That proximity matters after a fire: smoke odor and soot residue get worse the longer they sit, particularly in homes still running air conditioning that keeps recirculating particles through the ductwork.
+Our crews run out of our Tampa Bay base, just northeast of the city, and reach Tampa neighborhoods primarily via I-75 and the Fowler Avenue corridor. That proximity matters after a fire: smoke odor and soot residue get worse the longer they sit, particularly in homes still running air conditioning that keeps recirculating particles through the ductwork.
 
 ## Local note
 

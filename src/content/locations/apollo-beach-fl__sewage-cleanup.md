@@ -46,7 +46,7 @@ Here's how a job typically unfolds:
 
 ## Reaching Apollo Beach from Thonotosassa
 
-DRYCOR RESTORE is headquartered in Thonotosassa, and Apollo Beach is a regular service area for the team. The most direct routing runs south on US-301 to I-75 South, then exits onto Big Bend Road heading west toward Apollo Beach Road, the main corridor into the community. Because Apollo Beach Road is the single primary artery into the peninsula, crews coordinate load and staging before arrival to avoid multiple trips through what can be a congested entry point during morning and evening hours. For properties on the canal streets west of Apollo Beach Road, technicians confirm address access before dispatching the second vehicle, since some of the narrower waterfront streets limit trailer clearance.
+DRYCOR RESTORE is headquartered in the Tampa Bay area, and Apollo Beach is a regular service area for the team. The most direct routing runs south on US-301 to I-75 South, then exits onto Big Bend Road heading west toward Apollo Beach Road, the main corridor into the community. Because Apollo Beach Road is the single primary artery into the peninsula, crews coordinate load and staging before arrival to avoid multiple trips through what can be a congested entry point during morning and evening hours. For properties on the canal streets west of Apollo Beach Road, technicians confirm address access before dispatching the second vehicle, since some of the narrower waterfront streets limit trailer clearance.
 
 ## Apollo Beach Insurance Coordination
 

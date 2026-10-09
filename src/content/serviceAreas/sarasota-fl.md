@@ -49,7 +49,7 @@ Sewage backups, which become more common during heavy rain events when municipal
 
 ## Coverage and how fast we can get there
 
-From our Thonotosassa headquarters, the primary route to Sarasota runs south on I-75, a corridor that puts most of the city within a manageable drive under normal traffic conditions. The distance from Thonotosassa to central Sarasota is roughly 60 miles. We operate 24 hours a day, seven days a week, so a call at 2 a.m. after a pipe bursts reaches a live dispatcher, not a voicemail. Coastal areas, downtown, and the barrier islands are all within our service area. If you are coordinating for a property management portfolio that spans multiple Sarasota ZIP codes, a single call to (813) 829-1091 can initiate response across all affected addresses.
+From our Tampa Bay headquarters, the primary route to Sarasota runs south on I-75, a corridor that puts most of the city within a manageable drive under normal traffic conditions. The distance from our Tampa Bay base to central Sarasota is roughly 60 miles. We operate 24 hours a day, seven days a week, so a call at 2 a.m. after a pipe bursts reaches a live dispatcher, not a voicemail. Coastal areas, downtown, and the barrier islands are all within our service area. If you are coordinating for a property management portfolio that spans multiple Sarasota ZIP codes, a single call to (813) 829-1091 can initiate response across all affected addresses.
 
 ## Building stock, site conditions, and permits in Sarasota
 

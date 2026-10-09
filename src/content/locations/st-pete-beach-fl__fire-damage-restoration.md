@@ -40,7 +40,7 @@ All structural drying and material removal follows IICRC standards, and the crew
 
 ## Reaching St. Pete Beach from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts crews on I-275 South toward the Pinellas Bayway corridor, which is the most direct route onto the barrier island. Because St. Pete Beach is accessible by a limited number of causeways, the crew coordinates equipment staging before arrival so that a single trip brings everything needed for initial board-up, debris containment, and assessment. Calling (813) 829-1091 at any hour connects you directly to dispatch.
+DRYCOR RESTORE's base in the Tampa Bay area puts crews on I-275 South toward the Pinellas Bayway corridor, which is the most direct route onto the barrier island. Because St. Pete Beach is accessible by a limited number of causeways, the crew coordinates equipment staging before arrival so that a single trip brings everything needed for initial board-up, debris containment, and assessment. Calling (813) 829-1091 at any hour connects you directly to dispatch.
 
 ## Insurance and Permitting Coordination
 

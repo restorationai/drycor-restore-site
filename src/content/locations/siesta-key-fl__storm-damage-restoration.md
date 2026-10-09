@@ -38,7 +38,7 @@ Tree damage cleanup is coordinated alongside structural work. Fallen palms and o
 
 ## Reaching Siesta Key from Thonotosassa
 
-DRYCOR RESTORE operates 24/7, and the drive from Thonotosassa to Siesta Key runs south on I-75 to the Fruitville Road or Clark Road corridors into Sarasota, then out across the Stickney Point Road bridge or the Siesta Drive bridge depending on where on the island the job is located. Post-storm, bridge access can be restricted by Sarasota County emergency management, so the crew confirms bridge status before dispatch and coordinates with local authorities when needed. If you are calling in the immediate aftermath of a named storm, let the dispatcher know your specific location on the island so routing can be planned around any access restrictions.
+DRYCOR RESTORE operates 24/7, and the drive from its Tampa Bay base to Siesta Key runs south on I-75 to the Fruitville Road or Clark Road corridors into Sarasota, then out across the Stickney Point Road bridge or the Siesta Drive bridge depending on where on the island the job is located. Post-storm, bridge access can be restricted by Sarasota County emergency management, so the crew confirms bridge status before dispatch and coordinates with local authorities when needed. If you are calling in the immediate aftermath of a named storm, let the dispatcher know your specific location on the island so routing can be planned around any access restrictions.
 
 ## Siesta Key Insurance and HOA Coordination
 

@@ -36,7 +36,7 @@ From there, the process moves through permitting with Pinellas County, subcontra
 
 ## Reaching Clearwater Beach from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa and runs crews across the Tampa Bay region. Reaching Clearwater Beach typically means routing west on SR-60 across the Courtney Campbell Causeway, which connects the mainland to the island. Traffic on the causeway can vary significantly during peak tourist season and around major events at the beach, so scheduling for early morning crew arrivals is standard practice on Clearwater Beach jobs. For projects requiring material deliveries, we coordinate staging carefully given the limited lot sizes and parking constraints common on the island. DRYCOR RESTORE is available 24/7, so initial consultations and post-storm damage assessments can be scheduled without waiting for business hours.
+DRYCOR RESTORE operates out of its Tampa Bay base and runs crews across the Tampa Bay region. Reaching Clearwater Beach typically means routing west on SR-60 across the Courtney Campbell Causeway, which connects the mainland to the island. Traffic on the causeway can vary significantly during peak tourist season and around major events at the beach, so scheduling for early morning crew arrivals is standard practice on Clearwater Beach jobs. For projects requiring material deliveries, we coordinate staging carefully given the limited lot sizes and parking constraints common on the island. DRYCOR RESTORE is available 24/7, so initial consultations and post-storm damage assessments can be scheduled without waiting for business hours.
 
 ## Local Note
 

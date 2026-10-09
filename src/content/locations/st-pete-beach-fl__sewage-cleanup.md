@@ -40,7 +40,7 @@ After removal of unsalvageable material, affected surfaces are treated with EPA-
 
 ## Reaching St. Pete Beach from Thonotosassa
 
-DRYCOR RESTORE operates 24/7, and the route from our Thonotosassa headquarters to St. Pete Beach runs west on I-4 to I-275 South, crossing the Sunshine Skyway corridor and dropping into Pinellas County before reaching the Corey Avenue and Gulf Boulevard area. Travel time varies with traffic and time of day, particularly on the Pinellas Bayway and the approaches to the island during peak season when Gulf Boulevard sees heavy tourist congestion. We factor in those conditions when dispatching and communicate an accurate arrival window when you call.
+DRYCOR RESTORE operates 24/7, and the route from our Tampa Bay headquarters to St. Pete Beach runs west on I-4 to I-275 South, crossing the Sunshine Skyway corridor and dropping into Pinellas County before reaching the Corey Avenue and Gulf Boulevard area. Travel time varies with traffic and time of day, particularly on the Pinellas Bayway and the approaches to the island during peak season when Gulf Boulevard sees heavy tourist congestion. We factor in those conditions when dispatching and communicate an accurate arrival window when you call.
 
 ## Insurance Coordination for St. Pete Beach Sewage Claims
 

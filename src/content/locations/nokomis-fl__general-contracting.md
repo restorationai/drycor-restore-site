@@ -38,7 +38,7 @@ For kitchen and bathroom remodels, we sequence the work to protect the rest of t
 
 ## Reaching Nokomis from Our Thonotosassa Base
 
-DRYCOR RESTORE operates out of Thonotosassa, and the drive to Nokomis runs south on I-75 to the Laurel Road or Jacaranda Boulevard exits, putting crews into the area efficiently. Because we operate around the clock, scheduling is not limited to business hours. For urgent post-damage situations where a rebuild needs to begin quickly after remediation clears, that availability matters.
+DRYCOR RESTORE operates out of its Tampa Bay base, and the drive to Nokomis runs south on I-75 to the Laurel Road or Jacaranda Boulevard exits, putting crews into the area efficiently. Because we operate around the clock, scheduling is not limited to business hours. For urgent post-damage situations where a rebuild needs to begin quickly after remediation clears, that availability matters.
 
 ## Local Note
 

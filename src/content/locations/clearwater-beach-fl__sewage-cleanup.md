@@ -36,7 +36,7 @@ Extraction uses truck-mounted and portable units calibrated for the volume of Ca
 
 ## Reaching Clearwater Beach from Thonotosassa
 
-DRYCOR RESTORE's headquarters in Thonotosassa puts crews on SR-60 West as the primary route to Clearwater Beach, crossing the Courtney Campbell Causeway into Clearwater and then continuing west across the Memorial Causeway onto the island. The route is direct, and because DRYCOR RESTORE operates 24/7, crews can move during off-peak hours when the causeway is clear. For properties on the northern end of the island near the Sand Key corridor, the Belleair Causeway provides an alternate approach that avoids downtown Clearwater traffic during peak beach season.
+DRYCOR RESTORE's headquarters in the Tampa Bay area puts crews on SR-60 West as the primary route to Clearwater Beach, crossing the Courtney Campbell Causeway into Clearwater and then continuing west across the Memorial Causeway onto the island. The route is direct, and because DRYCOR RESTORE operates 24/7, crews can move during off-peak hours when the causeway is clear. For properties on the northern end of the island near the Sand Key corridor, the Belleair Causeway provides an alternate approach that avoids downtown Clearwater traffic during peak beach season.
 
 ## Clearwater Beach Insurance Coordination
 

@@ -32,9 +32,9 @@ The first priority on arrival is stopping ongoing intrusion if the source is sti
 
 Drying equipment, including industrial dehumidifiers and directed airflow systems, is positioned based on that moisture map rather than by guesswork. Readings are logged at each visit so you and your insurance adjuster have a documented drying record. Because North Port's ambient humidity rarely drops below levels that support mold growth on its own, the drying environment inside the structure needs to be actively managed, not just ventilated with open windows.
 
-## Reaching North Port from Thonotosassa
+## Reaching North Port From Our Tampa Bay Base
 
-The drive from our Thonotosassa headquarters to North Port runs south on I-75 and connects to the city via Toledo Blade Boulevard or Sumter Boulevard depending on where in the city the loss is located. North Port covers a large geographic footprint, and the western portions of the city near the Myakkahatchee Creek Environmental Park area can be a longer run than addresses closer to US-41. Because we operate 24/7, dispatch happens immediately when you call, and the crew leaves fully loaded, so there is no secondary trip back for equipment.
+The drive from our Tampa Bay headquarters to North Port runs south on I-75 and connects to the city via Toledo Blade Boulevard or Sumter Boulevard depending on where in the city the loss is located. North Port covers a large geographic footprint, and the western portions of the city near the Myakkahatchee Creek Environmental Park area can be a longer run than addresses closer to US-41. Because we operate 24/7, dispatch happens immediately when you call, and the crew leaves fully loaded, so there is no secondary trip back for equipment.
 
 ## North Port Insurance and HOA Coordination
 

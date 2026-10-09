@@ -38,7 +38,7 @@ Once your home is dry and cleared, contents are inventoried again and returned i
 
 ## Reaching North Port from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 out of Thonotosassa, and the route to North Port typically runs south on I-75 to the Sumter Boulevard or Toledo Blade exits. Depending on traffic and the specific address, travel time varies, but the team can be dispatched at any hour given the around-the-clock schedule. If you are in the southern reaches of the city near the Myakkahatchee Creek corridor or in neighborhoods closer to the Sarasota County line, note your cross streets when you call, North Port's grid is large and some areas require routing through the city's interior rather than the main arterials.
+DRYCOR RESTORE operates 24/7 out of its Tampa Bay base, and the route to North Port typically runs south on I-75 to the Sumter Boulevard or Toledo Blade exits. Depending on traffic and the specific address, travel time varies, but the team can be dispatched at any hour given the around-the-clock schedule. If you are in the southern reaches of the city near the Myakkahatchee Creek corridor or in neighborhoods closer to the Sarasota County line, note your cross streets when you call, North Port's grid is large and some areas require routing through the city's interior rather than the main arterials.
 
 ## Insurance Coordination for North Port Contents Claims
 

@@ -44,7 +44,7 @@ Every sewage call starts with containment. The affected area is isolated to prev
 
 ## Reaching Venice from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, north of Tampa, and serves the Venice area around the clock. The primary route south runs I-75 to Exit 193 at Jacaranda Boulevard, which puts crews into the heart of the city quickly. For addresses closer to the historic downtown or the island itself, the approach continues down Harbor Drive or Venice Avenue depending on traffic. Because Venice is a peninsula with limited bridge crossings, our dispatch team confirms the best access point when you call, especially for addresses on the island side where construction or drawbridge timing can affect arrival.
+DRYCOR RESTORE is based in the Tampa Bay area, north of Tampa, and serves the Venice area around the clock. The primary route south runs I-75 to Exit 193 at Jacaranda Boulevard, which puts crews into the heart of the city quickly. For addresses closer to the historic downtown or the island itself, the approach continues down Harbor Drive or Venice Avenue depending on traffic. Because Venice is a peninsula with limited bridge crossings, our dispatch team confirms the best access point when you call, especially for addresses on the island side where construction or drawbridge timing can affect arrival.
 
 ## Venice Insurance and HOA Coordination
 

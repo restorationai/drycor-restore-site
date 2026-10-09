@@ -47,7 +47,7 @@ Once mitigation is complete, DRYCOR RESTORE handles the rebuild: drywall, floori
 
 ## Coverage and how fast we can get there
 
-From DRYCOR RESTORE's base in Thonotosassa, the most direct route to Holiday runs north on US-41 to SR-54, then west through New Port Richey toward US-19 and into the Holiday corridor. The drive covers roughly 40 to 45 miles depending on traffic through the SR-54 and Little Road interchange. DRYCOR RESTORE operates 24 hours a day, seven days a week, so a call at any hour connects you to a live dispatcher who can put a crew in motion.
+From DRYCOR RESTORE's base in the Tampa Bay area, the most direct route to Holiday runs north on US-41 to SR-54, then west through New Port Richey toward US-19 and into the Holiday corridor. The drive covers roughly 40 to 45 miles depending on traffic through the SR-54 and Little Road interchange. DRYCOR RESTORE operates 24 hours a day, seven days a week, so a call at any hour connects you to a live dispatcher who can put a crew in motion.
 
 ## Building stock, site conditions, and permits in Holiday
 

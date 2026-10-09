@@ -38,7 +38,7 @@ For post-damage rebuilds, the process integrates with the documentation already 
 
 ## Reaching Osprey from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa and serves the Osprey area, reaching the community via I-75 south to the Sarasota County corridor. For renovation consultations and project scheduling, the team coordinates arrival times directly with homeowners. Because this is planned work rather than an emergency dispatch, scheduling is arranged to suit the project timeline. The 24/7 availability that applies to emergency mitigation calls also means that post-damage rebuild questions can be addressed at any hour, even if the construction phase itself runs on a standard project schedule.
+DRYCOR RESTORE is based in the Tampa Bay area and serves the Osprey area, reaching the community via I-75 south to the Sarasota County corridor. For renovation consultations and project scheduling, the team coordinates arrival times directly with homeowners. Because this is planned work rather than an emergency dispatch, scheduling is arranged to suit the project timeline. The 24/7 availability that applies to emergency mitigation calls also means that post-damage rebuild questions can be addressed at any hour, even if the construction phase itself runs on a standard project schedule.
 
 ## Osprey Insurance and HOA Coordination
 

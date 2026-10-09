@@ -38,7 +38,7 @@ Kitchen and bathroom remodels are among the most common requests we handle in th
 
 ## Reaching Dover from Our Thonotosassa Base
 
-DRYCOR RESTORE is headquartered in Thonotosassa, which puts Dover well within our primary service corridor. The drive along US-92 or through the County Road 579 corridor is straightforward, and our team is available around the clock, so whether a storm tears through overnight or a pipe failure turns a planned weekend project into an emergency rebuild, we can mobilize without delay.
+DRYCOR RESTORE is headquartered in the Tampa Bay area, which puts Dover well within our primary service corridor. The drive along US-92 or through the County Road 579 corridor is straightforward, and our team is available around the clock, so whether a storm tears through overnight or a pipe failure turns a planned weekend project into an emergency rebuild, we can mobilize without delay.
 
 ## Local Note
 

@@ -32,7 +32,7 @@ We start by isolating the failure, whether that means shutting down a well pump,
 
 ## Reaching Dover from Thonotosassa
 
-Our crews run out of Thonotosassa, a short drive from Dover along the rural corridor connecting the two communities, so we're familiar with the gravel driveways, long setbacks, and gated agricultural parcels that are typical out here. Properties off the main roads sometimes have access gates or livestock to work around, and we'd rather ask about that on the phone than waste time at the end of a driveway. If your property backs up to farmland or has a shared well arrangement with a neighboring parcel, mention it when you call so we bring the right fittings the first time.
+Our crews run out of our Tampa Bay base, a short drive from Dover along the rural corridor connecting the two communities, so we're familiar with the gravel driveways, long setbacks, and gated agricultural parcels that are typical out here. Properties off the main roads sometimes have access gates or livestock to work around, and we'd rather ask about that on the phone than waste time at the end of a driveway. If your property backs up to farmland or has a shared well arrangement with a neighboring parcel, mention it when you call so we bring the right fittings the first time.
 
 ## Local note
 

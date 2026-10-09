@@ -40,7 +40,7 @@ Contents that can be restored are inventoried and packed out for off-site cleani
 
 ## Reaching Holiday from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa and runs calls across the Tampa Bay region, including Holiday and the surrounding Pasco County communities. The most direct routing from the HQ uses US-41 north to SR-54, then connects west toward Holiday via the Veterans Expressway corridor. Because Holiday is a largely residential area without a major commercial core, crews typically stage equipment in driveways or on the street in front of the property rather than in a shared lot, which is straightforward on most of the area's single-family blocks.
+DRYCOR RESTORE operates out of its Tampa Bay base and runs calls across the Tampa Bay region, including Holiday and the surrounding Pasco County communities. The most direct routing from the HQ uses US-41 north to SR-54, then connects west toward Holiday via the Veterans Expressway corridor. Because Holiday is a largely residential area without a major commercial core, crews typically stage equipment in driveways or on the street in front of the property rather than in a shared lot, which is straightforward on most of the area's single-family blocks.
 
 ## Holiday Insurance and HOA Coordination
 

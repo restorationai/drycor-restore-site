@@ -38,7 +38,7 @@ Once the structure is cleared and restored, contents are returned, unwrapped, an
 
 ## Reaching Ellenton from Thonotosassa
 
-DryCor Restore operates out of Thonotosassa, and the Ellenton area is accessible via I-75 south to the Ellenton-Gillette Road exit. The route is straightforward under most conditions, and because the team is available around the clock, response can begin at any hour. Manatee County's road network in this corridor is generally well-maintained, though post-storm traffic on US-301 and I-75 can add time during major weather events. When conditions allow, the crew can be on-site and beginning the inventory and pack-out process without delay.
+DryCor Restore operates out of its Tampa Bay base, and the Ellenton area is accessible via I-75 south to the Ellenton-Gillette Road exit. The route is straightforward under most conditions, and because the team is available around the clock, response can begin at any hour. Manatee County's road network in this corridor is generally well-maintained, though post-storm traffic on US-301 and I-75 can add time during major weather events. When conditions allow, the crew can be on-site and beginning the inventory and pack-out process without delay.
 
 ## Ellenton Insurance Coordination
 

@@ -27,11 +27,11 @@ export function dispatchSentence(city: string): string {
   if (is247) {
     return hq
       ? `Our ${crewLabel} are headquartered right here in ${city} and are typically on-site within 60 minutes of your call.`
-      : `Our ${crewLabel} are dispatched from our ${brand.primaryCity}, ${brand.primaryState} headquarters and are typically on-site in ${city} within 60 minutes of your call.`;
+      : `Our ${crewLabel} are dispatched from our ${brand.marketArea} headquarters and are typically on-site in ${city} within 60 minutes of your call.`;
   }
   return hq
     ? `Our ${crewLabel} are headquartered right here in ${city} and take on projects across the surrounding area.`
-    : `Our ${crewLabel} are dispatched from our ${brand.primaryCity}, ${brand.primaryState} headquarters and respond quickly to projects across ${city}.`;
+    : `Our ${crewLabel} are dispatched from our ${brand.marketArea} headquarters and respond quickly to projects across ${city}.`;
 }
 
 // Deterministic review rotation: stable per city (same snippet every build for

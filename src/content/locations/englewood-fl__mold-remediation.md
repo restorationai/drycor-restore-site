@@ -38,7 +38,7 @@ After physical remediation, the underlying moisture source is addressed or docum
 
 ## Reaching Englewood from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa and serves the Englewood area with 24/7 availability. The primary route south runs I-75 to the Jacaranda Boulevard corridor into Charlotte County, connecting to Englewood's main residential and commercial zones. Because calls can come at any hour, the dispatch team coordinates routing in real time to account for conditions along that corridor. Homeowners can reach the team directly at (813) 829-1091 any time of day or night.
+DRYCOR RESTORE is based in the Tampa Bay area and serves the Englewood area with 24/7 availability. The primary route south runs I-75 to the Jacaranda Boulevard corridor into Charlotte County, connecting to Englewood's main residential and commercial zones. Because calls can come at any hour, the dispatch team coordinates routing in real time to account for conditions along that corridor. Homeowners can reach the team directly at (813) 829-1091 any time of day or night.
 
 ## Englewood Insurance Coordination
 

@@ -36,7 +36,7 @@ From there, the process moves through permitting, material procurement, demoliti
 
 ## Reaching Tampa from Our Thonotosassa Home Base
 
-DRYCOR RESTORE operates out of Thonotosassa, which sits just northeast of Tampa off I-4 and US-301, a straightforward run into most of the metro area. South Tampa neighborhoods, the Westshore corridor, and areas around Ybor City are all accessible without navigating the worst of downtown congestion when scheduling allows. For project consultations and scheduled renovation work, we coordinate arrival windows that account for Tampa's notoriously compressed rush-hour patterns on I-275 and the Selmon Expressway. We're available 24/7 for emergency calls, and renovation project scheduling is handled directly through our office at (813) 829-1091.
+DRYCOR RESTORE operates out of its Tampa Bay base, which sits just northeast of Tampa off I-4 and US-301, a straightforward run into most of the metro area. South Tampa neighborhoods, the Westshore corridor, and areas around Ybor City are all accessible without navigating the worst of downtown congestion when scheduling allows. For project consultations and scheduled renovation work, we coordinate arrival windows that account for Tampa's notoriously compressed rush-hour patterns on I-275 and the Selmon Expressway. We're available 24/7 for emergency calls, and renovation project scheduling is handled directly through our office at (813) 829-1091.
 
 ## Local Note: What Opens Walls in Tampa Often Reveals
 

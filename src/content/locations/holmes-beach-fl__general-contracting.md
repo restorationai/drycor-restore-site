@@ -38,7 +38,7 @@ For kitchen and bathroom remodels, we work through a defined sequence: structura
 
 ## Reaching Holmes Beach from Thonotosassa
 
-Our crews travel from Thonotosassa via I-75 south to I-275, then across the Sunshine Skyway Bridge into Manatee County, connecting to the Manatee Avenue corridor and out to the island. The route is well-established and our team makes the run regularly for active projects on Anna Maria Island. Because we operate around the clock, scheduling flexibility isn't a constraint, we can coordinate project phases, deliveries, and inspections around the realities of island traffic, which peaks heavily on weekends and during the winter season when rental turnover is at its highest.
+Our crews travel from our Tampa Bay base via I-75 south to I-275, then across the Sunshine Skyway Bridge into Manatee County, connecting to the Manatee Avenue corridor and out to the island. The route is well-established and our team makes the run regularly for active projects on Anna Maria Island. Because we operate around the clock, scheduling flexibility isn't a constraint, we can coordinate project phases, deliveries, and inspections around the realities of island traffic, which peaks heavily on weekends and during the winter season when rental turnover is at its highest.
 
 ## Local Note: What Island Contractors Learn About Coastal Concrete Block
 

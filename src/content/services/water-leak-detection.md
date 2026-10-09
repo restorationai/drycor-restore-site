@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Water Leak Detection in Thonotosassa | DRYCOR RESTORE"
-h1: "Water Leak Detection in Thonotosassa"
-meta_description: "24/7 water leak detection in Thonotosassa and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
+title: "Water Leak Detection in Tampa Bay | DRYCOR RESTORE"
+h1: "Water Leak Detection in Tampa Bay"
+meta_description: "24/7 water leak detection in Tampa Bay and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
 primary_keyword: "water leak detection thonotosassa"
 secondary_keywords: ["leak detection", "hidden water leak", "slab leak detection", "water leak in wall", "leak detection service"]
 search_intent: "local_emergency"
@@ -52,6 +52,6 @@ Thonotosassa's clay-heavy and shifting soils put ongoing stress on slab plumbing
 
 ## Service area
 
-We provide water leak detection throughout Thonotosassa and the surrounding Hillsborough County area, including Temple Terrace, Plant City, and Seffner. Housing stock varies block to block in this region, from older slab homes to newer construction, and we adjust the detection approach based on plumbing age and foundation type.
+We provide water leak detection throughout Tampa Bay and the surrounding Hillsborough County area, including Temple Terrace, Plant City, and Seffner. Housing stock varies block to block in this region, from older slab homes to newer construction, and we adjust the detection approach based on plumbing age and foundation type.
 
 If something in your home feels off, a bill that doesn't match usage, a smell that won't clear, or a spot on the slab that's always warm, schedule a leak detection inspection before it becomes a bigger repair. Call DRYCOR RESTORE at (813) 829-1091 to get a technician and the right equipment on-site.

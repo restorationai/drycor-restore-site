@@ -34,7 +34,7 @@ We start with extraction, pulling standing water from flooring and carpet pad us
 
 ## Reaching Navarre from Thonotosassa
 
-Our home base is in Thonotosassa, and we dispatch crews out toward the Panhandle for Navarre calls, coordinating ahead of arrival so we know what equipment to load before the truck leaves. Because Navarre sits along US 98 with limited east-west alternates, we factor seasonal beach traffic and storm evacuation patterns into scheduling when a major weather event hits the area at the same time as a call. If you're near the Sound or closer to Navarre Beach itself, let us know when you call so we can plan the most direct route.
+Our home base is in the Tampa Bay area, and we dispatch crews out toward the Panhandle for Navarre calls, coordinating ahead of arrival so we know what equipment to load before the truck leaves. Because Navarre sits along US 98 with limited east-west alternates, we factor seasonal beach traffic and storm evacuation patterns into scheduling when a major weather event hits the area at the same time as a call. If you're near the Sound or closer to Navarre Beach itself, let us know when you call so we can plan the most direct route.
 
 ## Navarre Insurance Coordination
 

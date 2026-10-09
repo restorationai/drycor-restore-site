@@ -36,9 +36,9 @@ Permit coordination runs through Polk County's building department, and timeline
 
 Our IICRC-certified background means that when a renovation uncovers hidden damage, saturated wall cavities, microbial growth behind tile backer, or compromised structural members, we can assess and address it in-house rather than stopping work to bring in a separate contractor.
 
-## Reaching Lakeland from Thonotosassa
+## Reaching Lakeland From Our Tampa Bay Base
 
-From our Thonotosassa base, Lakeland is a straightforward run west on I-4, putting us within practical reach of properties throughout the city. The I-4 corridor connects directly to central Lakeland, and US-98 provides access to neighborhoods on the south and east sides of the city. For project consultations and scheduled renovation work, we coordinate arrival windows that account for the I-4 interchange traffic patterns that can affect mid-morning and late-afternoon travel times on that stretch.
+From our Tampa Bay base, Lakeland is a straightforward run west on I-4, putting us within practical reach of properties throughout the city. The I-4 corridor connects directly to central Lakeland, and US-98 provides access to neighborhoods on the south and east sides of the city. For project consultations and scheduled renovation work, we coordinate arrival windows that account for the I-4 interchange traffic patterns that can affect mid-morning and late-afternoon travel times on that stretch.
 
 Because Drycor Restore operates 24/7, we're also reachable for urgent situations, a mid-renovation discovery of hidden mold, a pipe failure that interrupts an active remodel, without waiting for the next business day.
 

@@ -36,7 +36,7 @@ After bulk removal, all porous materials that absorbed sewage, including drywall
 
 ## Reaching Polk City from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and Polk City is a straightforward run west on I-4. Because we operate around the clock, we can dispatch at any hour, including during the overnight hours when sewer backups are often discovered after a slow drain goes unnoticed all day. Polk City's relatively compact footprint means that once we are off the interstate, we can reach most addresses quickly regardless of which side of US-98 the property sits on.
+DRYCOR RESTORE is based in the Tampa Bay area, and Polk City is a straightforward run west on I-4. Because we operate around the clock, we can dispatch at any hour, including during the overnight hours when sewer backups are often discovered after a slow drain goes unnoticed all day. Polk City's relatively compact footprint means that once we are off the interstate, we can reach most addresses quickly regardless of which side of US-98 the property sits on.
 
 ## Polk City Insurance and Coordination
 

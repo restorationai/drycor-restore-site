@@ -45,7 +45,7 @@ Items are returned only after the structure has been cleared and conditions are 
 
 ## Reaching Mulberry from Thonotosassa
 
-DryCor Restore operates 24/7 out of Thonotosassa, and Mulberry is a straightforward run southwest along SR-60 through Brandon and into Polk County. Depending on traffic on the US-98 corridor, crews can typically reach Mulberry without significant delay. If you are calling after a storm event that has affected a wider area, let the dispatcher know your situation so the right equipment is loaded before the crew leaves.
+DryCor Restore operates 24/7 out of its Tampa Bay base, and Mulberry is a straightforward run southwest along SR-60 through Brandon and into Polk County. Depending on traffic on the US-98 corridor, crews can typically reach Mulberry without significant delay. If you are calling after a storm event that has affected a wider area, let the dispatcher know your situation so the right equipment is loaded before the crew leaves.
 
 ## Mulberry Insurance Coordination for Contents Claims
 

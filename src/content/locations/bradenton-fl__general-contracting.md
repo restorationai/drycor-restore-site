@@ -34,9 +34,9 @@ Every project starts with a scope walkthrough, not a sales pitch. We assess the 
 
 For elective remodels, kitchens, bathrooms, additions, whole-home updates, the process is similar in discipline but different in sequence. We finalize selections (cabinets, tile, fixtures, flooring) before demolition begins, because lead times on materials in the current market can run four to ten weeks and a half-demolished kitchen is not a comfortable place to wait. Our EPA Lead-Safe certification matters here: Bradenton homes built before 1978 require lead-safe work practices during any renovation that disturbs painted surfaces, and that applies to a significant portion of the city's older neighborhoods.
 
-## Reaching Bradenton from Thonotosassa
+## Reaching Bradenton From Our Tampa Bay Base
 
-Our Thonotosassa base puts us on US-301 South toward Bradenton in straightforward fashion, typically via I-75 South to SR-64 or SR-70 depending on the part of the city. For properties closer to the Manatee River waterfront or the older downtown grid, SR-64 West gets crews into the heart of Bradenton efficiently. For projects further south toward Sarasota County line, SR-70 is the more direct corridor. Because we run 24/7 operations, a call at any hour connects you to a live team member who can schedule an assessment or dispatch an emergency crew without waiting for a business-hours callback.
+Our Tampa Bay base puts us on US-301 South toward Bradenton in straightforward fashion, typically via I-75 South to SR-64 or SR-70 depending on the part of the city. For properties closer to the Manatee River waterfront or the older downtown grid, SR-64 West gets crews into the heart of Bradenton efficiently. For projects further south toward Sarasota County line, SR-70 is the more direct corridor. Because we run 24/7 operations, a call at any hour connects you to a live team member who can schedule an assessment or dispatch an emergency crew without waiting for a business-hours callback.
 
 ## Local Note: Block Homes and Hidden Moisture Before You Renovate
 

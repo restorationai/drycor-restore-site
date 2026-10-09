@@ -38,7 +38,7 @@ Once the structure is cleared of bulk waste, the crew applies EPA-registered dis
 
 ## Reaching Zephyrhills from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts the crew on State Road 54 heading northeast, a direct corridor into Zephyrhills that avoids the congestion of I-4 interchange traffic. SR 54 connects to the heart of the city and branches toward the residential areas along Eiland Boulevard and the communities further north. Because DRYCOR operates 24/7, dispatch goes out immediately regardless of when the call comes in, there is no wait for business hours on a sewage backup that is actively spreading.
+DRYCOR RESTORE's base in the Tampa Bay area puts the crew on State Road 54 heading northeast, a direct corridor into Zephyrhills that avoids the congestion of I-4 interchange traffic. SR 54 connects to the heart of the city and branches toward the residential areas along Eiland Boulevard and the communities further north. Because DRYCOR operates 24/7, dispatch goes out immediately regardless of when the call comes in, there is no wait for business hours on a sewage backup that is actively spreading.
 
 ## Zephyrhills Insurance Coordination
 

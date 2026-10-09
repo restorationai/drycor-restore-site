@@ -83,4 +83,4 @@ The moisture source that allowed mold to grow must also be corrected before reme
 
 ---
 
-If you've found mold in your home and you're not sure what you're looking at or how serious it is, the safest first step is a professional assessment, not a DIY test kit from a hardware store, and not a bleach scrub. DRYCOR RESTORE serves Thonotosassa and the surrounding Hillsborough County area. Reach the team at (813) 829-1091.
+If you've found mold in your home and you're not sure what you're looking at or how serious it is, the safest first step is a professional assessment, not a DIY test kit from a hardware store, and not a bleach scrub. DRYCOR RESTORE serves Tampa Bay and the surrounding Hillsborough County area. Reach the team at (813) 829-1091.

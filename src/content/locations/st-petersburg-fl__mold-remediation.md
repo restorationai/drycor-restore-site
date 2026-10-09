@@ -40,9 +40,9 @@ Remediation here isn't a one-size protocol. The approach shifts based on what th
 
 **Clearance testing closes the job.** Post-remediation air sampling by an independent industrial hygienist confirms that spore counts have returned to acceptable levels before containment comes down. This step matters especially in St. Petersburg, where some HOA communities and lenders now require third-party clearance documentation before a unit can be re-occupied or listed for sale.
 
-## Reaching St. Petersburg from Thonotosassa
+## Reaching St. Petersburg From Our Tampa Bay Base
 
-DRYCOR RESTORE's Thonotosassa base puts crews on I-4 West to I-275 South, crossing the Howard Frankland Bridge into Pinellas County. From the bridge, most of St. Petersburg's residential neighborhoods, including the historic bungalow blocks of Kenwood and the waterfront streets of Snell Isle, are reachable without navigating the congestion of downtown. For properties on the south end of the peninsula, crews continue down I-275 and exit toward Pinellas Point or the Skyway Marina District directly. Because the team operates 24/7, calls that come in during off-peak hours avoid the bridge backup that can add significant time during morning and evening commutes.
+DRYCOR RESTORE's Tampa Bay base puts crews on I-4 West to I-275 South, crossing the Howard Frankland Bridge into Pinellas County. From the bridge, most of St. Petersburg's residential neighborhoods, including the historic bungalow blocks of Kenwood and the waterfront streets of Snell Isle, are reachable without navigating the congestion of downtown. For properties on the south end of the peninsula, crews continue down I-275 and exit toward Pinellas Point or the Skyway Marina District directly. Because the team operates 24/7, calls that come in during off-peak hours avoid the bridge backup that can add significant time during morning and evening commutes.
 
 ## Local Note: Concrete Block and Mold Behind the Finish
 

@@ -38,7 +38,7 @@ For Holmes Beach properties, we pay particular attention to items that have been
 
 ## Reaching Holmes Beach from Thonotosassa
 
-Our team operates around the clock, so a call at any hour connects you with a live dispatcher. From our Thonotosassa location, the route to Holmes Beach runs west on I-4, south on I-275, and across the Sunshine Skyway Bridge to Bradenton, then out the Manatee Avenue causeway to Anna Maria Island. The causeway is the only road onto the island, which matters during active storm events when the county may restrict access. When a loss occurs during or immediately after a named storm, our crews coordinate with Manatee County emergency management to confirm bridge and causeway status before dispatching, so we are not staging equipment on the mainland side while you wait.
+Our team operates around the clock, so a call at any hour connects you with a live dispatcher. From our Tampa Bay location, the route to Holmes Beach runs west on I-4, south on I-275, and across the Sunshine Skyway Bridge to Bradenton, then out the Manatee Avenue causeway to Anna Maria Island. The causeway is the only road onto the island, which matters during active storm events when the county may restrict access. When a loss occurs during or immediately after a named storm, our crews coordinate with Manatee County emergency management to confirm bridge and causeway status before dispatching, so we are not staging equipment on the mainland side while you wait.
 
 ## Holmes Beach Insurance Coordination
 

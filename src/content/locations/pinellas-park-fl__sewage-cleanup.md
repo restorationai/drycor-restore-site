@@ -38,7 +38,7 @@ Before the job is closed out, moisture readings are documented across the affect
 
 ## Reaching Pinellas Park from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts the crew on I-4 West to I-275 South as the primary route into Pinellas County, crossing the Howard Frankland Bridge and reaching Pinellas Park via US-19 or Park Boulevard depending on the address. Because Pinellas Park is a compact city, roughly four miles across at its widest, access from either corridor is straightforward once crews are across the bridge. DRYCOR RESTORE operates 24/7, so dispatching happens regardless of the hour.
+DRYCOR RESTORE's base in the Tampa Bay area puts the crew on I-4 West to I-275 South as the primary route into Pinellas County, crossing the Howard Frankland Bridge and reaching Pinellas Park via US-19 or Park Boulevard depending on the address. Because Pinellas Park is a compact city, roughly four miles across at its widest, access from either corridor is straightforward once crews are across the bridge. DRYCOR RESTORE operates 24/7, so dispatching happens regardless of the hour.
 
 ## Pinellas Park Insurance Coordination
 

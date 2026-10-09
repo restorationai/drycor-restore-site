@@ -36,7 +36,7 @@ Once extraction is complete, affected materials are assessed. Porous materials t
 
 ## Reaching Sarasota from Thonotosassa
 
-Drycor Restore's base in Thonotosassa puts crews on I-75 South toward Sarasota as the primary route, with I-275 as an alternate depending on time of day and traffic through the Tampa metro. Because Drycor operates around the clock, a call placed at 2 a.m. after a sewer line backs up into a ground-floor bathroom reaches a live dispatcher immediately. Crews load the appropriate extraction and sanitization equipment before departure so no additional staging stop is needed on arrival.
+Drycor Restore's base in the Tampa Bay area puts crews on I-75 South toward Sarasota as the primary route, with I-275 as an alternate depending on time of day and traffic through the Tampa metro. Because Drycor operates around the clock, a call placed at 2 a.m. after a sewer line backs up into a ground-floor bathroom reaches a live dispatcher immediately. Crews load the appropriate extraction and sanitization equipment before departure so no additional staging stop is needed on arrival.
 
 ## Sarasota Insurance and HOA Coordination
 

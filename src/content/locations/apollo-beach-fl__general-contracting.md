@@ -42,7 +42,7 @@ Construction sequencing in a coastal environment also matters. We schedule moist
 
 ## Reaching Apollo Beach from Thonotosassa
 
-Our crews operate out of Thonotosassa and reach Apollo Beach via I-75 South to the Big Bend Road corridor, or via US-301 South depending on traffic and the specific address. Apollo Beach's waterfront neighborhoods extend along the canal grid west of Apollo Beach Boulevard, while the newer developments sit closer to US-41 and the Covington Park area. We're familiar with both sides of the community and route accordingly. Because we're available around the clock, scheduling a site visit or responding to an urgent rebuild situation isn't limited to business hours.
+Our crews operate out of our Tampa Bay base and reach Apollo Beach via I-75 South to the Big Bend Road corridor, or via US-301 South depending on traffic and the specific address. Apollo Beach's waterfront neighborhoods extend along the canal grid west of Apollo Beach Boulevard, while the newer developments sit closer to US-41 and the Covington Park area. We're familiar with both sides of the community and route accordingly. Because we're available around the clock, scheduling a site visit or responding to an urgent rebuild situation isn't limited to business hours.
 
 ## Local Note
 

@@ -13,7 +13,7 @@ const photos = (brand.jobPhotos || []).slice(0, 12);
     <div class="container-wide">
       <div class="mb-8">
         <div class="eyebrow">Recent Work</div>
-        <h2>Real jobs from our {brand.primaryCity} crews</h2>
+        <h2>Real jobs from our {brand.marketArea} crews</h2>
       </div>
       <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4">
         {photos.map((src) => {
@@ -26,7 +26,7 @@ const photos = (brand.jobPhotos || []).slice(0, 12);
                 sizes={img.srcset ? "(min-width:1024px) 25vw, (min-width:640px) 33vw, 50vw" : undefined}
                 width={img.width}
                 height={img.height}
-                alt={`${brand.displayName} — recent ${brand.primaryCity} restoration job`}
+                alt={`${brand.displayName} — recent ${brand.marketArea} restoration job`}
                 class="w-full h-full object-cover"
                 loading="lazy"
                 decoding="async"

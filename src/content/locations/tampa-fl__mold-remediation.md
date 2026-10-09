@@ -36,9 +36,9 @@ Once the scope is confirmed, we establish negative-pressure containment using he
 
 Because Tampa's ambient humidity can slow the drying of structural cavities even after mold is removed, we run commercial-grade dehumidification during and after remediation to bring the affected area to a moisture level that won't support re-colonization. The work is performed by an IICRC Certified Firm with NAERMC mold certification and OSHA-trained technicians, credentials that matter when an insurance carrier or HOA management company asks for documentation.
 
-## Reaching Tampa from Thonotosassa
+## Reaching Tampa From Our Tampa Bay Base
 
-Our Thonotosassa location puts us on the eastern edge of Hillsborough County, with direct access to I-4 and I-75 for reaching properties across the metro. Whether a call comes from the Hyde Park area near Bayshore Boulevard or from a property further north toward Carrollwood, our 24/7 availability means we're dispatching at any hour, not routing calls to an answering service and scheduling for the next business day. For mold, that distinction matters: every hour of delay in a humid Tampa environment is an hour of continued spore activity.
+Our Tampa Bay location puts us on the eastern edge of Hillsborough County, with direct access to I-4 and I-75 for reaching properties across the metro. Whether a call comes from the Hyde Park area near Bayshore Boulevard or from a property further north toward Carrollwood, our 24/7 availability means we're dispatching at any hour, not routing calls to an answering service and scheduling for the next business day. For mold, that distinction matters: every hour of delay in a humid Tampa environment is an hour of continued spore activity.
 
 ## Tampa Insurance & HOA Coordination
 

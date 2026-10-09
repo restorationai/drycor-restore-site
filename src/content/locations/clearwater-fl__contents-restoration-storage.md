@@ -43,7 +43,7 @@ Items remain in storage under our care until your home is cleared for reoccupanc
 
 ## Reaching Clearwater from Thonotosassa
 
-DryCor Restore operates 24/7, and Clearwater is a regular part of our service area. From our Thonotosassa base, the most direct routing runs west on I-4 and south on I-275 across the Howard Frankland Bridge into Pinellas County, then onto US-19 or SR-60 depending on where in Clearwater the loss is located. SR-60 (Gulf-to-Bay Boulevard) is the primary east-west corridor through the heart of the city, and we're familiar with the traffic patterns that can slow response during peak beach-season hours, which is why our dispatch coordinates routing in real time rather than relying on a fixed estimate.
+DryCor Restore operates 24/7, and Clearwater is a regular part of our service area. From our Tampa Bay base, the most direct routing runs west on I-4 and south on I-275 across the Howard Frankland Bridge into Pinellas County, then onto US-19 or SR-60 depending on where in Clearwater the loss is located. SR-60 (Gulf-to-Bay Boulevard) is the primary east-west corridor through the heart of the city, and we're familiar with the traffic patterns that can slow response during peak beach-season hours, which is why our dispatch coordinates routing in real time rather than relying on a fixed estimate.
 
 ## Clearwater Insurance & HOA Coordination
 

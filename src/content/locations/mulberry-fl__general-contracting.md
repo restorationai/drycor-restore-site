@@ -42,7 +42,7 @@ From there, the process follows a clear sequence:
 
 ## Reaching Mulberry from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and Mulberry is a straightforward drive southwest via I-4 to US-98. The route is direct and keeps response times practical for both scheduled project work and urgent post-damage rebuild consultations. We're available around the clock, so if a pipe failure or storm event creates an immediate need to assess and stabilize a property before reconstruction begins, you're not waiting until the next business day to get someone on-site.
+DRYCOR RESTORE is based in the Tampa Bay area, and Mulberry is a straightforward drive southwest via I-4 to US-98. The route is direct and keeps response times practical for both scheduled project work and urgent post-damage rebuild consultations. We're available around the clock, so if a pipe failure or storm event creates an immediate need to assess and stabilize a property before reconstruction begins, you're not waiting until the next business day to get someone on-site.
 
 For property managers or homeowners coordinating larger remodel projects, we schedule site visits and project milestones around your timeline, not ours.
 

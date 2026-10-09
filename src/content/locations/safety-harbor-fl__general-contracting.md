@@ -42,7 +42,7 @@ From there, the process follows a logical sequence:
 
 ## Reaching Safety Harbor from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and Safety Harbor is a regular part of our service area. The typical route runs west on I-4, south on I-275, and across the Howard Frankland Bridge into Pinellas County, connecting to Safety Harbor via SR-60 or McMullen-Booth Road. Because we operate 24/7, scheduling a project walkthrough or responding to an urgent post-damage situation isn't constrained to business hours, you can reach us at (813) 829-1091 any time.
+DRYCOR RESTORE is based in the Tampa Bay area, and Safety Harbor is a regular part of our service area. The typical route runs west on I-4, south on I-275, and across the Howard Frankland Bridge into Pinellas County, connecting to Safety Harbor via SR-60 or McMullen-Booth Road. Because we operate 24/7, scheduling a project walkthrough or responding to an urgent post-damage situation isn't constrained to business hours, you can reach us at (813) 829-1091 any time.
 
 ## Local Note: What Opens-Up Walls in Safety Harbor Often Reveals
 

@@ -42,7 +42,7 @@ For projects where an HOA or a lender requires documentation, we can coordinate 
 
 ## Reaching Osprey from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 out of Thonotosassa, and crews reach the Osprey area via I-75 south to Exit 195, then south on US-41 through Sarasota. Depending on traffic through the Sarasota corridor, travel time to most Osprey addresses typically falls in the range of an hour to an hour and fifteen minutes. We call ahead on every dispatch so someone is available when the crew arrives, particularly important for gated communities and waterfront properties where access coordination matters.
+DRYCOR RESTORE operates 24/7 out of its Tampa Bay base, and crews reach the Osprey area via I-75 south to Exit 195, then south on US-41 through Sarasota. Depending on traffic through the Sarasota corridor, travel time to most Osprey addresses typically falls in the range of an hour to an hour and fifteen minutes. We call ahead on every dispatch so someone is available when the crew arrives, particularly important for gated communities and waterfront properties where access coordination matters.
 
 ## Osprey Insurance and HOA Coordination
 

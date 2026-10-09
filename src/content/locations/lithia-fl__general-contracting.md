@@ -38,7 +38,7 @@ For post-damage rebuilds specifically, the process integrates with the insurance
 
 ## Reaching Lithia from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, which puts the Lithia area well within the team's regular service range. The most direct route runs south on US-301 and connects to Lithia via Lithia Pinecrest Road, the main corridor that runs through the heart of the community and links the area's residential developments to Fish Hawk and the surrounding county roads. That route is straightforward in most conditions, and the team is available around the clock to take calls and schedule assessments.
+DRYCOR RESTORE is based in the Tampa Bay area, which puts the Lithia area well within the team's regular service range. The most direct route runs south on US-301 and connects to Lithia via Lithia Pinecrest Road, the main corridor that runs through the heart of the community and links the area's residential developments to Fish Hawk and the surrounding county roads. That route is straightforward in most conditions, and the team is available around the clock to take calls and schedule assessments.
 
 For projects in the Fish Hawk area and surrounding Lithia communities, scheduling a site visit early in the week typically allows for the fastest turnaround on project proposals, since permit submission windows at Hillsborough County's Building Services division follow standard weekday processing schedules.
 

@@ -38,7 +38,7 @@ Inspections are scheduled as work reaches each milestone, and we don't close out
 
 ## Reaching Dundee from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa and reaches Dundee via US-92 west to I-4, then south on US-27 into Polk County. The route is straightforward outside of peak commute windows, and because we run 24/7 operations, scheduling isn't limited to business hours. For renovation projects, we coordinate arrival times with you in advance so crews aren't showing up when it's inconvenient, and for post-damage situations that need immediate assessment, we can dispatch around the clock.
+DRYCOR RESTORE operates out of its Tampa Bay base and reaches Dundee via US-92 west to I-4, then south on US-27 into Polk County. The route is straightforward outside of peak commute windows, and because we run 24/7 operations, scheduling isn't limited to business hours. For renovation projects, we coordinate arrival times with you in advance so crews aren't showing up when it's inconvenient, and for post-damage situations that need immediate assessment, we can dispatch around the clock.
 
 ## Dundee Insurance and Permit Coordination
 

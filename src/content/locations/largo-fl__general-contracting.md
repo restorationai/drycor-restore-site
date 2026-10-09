@@ -36,7 +36,7 @@ Demolition and rough work come next: framing modifications, mechanical rough-ins
 
 ## Reaching Largo from Thonotosassa
 
-DRYCOR RESTORE is headquartered in Thonotosassa, east of Tampa, and the primary route to Largo runs west on I-4 to I-275 south, crossing the Howard Frankland Bridge into Pinellas County. From there, surface routes, Ulmerton Road (SR-688) and East Bay Drive, reach most of Largo's residential and commercial corridors. Because DRYCOR operates 24/7, post-storm or post-loss calls that come in outside business hours still get a live response, and project consultations can be scheduled to accommodate work schedules.
+DRYCOR RESTORE is headquartered in the Tampa Bay area, east of Tampa, and the primary route to Largo runs west on I-4 to I-275 south, crossing the Howard Frankland Bridge into Pinellas County. From there, surface routes, Ulmerton Road (SR-688) and East Bay Drive, reach most of Largo's residential and commercial corridors. Because DRYCOR operates 24/7, post-storm or post-loss calls that come in outside business hours still get a live response, and project consultations can be scheduled to accommodate work schedules.
 
 ## Local Note: Humidity, Permits, and the Window Between Storms
 

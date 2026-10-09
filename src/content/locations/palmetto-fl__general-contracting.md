@@ -36,7 +36,7 @@ From there, we build a scope of work with line-item detail so there are no surpr
 
 ## Reaching Palmetto from Our Thonotosassa Base
 
-DRYCOR RESTORE operates out of Thonotosassa, and Palmetto is a regular part of our service area. The most direct route runs south on US-301 through Ruskin and into Manatee County, keeping drive times manageable for both scheduled project visits and urgent calls. Because we handle restoration work around the clock, our team is already structured for early-morning and after-hours coordination, useful when a general contracting project is running against a deadline or a post-storm rebuild needs to move quickly before additional weather exposure.
+DRYCOR RESTORE operates out of its Tampa Bay base, and Palmetto is a regular part of our service area. The most direct route runs south on US-301 through Ruskin and into Manatee County, keeping drive times manageable for both scheduled project visits and urgent calls. Because we handle restoration work around the clock, our team is already structured for early-morning and after-hours coordination, useful when a general contracting project is running against a deadline or a post-storm rebuild needs to move quickly before additional weather exposure.
 
 ## Local Note: Concrete Block Walls and Hidden Moisture
 

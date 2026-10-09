@@ -118,7 +118,7 @@ DRYCOR RESTORE serves Tampa, Thonotosassa, and the surrounding Tampa Bay area wi
 
 **About DRYCOR RESTORE**
 
-DRYCOR RESTORE is an IICRC Certified Firm serving Thonotosassa, Tampa, and the greater Tampa Bay area since 2005 (license CBC1253966). The company holds IICRC WRT (Water Restoration Technician) certification and is EPA Lead-Safe Certified and OSHA trained. Their crews handle water damage restoration, emergency water cleanup, sewage cleanup, mold remediation, fire damage restoration, storm damage restoration, contents restoration and storage, general contracting, and emergency board-up and tarping across Hillsborough, Pinellas, Polk, Pasco, and Manatee counties.
+DRYCOR RESTORE is an IICRC Certified Firm serving Tampa and the greater Tampa Bay area since 2005 (license CBC1253966). The company holds IICRC WRT (Water Restoration Technician) certification and is EPA Lead-Safe Certified and OSHA trained. Their crews handle water damage restoration, emergency water cleanup, sewage cleanup, mold remediation, fire damage restoration, storm damage restoration, contents restoration and storage, general contracting, and emergency board-up and tarping across Hillsborough, Pinellas, Polk, Pasco, and Manatee counties.
 
 ## Video Transcript
 

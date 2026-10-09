@@ -43,7 +43,7 @@ For concrete block homes, drying timelines are longer than they would be for woo
 
 ## Reaching Holmes Beach from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 out of Thonotosassa, and the route to Holmes Beach follows I-275 south to the Sunshine Skyway corridor and then west across the Manatee County causeway system to Anna Maria Island. Because the island is accessible by a limited number of bridge crossings, we account for causeway traffic patterns when dispatching, particularly during peak season when Gulf Drive and Manatee Avenue can back up during morning and evening hours. If you are on the island's northern end near the city's beach access areas or further south toward the Holmes Beach and Bradenton Beach border, let the dispatcher know your cross street so we can route the crew efficiently.
+DRYCOR RESTORE operates 24/7 out of its Tampa Bay base, and the route to Holmes Beach follows I-275 south to the Sunshine Skyway corridor and then west across the Manatee County causeway system to Anna Maria Island. Because the island is accessible by a limited number of bridge crossings, we account for causeway traffic patterns when dispatching, particularly during peak season when Gulf Drive and Manatee Avenue can back up during morning and evening hours. If you are on the island's northern end near the city's beach access areas or further south toward the Holmes Beach and Bradenton Beach border, let the dispatcher know your cross street so we can route the crew efficiently.
 
 ## Holmes Beach Insurance and HOA Coordination
 

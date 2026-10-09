@@ -38,7 +38,7 @@ From there, the process moves through permitting, material procurement, and phas
 
 ## Reaching St. Petersburg from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts crews on I-4 West to I-275 South for most St. Petersburg calls, a corridor that connects directly into the city's core. The Gandy Bridge route offers a reliable alternative when I-275 is congested, particularly for jobs on the south end of the peninsula or near the Skyway Marina District. DRYCOR operates 24/7, so scheduling a site visit or starting an emergency rebuild assessment isn't limited to business hours.
+DRYCOR RESTORE's base in the Tampa Bay area puts crews on I-4 West to I-275 South for most St. Petersburg calls, a corridor that connects directly into the city's core. The Gandy Bridge route offers a reliable alternative when I-275 is congested, particularly for jobs on the south end of the peninsula or near the Skyway Marina District. DRYCOR operates 24/7, so scheduling a site visit or starting an emergency rebuild assessment isn't limited to business hours.
 
 ## Post-Damage Rebuild and Insurance Coordination
 

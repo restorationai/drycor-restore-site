@@ -32,6 +32,10 @@ export const brand = {
   foundedYear: "2005",
   primaryCity: "Thonotosassa",
   primaryState: "FL",
+  // Marketing area for coverage copy (Robert 2026-10-09: "Thonotosassa is
+  // mentioned many many times on the website"). Lead with the metro; the
+  // home city stays in the address/NAP, map, schema and home-city pages.
+  marketArea: "Tampa Bay",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,
@@ -74,7 +78,7 @@ export const brand = {
     { author: "Virgil", rating: 5, text: "Very consistent professional friendly customer service during a trying time being out of my home for 7 months.", when: "October 2026" },
     { author: "Don", rating: 5, text: "Rob and crew did great work when my indoor water heater leaked overnight and I needed to get a lot of work done!! Very satisfied with it all.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
-  tagline: "24/7 restoration services in Thonotosassa, FL.",
+  tagline: "24/7 restoration services across Tampa Bay, FL.",
   // Rob 2026-09-15: replaces "we work with all insurance carriers" (no carrier logos/names)
   insuranceTrustLine: "Managed Repair Preferred Vendor for 34 Insurance Carriers in the State of Florida",
   ctaLabel: "24/7 Emergency Line",
@@ -89,7 +93,7 @@ export const brand = {
   announcementSuffix: "24/7 Emergency Response",
   // Client direction (Robert, 2026-10-08 call): replaces the default bar text site-wide.
   announcementText: "Serving the Panhandle hurricane-affected area",
-  homeAboutBlurb: "DRYCOR RESTORE serves Thonotosassa and the surrounding FL area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "DRYCOR RESTORE serves the Tampa Bay area from our Thonotosassa office with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

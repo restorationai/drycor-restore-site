@@ -38,9 +38,9 @@ Permit pulls happen before any structural work begins. Inspections are scheduled
 
 Finish selections, cabinetry, tile, fixtures, flooring, are guided by what holds up in Central Florida's climate. Materials that perform well in low-humidity climates can warp, swell, or delaminate in Valrico's year-round heat and humidity. We flag those issues before you fall in love with a product that won't last.
 
-## Reaching Valrico from Thonotosassa
+## Reaching Valrico From Our Tampa Bay Base
 
-DRYCOR RESTORE's headquarters in Thonotosassa puts the team within a short drive of Valrico via US-92 or SR-60, making us a genuinely local option rather than a Tampa-based contractor dispatching crews across the county. For post-damage situations where a fast assessment matters, that proximity is real, not a marketing claim. The team is available 24/7, so an emergency call at midnight gets the same response as one at noon.
+DRYCOR RESTORE's headquarters in the Tampa Bay area puts the team within a short drive of Valrico via US-92 or SR-60, making us a genuinely local option rather than a Tampa-based contractor dispatching crews across the county. For post-damage situations where a fast assessment matters, that proximity is real, not a marketing claim. The team is available 24/7, so an emergency call at midnight gets the same response as one at noon.
 
 ## Local Note
 

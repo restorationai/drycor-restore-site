@@ -36,7 +36,7 @@ From there, the process moves through permitting with Manatee County, material p
 
 ## Reaching Ellenton from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and Ellenton is a straightforward run south and west via I-75, putting the crew well within practical reach for both scheduled project work and urgent post-damage situations. The team is available around the clock, so a call after a weekend storm that damages a roof or floods a kitchen does not have to wait until Monday morning to get a response. Coordination for larger general contracting projects is handled during the scheduling call so material deliveries and subcontractor timing align with the route and access at the property.
+DRYCOR RESTORE is based in the Tampa Bay area, and Ellenton is a straightforward run south and west via I-75, putting the crew well within practical reach for both scheduled project work and urgent post-damage situations. The team is available around the clock, so a call after a weekend storm that damages a roof or floods a kitchen does not have to wait until Monday morning to get a response. Coordination for larger general contracting projects is handled during the scheduling call so material deliveries and subcontractor timing align with the route and access at the property.
 
 ## Local Note
 

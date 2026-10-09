@@ -38,7 +38,7 @@ Any materials that cannot be dried in place, such as saturated insulation, compr
 
 ## Reaching Anna Maria from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts crews on the Manatee County road network heading southwest toward the island. The primary route runs down to the Manatee Avenue corridor and across the Manatee Avenue Bridge onto the island, which is the main access point for emergency equipment and larger vehicles. During peak season, bridge traffic can slow, and the island's narrow streets require smaller equipment vehicles on some of the tighter residential blocks near the Gulf side. DRYCOR dispatches 24 hours a day, every day of the year, so crews can be routed during off-peak hours when possible and staged efficiently on arrival.
+DRYCOR RESTORE's base in the Tampa Bay area puts crews on the Manatee County road network heading southwest toward the island. The primary route runs down to the Manatee Avenue corridor and across the Manatee Avenue Bridge onto the island, which is the main access point for emergency equipment and larger vehicles. During peak season, bridge traffic can slow, and the island's narrow streets require smaller equipment vehicles on some of the tighter residential blocks near the Gulf side. DRYCOR dispatches 24 hours a day, every day of the year, so crews can be routed during off-peak hours when possible and staged efficiently on arrival.
 
 ## Anna Maria Insurance Coordination
 

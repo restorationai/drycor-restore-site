@@ -43,7 +43,7 @@ As an IICRC Certified Firm, DRYCOR RESTORE documents every phase in writing, whi
 
 ## Reaching St. Pete Beach from Thonotosassa
 
-DRYCOR RESTORE operates 24/7, and St. Pete Beach is reachable from the Thonotosassa area via I-275 South across the Howard Frankland Bridge, then south through St. Petersburg to the Corey Causeway or the Pinellas Bayway into the island. During a named storm event, route conditions and bridge closures can affect timing, so our team monitors road status actively and communicates estimated arrival directly. Call (813) 829-1091 any time, day or night, and you will reach a live person, not a voicemail.
+DRYCOR RESTORE operates 24/7, and St. Pete Beach is reachable from our Tampa Bay base via I-275 South across the Howard Frankland Bridge, then south through St. Petersburg to the Corey Causeway or the Pinellas Bayway into the island. During a named storm event, route conditions and bridge closures can affect timing, so our team monitors road status actively and communicates estimated arrival directly. Call (813) 829-1091 any time, day or night, and you will reach a live person, not a voicemail.
 
 ## St. Pete Beach Insurance and HOA Coordination
 

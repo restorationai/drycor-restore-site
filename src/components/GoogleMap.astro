@@ -18,7 +18,7 @@ const sectionHeading =
 // "Serving {City} from our {HQ} office" when the page city isn't our home city.
 const remote = brand.primaryCity && city && brand.primaryCity.toLowerCase() !== city.toLowerCase();
 const servingLine = remote
-  ? `Serving ${city} from our ${brand.primaryCity}, ${brand.primaryState} office`
+  ? `Serving ${city} from our ${brand.marketArea} office`
   : `Serving ${city} and surrounding neighborhoods`;
 
 // Free Google Maps embed of the client's REAL Business Profile — no API key needed,

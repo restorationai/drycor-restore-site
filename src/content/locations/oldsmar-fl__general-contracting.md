@@ -44,7 +44,7 @@ For homeowners in flood-prone areas along the bay side of Oldsmar, rebuild scope
 
 ## Reaching Oldsmar from Our Thonotosassa Base
 
-From Thonotosassa, our crews reach Oldsmar via the Veterans Expressway or SR-580, depending on traffic and the time of day. We operate 24/7, so emergency calls that come in overnight or on weekends get the same scheduling priority as weekday requests. For renovation projects, we typically schedule an initial walkthrough within one to two business days of your first call.
+From our Tampa Bay base, our crews reach Oldsmar via the Veterans Expressway or SR-580, depending on traffic and the time of day. We operate 24/7, so emergency calls that come in overnight or on weekends get the same scheduling priority as weekday requests. For renovation projects, we typically schedule an initial walkthrough within one to two business days of your first call.
 
 ## Local Note
 

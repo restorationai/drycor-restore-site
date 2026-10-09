@@ -45,7 +45,7 @@ After a major loss, getting a permit pulled and work inspected correctly matters
 
 ## Coverage and how fast we can get there
 
-From DRYCOR RESTORE's Thonotosassa headquarters, the most direct route to St. Pete Beach runs west on I-4, south on I-275, and across the Howard Frankland Bridge, then down through St. Petersburg to the island. The drive typically runs between 45 and 60 minutes depending on traffic on the bridge corridor and along Gulf Boulevard. Because DRYCOR RESTORE operates 24/7, calls that come in during off-peak overnight hours often reach the island faster than calls during afternoon rush, when the bridge and the Pinellas Bayway can back up significantly. Once on the island, the team can stage equipment at the property and begin extraction without waiting for a second crew.
+From DRYCOR RESTORE's Tampa Bay headquarters, the most direct route to St. Pete Beach runs west on I-4, south on I-275, and across the Howard Frankland Bridge, then down through St. Petersburg to the island. The drive typically runs between 45 and 60 minutes depending on traffic on the bridge corridor and along Gulf Boulevard. Because DRYCOR RESTORE operates 24/7, calls that come in during off-peak overnight hours often reach the island faster than calls during afternoon rush, when the bridge and the Pinellas Bayway can back up significantly. Once on the island, the team can stage equipment at the property and begin extraction without waiting for a second crew.
 
 ## Building stock, site conditions, and permits in St. Pete Beach
 

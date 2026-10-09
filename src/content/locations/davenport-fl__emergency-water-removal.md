@@ -46,7 +46,7 @@ Every job follows the same disciplined sequence, calibrated to what we actually 
 
 ## Reaching Davenport from Thonotosassa
 
-DRYCOR RESTORE operates from Thonotosassa, and the primary route to Davenport runs west on I-4 to the US-27 corridor, which bisects the city north to south. Because Davenport has expanded significantly along the US-27 and Champions Gate corridors, the practical travel window varies by time of day. We dispatch 24 hours a day, seven days a week, so a call at 2 a.m. after a pipe burst reaches a live dispatcher, not a voicemail.
+DRYCOR RESTORE operates from its Tampa Bay base, and the primary route to Davenport runs west on I-4 to the US-27 corridor, which bisects the city north to south. Because Davenport has expanded significantly along the US-27 and Champions Gate corridors, the practical travel window varies by time of day. We dispatch 24 hours a day, seven days a week, so a call at 2 a.m. after a pipe burst reaches a live dispatcher, not a voicemail.
 
 For properties in the communities along Ronald Reagan Parkway or further east toward the Polk-Osceola county line, we account for that additional distance when coordinating arrival. Call (813) 829-1091 and give the dispatcher your address; they will confirm the estimated arrival window honestly.
 

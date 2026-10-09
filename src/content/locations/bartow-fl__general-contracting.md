@@ -36,7 +36,7 @@ From there, the process moves through permitted plans where required, material s
 
 ## Reaching Bartow from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and the route to Bartow is a straightforward run west on I-4 to US-98 South into Polk County. For project consultations and scheduled construction work, the team coordinates arrival times directly with homeowners and property managers. Because the company operates around the clock, reaching the Bartow area for urgent post-damage assessment or time-sensitive rebuild coordination is not limited to business hours. Call (813) 829-1091 to discuss scheduling.
+DRYCOR RESTORE is based in the Tampa Bay area, and the route to Bartow is a straightforward run west on I-4 to US-98 South into Polk County. For project consultations and scheduled construction work, the team coordinates arrival times directly with homeowners and property managers. Because the company operates around the clock, reaching the Bartow area for urgent post-damage assessment or time-sensitive rebuild coordination is not limited to business hours. Call (813) 829-1091 to discuss scheduling.
 
 ## Local Note: Plaster Walls and Renovation Sequencing in Bartow's Older Homes
 

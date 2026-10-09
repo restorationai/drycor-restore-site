@@ -43,7 +43,7 @@ After removal, affected structural surfaces are cleaned, treated with an EPA-reg
 
 ## Reaching North Port from Thonotosassa
 
-DRYCOR RESTORE operates 24 hours a day, every day, and North Port is reachable from the Thonotosassa area via I-75 south through Sarasota County. The route is direct and avoids the congestion that can slow response in denser coastal markets. Whether the call comes from the newer developments along the city's western edge or from longer-established areas closer to the Myakkahatchee Creek corridor, crews can mobilize at any hour.
+DRYCOR RESTORE operates 24 hours a day, every day, and North Port is reachable from its Tampa Bay base via I-75 south through Sarasota County. The route is direct and avoids the congestion that can slow response in denser coastal markets. Whether the call comes from the newer developments along the city's western edge or from longer-established areas closer to the Myakkahatchee Creek corridor, crews can mobilize at any hour.
 
 ## North Port Insurance Coordination
 

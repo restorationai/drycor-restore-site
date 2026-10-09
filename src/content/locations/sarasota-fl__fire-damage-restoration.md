@@ -40,9 +40,9 @@ Structural drying runs concurrently with smoke remediation. Water from suppressi
 
 Odor control is the final technical step before reconstruction begins. Thermal fogging and hydroxyl generation are both available depending on occupancy status and the extent of penetration into porous materials. In homes with original plaster walls, odor treatment requires more dwell time than in drywall construction because plaster absorbs and releases volatile compounds more slowly.
 
-## Reaching Sarasota from Thonotosassa
+## Reaching Sarasota From Our Tampa Bay Base
 
-DRYCOR RESTORE operates 24/7, and Sarasota is reachable from our Thonotosassa headquarters via I-75 South. The route is direct and consistent at most hours, with the main variable being the I-75 and University Parkway interchange during peak commute windows. For properties in the downtown Sarasota corridor, Fruitville Road or Bee Ridge Road provide efficient access from the interstate depending on the specific address. We call ahead when en route so property owners or first responders on-site know when to expect us.
+DRYCOR RESTORE operates 24/7, and Sarasota is reachable from our Tampa Bay headquarters via I-75 South. The route is direct and consistent at most hours, with the main variable being the I-75 and University Parkway interchange during peak commute windows. For properties in the downtown Sarasota corridor, Fruitville Road or Bee Ridge Road provide efficient access from the interstate depending on the specific address. We call ahead when en route so property owners or first responders on-site know when to expect us.
 
 ## Sarasota Insurance Coordination
 

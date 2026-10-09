@@ -43,7 +43,7 @@ Items are returned only after the structure passes moisture readings, not before
 
 ## Reaching Palmetto from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and the primary route to Palmetto runs south on I-75 to the US-301 corridor into Manatee County. Because Palmetto is a 24/7 service area, calls received at any hour are dispatched without delay. The team coordinates directly with homeowners on access, particularly for properties in gated communities or waterfront areas where staging a box truck requires a heads-up to a property manager or HOA.
+DRYCOR RESTORE is based in the Tampa Bay area, and the primary route to Palmetto runs south on I-75 to the US-301 corridor into Manatee County. Because Palmetto is a 24/7 service area, calls received at any hour are dispatched without delay. The team coordinates directly with homeowners on access, particularly for properties in gated communities or waterfront areas where staging a box truck requires a heads-up to a property manager or HOA.
 
 ## Palmetto Insurance Coordination
 

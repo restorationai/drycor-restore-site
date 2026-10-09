@@ -40,7 +40,7 @@ const {
         <input type="tel" name="phone" required autocomplete="tel" maxlength="30" placeholder="Phone *"
           class="rounded-md border border-white/15 bg-white/5 px-3.5 py-2.5 text-base text-white placeholder-white/40 focus:border-white/50 focus:outline-none" />
       </div>
-      <input type="text" name="city" required autocomplete="postal-code" maxlength="80" placeholder={`City or ZIP * (${brand.primaryCity})`}
+      <input type="text" name="city" required autocomplete="postal-code" maxlength="80" placeholder={`City or ZIP * (Tampa)`}
         class="rounded-md border border-white/15 bg-white/5 px-3.5 py-2.5 text-base text-white placeholder-white/40 focus:border-white/50 focus:outline-none" />
       <textarea name="description" rows="2" maxlength="2000" placeholder="What happened?"
         class="rounded-md border border-white/15 bg-white/5 px-3.5 py-2.5 text-base text-white placeholder-white/40 focus:border-white/50 focus:outline-none resize-y"></textarea>
@@ -102,7 +102,7 @@ const {
             <input
               type="text" name="city" required autocomplete="postal-code" maxlength="80"
               class="w-full min-w-0 rounded-md border border-white/15 bg-white/5 px-4 py-3 text-base font-normal normal-case tracking-normal text-white placeholder-white/40 focus:border-white/50 focus:outline-none"
-              placeholder={`${brand.primaryCity} or ZIP`}
+              placeholder={`Tampa or ZIP`}
             />
           </label>
           <label class="grid gap-1.5 text-sm font-bold uppercase tracking-widest text-white/70 sm:col-span-2">
@@ -175,7 +175,7 @@ const {
             <span class="w-10 h-10 rounded-xl bg-primary-600/20 text-primary-400 flex items-center justify-center shrink-0 font-black">⌖</span>
             <div>
               <p class="text-white/60 text-xs font-bold uppercase tracking-wider mb-0.5">Service Area</p>
-              <p class="font-bold text-white mb-0">{brand.primaryCity}, {brand.primaryState} and surrounding communities</p>
+              <p class="font-bold text-white mb-0">{brand.marketArea} and surrounding communities</p>
             </div>
           </div>
         </div>

@@ -38,7 +38,7 @@ From there, the process moves through permitting, material procurement, and a ph
 
 ## Reaching Palm Harbor from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts the team on US-19 or the Veterans Expressway depending on traffic, with typical routing through the interchange at SR-580 to reach central Palm Harbor. The team is available around the clock, which matters most on post-damage rebuild projects where a homeowner needs to confirm scope or adjust scheduling outside of standard business hours. For larger remodel projects, the project manager will establish a regular communication cadence so nothing waits on a callback.
+DRYCOR RESTORE's base in the Tampa Bay area puts the team on US-19 or the Veterans Expressway depending on traffic, with typical routing through the interchange at SR-580 to reach central Palm Harbor. The team is available around the clock, which matters most on post-damage rebuild projects where a homeowner needs to confirm scope or adjust scheduling outside of standard business hours. For larger remodel projects, the project manager will establish a regular communication cadence so nothing waits on a callback.
 
 ## Palm Harbor HOA and Permit Coordination
 

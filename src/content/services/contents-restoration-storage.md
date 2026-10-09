@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Contents Restoration & Storage in Thonotosassa | DRYCOR RESTORE"
-h1: "Contents Restoration & Storage in Thonotosassa"
-meta_description: "24/7 contents restoration & storage in Thonotosassa and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
+title: "Contents Restoration & Storage in Tampa Bay | DRYCOR RESTORE"
+h1: "Contents Restoration & Storage in Tampa Bay"
+meta_description: "24/7 contents restoration & storage in Tampa Bay and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
 primary_keyword: "contents restoration & storage thonotosasa"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -78,4 +78,4 @@ Older construction in and around Thonotosassa, including homes built before mode
 
 ## Service area
 
-DRYCOR RESTORE is based in Thonotosassa and provides contents restoration and storage services throughout Hillsborough County and the surrounding region, including Tampa, Brandon, Valrico, Seffner, Plant City, and neighboring communities. Each city-level service page links back here for the full process detail.
+DRYCOR RESTORE is based in the Tampa Bay area and provides contents restoration and storage services throughout Hillsborough County and the surrounding region, including Tampa, Brandon, Valrico, Seffner, Plant City, and neighboring communities. Each city-level service page links back here for the full process detail.

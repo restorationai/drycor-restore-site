@@ -36,7 +36,7 @@ From there, the process is straightforward: scope definition, permit application
 
 ## Reaching Land O' Lakes from Our Thonotosassa Location
 
-Our base in Thonotosassa puts us a practical drive from Land O' Lakes via US-301 north to SR-54, one of the main east-west corridors that connects the older sections of Land O' Lakes near the lakes themselves to the newer planned communities spreading west toward Sunlake Boulevard and north toward Collier Parkway. We're available around the clock, for urgent post-damage situations, that means we can mobilize quickly without waiting for a business-hours window to open.
+Our base in the Tampa Bay area puts us a practical drive from Land O' Lakes via US-301 north to SR-54, one of the main east-west corridors that connects the older sections of Land O' Lakes near the lakes themselves to the newer planned communities spreading west toward Sunlake Boulevard and north toward Collier Parkway. We're available around the clock, for urgent post-damage situations, that means we can mobilize quickly without waiting for a business-hours window to open.
 
 For larger remodel projects, proximity matters for site visits, material deliveries, and the kind of in-person check-ins that keep a job on schedule. Being based in the greater Tampa Bay area, not a national franchise dispatching from across the state, means the crew working your project is familiar with local suppliers, local inspectors, and how Pasco County's permit office actually operates.
 

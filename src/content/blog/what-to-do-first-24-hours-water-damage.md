@@ -84,4 +84,4 @@ The drying phase alone typically takes three to five days depending on materials
 
 ---
 
-If you're in the middle of this right now and the scope feels beyond what you can manage alone, DRYCOR RESTORE serves Thonotosassa and the surrounding area. You can reach the team at **(813) 829-1091**. Even if you're still deciding what to do, a phone call can help you understand what you're actually dealing with before the window for a clean recovery closes.
+If you're in the middle of this right now and the scope feels beyond what you can manage alone, DRYCOR RESTORE serves Tampa Bay and the surrounding area. You can reach the team at **(813) 829-1091**. Even if you're still deciding what to do, a phone call can help you understand what you're actually dealing with before the window for a clean recovery closes.

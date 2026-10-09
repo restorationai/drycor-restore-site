@@ -36,7 +36,7 @@ Once the scope is confirmed, the affected area is isolated with negative air pre
 
 ## Reaching Winter Haven from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa, which puts Winter Haven roughly along the I-4 corridor heading southwest toward the US-17 and US-92 interchange that feeds into the heart of Polk County. The team is available around the clock, 24/7, so a call at 2 a.m. after a homeowner notices a musty smell coming from a closet wall gets the same response as a mid-morning call. Crews can stage equipment and begin the initial assessment the same day in most cases. If you're in the northern reaches of Winter Haven near the Chain of Lakes area or further south toward the US-27 corridor, routing is straightforward and adds little to mobilization time.
+DRYCOR RESTORE operates out of its Tampa Bay base, which puts Winter Haven roughly along the I-4 corridor heading southwest toward the US-17 and US-92 interchange that feeds into the heart of Polk County. The team is available around the clock, 24/7, so a call at 2 a.m. after a homeowner notices a musty smell coming from a closet wall gets the same response as a mid-morning call. Crews can stage equipment and begin the initial assessment the same day in most cases. If you're in the northern reaches of Winter Haven near the Chain of Lakes area or further south toward the US-27 corridor, routing is straightforward and adds little to mobilization time.
 
 ## Winter Haven Insurance Coordination
 

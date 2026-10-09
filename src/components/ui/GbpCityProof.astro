@@ -20,7 +20,7 @@ const review = hasRating && reviews.length > 0 ? reviews[cityHash(city) % review
 const ratingTail = Number(count) >= 100 ? `★ ${rating} · ${count} Google reviews` : `★ ${rating} on Google`;
 const heading = isHqCity(city)
   ? `Headquartered right here in ${city} — ${ratingTail}`
-  : `Serving ${city} from our ${brand.primaryCity} headquarters — ${ratingTail}`;
+  : `Serving ${city} from our ${brand.marketArea} headquarters — ${ratingTail}`;
 const reviewsUrl = brand.placeId
   ? `https://search.google.com/local/reviews?placeid=${brand.placeId}`
   : brand.googleCid

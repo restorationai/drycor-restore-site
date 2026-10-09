@@ -36,7 +36,7 @@ Extraction follows using truck-mounted and portable pumping units sized to the l
 
 If your home was built before 1978, our EPA Lead-Safe certification covers the controlled demolition of any wet drywall or plaster that cannot be saved during the removal, keeping your family and our crew protected during tear-out.
 
-## Reaching Tarpon Springs from Thonotosassa
+## Reaching Tarpon Springs From Our Tampa Bay Base
 
 Our crews travel US-19 and the Suncoast Parkway corridor to reach Tarpon Springs and the surrounding Pinellas County coast. Because we operate 24 hours a day, seven days a week, a call at 2 a.m. after a washing machine supply line fails gets the same dispatch priority as a midday call for emergency water removal. We do not quote response-time minutes here because traffic on US-19 through New Port Richey and Holiday varies significantly, but we stay in contact from the moment you call so you know exactly where the crew is.
 

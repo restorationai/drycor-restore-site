@@ -38,7 +38,7 @@ During the home restoration phase, contents are stored securely in our controlle
 
 ## Reaching Sun City Center from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa, and the route to Sun City Center runs south on I-75 through the heart of Hillsborough County. Because this is a 24/7 operation, crews can mobilize at any hour, which matters in a community where many residents may not have adult children or nearby family to help manage an emergency in the middle of the night. The team calls ahead on every dispatch so residents know exactly when to expect arrival, particularly important in a planned community where gate access and parking logistics can slow down an unannounced vehicle.
+DRYCOR RESTORE operates out of its Tampa Bay base, and the route to Sun City Center runs south on I-75 through the heart of Hillsborough County. Because this is a 24/7 operation, crews can mobilize at any hour, which matters in a community where many residents may not have adult children or nearby family to help manage an emergency in the middle of the night. The team calls ahead on every dispatch so residents know exactly when to expect arrival, particularly important in a planned community where gate access and parking logistics can slow down an unannounced vehicle.
 
 ## Insurance and HOA Coordination in Sun City Center
 

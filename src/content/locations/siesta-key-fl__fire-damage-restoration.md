@@ -36,7 +36,7 @@ Smoke and odor removal on the island requires more than ozone treatment or simpl
 
 ## Reaching Siesta Key from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts crews on I-75 South toward Sarasota County, then west on Clark Road or Stickney Point Road to reach the island via the Stickney Point Bridge or the Siesta Drive Bridge depending on the address. Because Siesta Key is a barrier island with two main access points, traffic patterns during peak season and storm events can affect routing. The team monitors conditions and selects the faster crossing in real time. Calls answered 24 hours a day mean the response process starts the moment you call (813) 829-1091, regardless of the hour.
+DRYCOR RESTORE's base in the Tampa Bay area puts crews on I-75 South toward Sarasota County, then west on Clark Road or Stickney Point Road to reach the island via the Stickney Point Bridge or the Siesta Drive Bridge depending on the address. Because Siesta Key is a barrier island with two main access points, traffic patterns during peak season and storm events can affect routing. The team monitors conditions and selects the faster crossing in real time. Calls answered 24 hours a day mean the response process starts the moment you call (813) 829-1091, regardless of the hour.
 
 ## Siesta Key Insurance and HOA Coordination
 

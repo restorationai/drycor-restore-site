@@ -38,7 +38,7 @@ We photograph every opening before and after securing it, document the materials
 
 ## Reaching Pinellas Park from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts crews on US-92 and I-4 westbound, connecting to I-275 south into Pinellas County. From there, 66th Street N and Park Boulevard are the primary arterials into Pinellas Park's residential grid. Because the city's street layout runs on a tight east-west block system, crews can navigate to most addresses efficiently once they're off the interchange, there's no single choke point the way some coastal barrier island routes create. DRYCOR's 24/7 availability means a call at 2 a.m. after a lightning strike gets the same dispatch response as a mid-morning call.
+DRYCOR RESTORE's base in the Tampa Bay area puts crews on US-92 and I-4 westbound, connecting to I-275 south into Pinellas County. From there, 66th Street N and Park Boulevard are the primary arterials into Pinellas Park's residential grid. Because the city's street layout runs on a tight east-west block system, crews can navigate to most addresses efficiently once they're off the interchange, there's no single choke point the way some coastal barrier island routes create. DRYCOR's 24/7 availability means a call at 2 a.m. after a lightning strike gets the same dispatch response as a mid-morning call.
 
 ## Pinellas Park Insurance Coordination
 

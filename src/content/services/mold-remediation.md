@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Mold Remediation in Thonotosassa | DRYCOR RESTORE"
-h1: "Mold Remediation in Thonotosassa"
-meta_description: "24/7 mold remediation in Thonotosassa and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
+title: "Mold Remediation in Tampa Bay | DRYCOR RESTORE"
+h1: "Mold Remediation in Tampa Bay"
+meta_description: "24/7 mold remediation in Tampa Bay and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
 primary_keyword: "mold remediation thonotosasa"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -81,4 +81,4 @@ Post-hurricane and post-tropical-storm periods are the highest-risk windows. Roo
 
 ## Service area
 
-DRYCOR RESTORE is based in Thonotosassa and serves communities throughout Hillsborough County and surrounding areas, including [Tampa](/service-areas/tampa-fl/mold-remediation/), [Brandon](/service-areas/brandon-fl/mold-remediation/), [Seffner](/service-areas/seffner-fl/mold-remediation/), [Plant City](/service-areas/plant-city-fl/mold-remediation/), Valrico, Lutz, Land O' Lakes, and New Tampa. City-specific pages for mold remediation in each community link back to this page for full process and technical detail.
+DRYCOR RESTORE is based in the Tampa Bay area and serves communities throughout Hillsborough County and surrounding areas, including [Tampa](/service-areas/tampa-fl/mold-remediation/), [Brandon](/service-areas/brandon-fl/mold-remediation/), [Seffner](/service-areas/seffner-fl/mold-remediation/), [Plant City](/service-areas/plant-city-fl/mold-remediation/), Valrico, Lutz, Land O' Lakes, and New Tampa. City-specific pages for mold remediation in each community link back to this page for full process and technical detail.

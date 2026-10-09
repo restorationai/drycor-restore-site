@@ -36,9 +36,9 @@ On arrival, the crew assesses the full perimeter before touching anything. Fire-
 
 Board-up uses exterior-grade plywood cut and fitted to each opening, secured in a way that resists wind uplift rather than simply covering the gap. Roof tarping is anchored with batten boards and weighted edges rather than staples alone, because a tarp that peels back in the next rain event has accomplished nothing. The IICRC-certified team follows a sequenced process: secure the structure, document the damage, communicate with the homeowner or property manager, and leave the site in a condition that a claims adjuster can walk through without disturbing the evidence.
 
-## Reaching Anna Maria from Thonotosassa
+## Reaching Anna Maria From Our Tampa Bay Base
 
-The drive from DRYCOR RESTORE's Thonotosassa base to Anna Maria runs west on SR-60 to I-275, then south and across the Sunshine Skyway corridor or west on US-41 to Manatee Avenue, depending on traffic and time of day. The island's single-road-in, single-road-out layout means our dispatchers monitor bridge and causeway conditions in real time, particularly after a storm event when debris or emergency closures can affect access. Because we operate 24/7, a call at 2 a.m. after a fire or a midnight squall gets the same crew mobilization as a call at noon.
+The drive from DRYCOR RESTORE's Tampa Bay base to Anna Maria runs west on SR-60 to I-275, then south and across the Sunshine Skyway corridor or west on US-41 to Manatee Avenue, depending on traffic and time of day. The island's single-road-in, single-road-out layout means our dispatchers monitor bridge and causeway conditions in real time, particularly after a storm event when debris or emergency closures can affect access. Because we operate 24/7, a call at 2 a.m. after a fire or a midnight squall gets the same crew mobilization as a call at noon.
 
 ## Anna Maria Insurance and HOA Coordination
 

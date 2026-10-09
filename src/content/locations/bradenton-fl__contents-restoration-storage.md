@@ -42,7 +42,7 @@ When your property is cleared for move-back, we coordinate delivery and placemen
 
 ## Reaching Bradenton from Thonotosassa
 
-DRYCOR RESTORE operates out of Thonotosassa, which puts Bradenton within practical reach via I-75 south to SR-64 west, a straightforward corridor that avoids the congestion patterns of downtown Tampa. Because we operate 24/7, a call at 2 a.m. after a pipe failure or storm event gets the same response as a call during business hours. Crews can mobilize toward Bradenton without waiting for a morning shift change.
+DRYCOR RESTORE operates out of its Tampa Bay base, which puts Bradenton within practical reach via I-75 south to SR-64 west, a straightforward corridor that avoids the congestion patterns of downtown Tampa. Because we operate 24/7, a call at 2 a.m. after a pipe failure or storm event gets the same response as a call during business hours. Crews can mobilize toward Bradenton without waiting for a morning shift change.
 
 ## Bradenton Insurance Coordination
 

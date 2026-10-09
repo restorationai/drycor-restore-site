@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Commercial Restoration in Thonotosassa | DRYCOR RESTORE"
-h1: "Commercial Restoration in Thonotosassa"
-meta_description: "24/7 commercial restoration in Thonotosassa and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
+title: "Commercial Restoration in Tampa Bay | DRYCOR RESTORE"
+h1: "Commercial Restoration in Tampa Bay"
+meta_description: "24/7 commercial restoration in Tampa Bay and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
 primary_keyword: "commercial restoration thonotosassa"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -57,6 +57,6 @@ Thonotosassa's wet season brings heavy afternoon storms and occasional tropical 
 
 ## Service area
 
-DRYCOR RESTORE handles commercial restoration throughout Thonotosassa and the surrounding Hillsborough County area, including Tampa, Plant City, and Temple Terrace. Response coordination is adjusted for building type, whether it's a single-tenant office, a strip mall, or a multi-story commercial property with shared systems.
+DRYCOR RESTORE handles commercial restoration throughout Tampa Bay and the surrounding Hillsborough County area, including Tampa, Plant City, and Temple Terrace. Response coordination is adjusted for building type, whether it's a single-tenant office, a strip mall, or a multi-story commercial property with shared systems.
 
 If your business has water, fire, or storm damage and you need a scope of work that accounts for tenants, occupancy, and insurance documentation, call DRYCOR RESTORE at (813) 829-1091 to schedule a commercial site assessment.

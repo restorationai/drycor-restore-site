@@ -38,7 +38,7 @@ After extraction and material removal, every affected surface is treated with EP
 
 ## Reaching Haines City from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and the primary route to Haines City runs south on US-98 through Lakeland and into Polk County, or via I-4 west to US-27 south depending on traffic. Haines City is reachable any hour, and because sewage backups do not wait for business hours, the team is available 24/7. If you are calling from the northern end of the city near US-17 or from areas closer to the Lake Hamilton corridor, access is straightforward and does not require navigating through downtown congestion.
+DRYCOR RESTORE is based in the Tampa Bay area, and the primary route to Haines City runs south on US-98 through Lakeland and into Polk County, or via I-4 west to US-27 south depending on traffic. Haines City is reachable any hour, and because sewage backups do not wait for business hours, the team is available 24/7. If you are calling from the northern end of the city near US-17 or from areas closer to the Lake Hamilton corridor, access is straightforward and does not require navigating through downtown congestion.
 
 ## Haines City Insurance and Coordination
 

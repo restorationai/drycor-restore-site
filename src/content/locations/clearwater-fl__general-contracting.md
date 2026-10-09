@@ -44,7 +44,7 @@ For post-damage rebuilds, rooms that were affected by water, fire, or mold, the 
 
 ## Reaching Clearwater from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 out of Thonotosassa, which puts the Clearwater area roughly an hour's drive west via I-4 to I-275 South or SR-60 depending on traffic and the specific part of the city. For renovation and remodeling projects, scheduling is coordinated in advance and we work around your timeline rather than treating every project as an emergency dispatch. For post-damage rebuild work that follows an active restoration, we can often transition crews directly from the remediation phase to the rebuild phase without the gap that comes from hiring a separate contractor.
+DRYCOR RESTORE operates 24/7 out of its Tampa Bay base, which puts the Clearwater area roughly an hour's drive west via I-4 to I-275 South or SR-60 depending on traffic and the specific part of the city. For renovation and remodeling projects, scheduling is coordinated in advance and we work around your timeline rather than treating every project as an emergency dispatch. For post-damage rebuild work that follows an active restoration, we can often transition crews directly from the remediation phase to the rebuild phase without the gap that comes from hiring a separate contractor.
 
 ## Clearwater Permitting, HOA, and Insurance Coordination
 

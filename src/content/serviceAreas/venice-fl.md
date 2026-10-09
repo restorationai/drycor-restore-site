@@ -51,7 +51,7 @@ Sewage backups, which can occur when storm surge overwhelms municipal lift stati
 
 ## Coverage and how fast we can get there
 
-From DRYCOR RESTORE's Thonotosassa base, the primary route to Venice runs south on I-75 to Exit 193 at Jacaranda Boulevard, then west into the Venice area. The drive covers roughly 65 miles and, outside of peak travel windows, typically falls well under two hours. Because DRYCOR RESTORE operates 24/7, calls that come in during overnight hours or on weekends reach a live dispatcher who can initiate crew deployment immediately rather than queuing for the next business day.
+From DRYCOR RESTORE's Tampa Bay base, the primary route to Venice runs south on I-75 to Exit 193 at Jacaranda Boulevard, then west into the Venice area. The drive covers roughly 65 miles and, outside of peak travel windows, typically falls well under two hours. Because DRYCOR RESTORE operates 24/7, calls that come in during overnight hours or on weekends reach a live dispatcher who can initiate crew deployment immediately rather than queuing for the next business day.
 
 Venice's geography includes both the mainland and the barrier island connected by the Venice Avenue causeway. Crews familiar with the area know that island addresses require crossing that causeway, and routing is planned accordingly.
 

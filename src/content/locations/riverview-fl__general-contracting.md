@@ -42,7 +42,7 @@ Many of Riverview's planned communities also carry active HOA covenants that gov
 
 ## Reaching Riverview from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts the crew on US-301 South or I-75 South to reach Riverview quickly, routes that stay navigable even during peak Tampa commute hours if timed right. For post-damage situations, the team is available around the clock, every day of the year, so a call at any hour connects to a live response rather than a voicemail queue. For planned renovation projects, scheduling visits during off-peak morning hours keeps drive time predictable and keeps the crew on-site longer.
+DRYCOR RESTORE's base in the Tampa Bay area puts the crew on US-301 South or I-75 South to reach Riverview quickly, routes that stay navigable even during peak Tampa commute hours if timed right. For post-damage situations, the team is available around the clock, every day of the year, so a call at any hour connects to a live response rather than a voicemail queue. For planned renovation projects, scheduling visits during off-peak morning hours keeps drive time predictable and keeps the crew on-site longer.
 
 ## Local Note
 

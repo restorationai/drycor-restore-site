@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Reconstruction Services in Thonotosassa | DRYCOR RESTORE"
-h1: "Reconstruction Services in Thonotosassa"
-meta_description: "24/7 reconstruction services in Thonotosassa and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
+title: "Reconstruction Services in Tampa Bay | DRYCOR RESTORE"
+h1: "Reconstruction Services in Tampa Bay"
+meta_description: "24/7 reconstruction services in Tampa Bay and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
 primary_keyword: "reconstruction services thonotosassa"
 secondary_keywords: ["post-damage reconstruction", "rebuild services", "structural reconstruction", "post-disaster rebuilding", "fire damage reconstruction"]
 search_intent: "local_commercial"
@@ -53,6 +53,6 @@ Thonotosassa's older housing stock and the humid Gulf Coast climate both affect 
 
 ## Service area
 
-DRYCOR RESTORE handles reconstruction projects in Thonotosassa and throughout the surrounding area, including Tampa, Plant City, Lutz, and Zephyrhills.
+DRYCOR RESTORE handles reconstruction projects across Tampa Bay and throughout the surrounding area, including Tampa, Plant City, Lutz, and Zephyrhills.
 
 If your home has been stripped down to studs and subfloor after water, fire, or storm damage, the next step is getting a written scope of work so you know exactly what's being rebuilt and what it will take to close the job out with your insurer. Call (813) 829-1091 to get a reconstruction scope of work started.

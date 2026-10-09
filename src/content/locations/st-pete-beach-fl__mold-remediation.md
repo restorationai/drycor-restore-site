@@ -36,7 +36,7 @@ Demolition of unsalvageable materials is followed by HEPA vacuuming of all frami
 
 ## Reaching St. Pete Beach from Thonotosassa
 
-DRYCOR RESTORE operates 24/7, and the route from Thonotosassa to St. Pete Beach runs west on I-4 to I-275 South, crossing the Howard Frankland Bridge and continuing down the Pinellas peninsula to the Corey Causeway or Gulf Boulevard, depending on the address. The barrier island's single main corridor, Gulf Boulevard, is the primary north-south artery, and knowing which end of the island a property sits on affects staging. Homes near the southern end of the city require a different approach than those closer to the Treasure Island city line to the north, particularly for larger equipment trailers that cannot easily turn around on the narrow residential streets running perpendicular to the Gulf.
+DRYCOR RESTORE operates 24/7, and the route from its Tampa Bay base to St. Pete Beach runs west on I-4 to I-275 South, crossing the Howard Frankland Bridge and continuing down the Pinellas peninsula to the Corey Causeway or Gulf Boulevard, depending on the address. The barrier island's single main corridor, Gulf Boulevard, is the primary north-south artery, and knowing which end of the island a property sits on affects staging. Homes near the southern end of the city require a different approach than those closer to the Treasure Island city line to the north, particularly for larger equipment trailers that cannot easily turn around on the narrow residential streets running perpendicular to the Gulf.
 
 ## St. Pete Beach Insurance Coordination
 

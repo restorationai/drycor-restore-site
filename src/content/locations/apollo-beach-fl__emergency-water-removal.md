@@ -40,7 +40,7 @@ Drying progress is documented at every visit with calibrated readings logged aga
 
 ## Reaching Apollo Beach from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts us on I-75 South and then US-41 or the Selmon Expressway toward Apollo Beach around the clock. Because we operate 24/7, a call at 2 a.m. after a water heater failure gets the same crew dispatch as a call at noon. Apollo Beach's position at the end of Apollo Beach Boulevard means there is essentially one primary route in from the north, we account for that when routing crews so that a single traffic bottleneck does not delay a response.
+DRYCOR RESTORE's base in the Tampa Bay area puts us on I-75 South and then US-41 or the Selmon Expressway toward Apollo Beach around the clock. Because we operate 24/7, a call at 2 a.m. after a water heater failure gets the same crew dispatch as a call at noon. Apollo Beach's position at the end of Apollo Beach Boulevard means there is essentially one primary route in from the north, we account for that when routing crews so that a single traffic bottleneck does not delay a response.
 
 ## Apollo Beach Insurance & HOA Coordination
 

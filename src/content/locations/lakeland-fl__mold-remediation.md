@@ -42,7 +42,7 @@ For homes with lead-based paint, a real consideration in Lakeland properties bui
 
 ## Reaching Lakeland from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, which puts Lakeland well within our regular service area. The most direct route runs west on I-4 and drops into Lakeland in under an hour under normal conditions, less during off-peak hours. We're available around the clock, so if you're calling at 2 a.m. after discovering a leak that's been running behind a wall, you're not waiting until morning to get a response.
+DRYCOR RESTORE is based in the Tampa Bay area, which puts Lakeland well within our regular service area. The most direct route runs west on I-4 and drops into Lakeland in under an hour under normal conditions, less during off-peak hours. We're available around the clock, so if you're calling at 2 a.m. after discovering a leak that's been running behind a wall, you're not waiting until morning to get a response.
 
 ## Local Note
 

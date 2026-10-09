@@ -36,9 +36,9 @@ On Clearwater properties with tile roofs, a dominant roofing style throughout th
 
 All work is photographed systematically: wide shots for context, close-ups of each opening before and after boarding, and detail shots of fastener placement and tarp overlap. That documentation package goes directly to your insurance adjuster.
 
-## Reaching Clearwater from Thonotosassa
+## Reaching Clearwater From Our Tampa Bay Base
 
-Our crews run 24/7, and Clearwater is a regular part of our service area. From our Thonotosassa base, the fastest routing typically follows SR-60 west through Brandon and across the Courtney Campbell Causeway, putting us into central Clearwater. For properties on the beach side or near the Sand Key area, we continue west on SR-60 to Gulf-to-Bay Boulevard and then south. For northern Clearwater addresses, US-19 is often the more direct approach. We do not quote specific arrival minutes because traffic on the causeway and US-19 varies significantly, but our dispatch team will give you a realistic ETA when you call (813) 829-1091.
+Our crews run 24/7, and Clearwater is a regular part of our service area. From our Tampa Bay base, the fastest routing typically follows SR-60 west through Brandon and across the Courtney Campbell Causeway, putting us into central Clearwater. For properties on the beach side or near the Sand Key area, we continue west on SR-60 to Gulf-to-Bay Boulevard and then south. For northern Clearwater addresses, US-19 is often the more direct approach. We do not quote specific arrival minutes because traffic on the causeway and US-19 varies significantly, but our dispatch team will give you a realistic ETA when you call (813) 829-1091.
 
 ## Insurance and HOA Coordination in Clearwater
 

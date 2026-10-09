@@ -40,7 +40,7 @@ Once your home passes clearance and reconstruction is complete, contents are ret
 
 ## Reaching Nokomis from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 out of Thonotosassa, and the route south to Nokomis runs primarily on I-75 to Exit 195, then west on Laurel Road into the heart of the community. The team is available around the clock, so a call at 2 a.m. after a storm surge reaches the same crew as a call at noon. When you reach out at (813) 829-1091, dispatch begins immediately regardless of the hour.
+DRYCOR RESTORE operates 24/7 out of its Tampa Bay base, and the route south to Nokomis runs primarily on I-75 to Exit 195, then west on Laurel Road into the heart of the community. The team is available around the clock, so a call at 2 a.m. after a storm surge reaches the same crew as a call at noon. When you reach out at (813) 829-1091, dispatch begins immediately regardless of the hour.
 
 ## Nokomis Insurance Coordination for Contents Claims
 

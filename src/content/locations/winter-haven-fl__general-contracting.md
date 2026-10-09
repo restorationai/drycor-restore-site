@@ -43,7 +43,7 @@ For kitchen and bathroom remodels specifically, we coordinate all subcontractors
 
 ## Reaching Winter Haven from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and Winter Haven sits roughly an hour southwest via I-4 and US-17 or US-92 depending on the specific address. For emergency post-damage situations, a burst pipe, a roof failure after a storm, we're available around the clock to take your call and get a crew dispatched. Scheduling for planned renovations is coordinated directly with your project manager, who will confirm lead times and start dates based on current project load and permit timelines.
+DRYCOR RESTORE is based in the Tampa Bay area, and Winter Haven sits roughly an hour southwest via I-4 and US-17 or US-92 depending on the specific address. For emergency post-damage situations, a burst pipe, a roof failure after a storm, we're available around the clock to take your call and get a crew dispatched. Scheduling for planned renovations is coordinated directly with your project manager, who will confirm lead times and start dates based on current project load and permit timelines.
 
 ## Winter Haven Insurance and Post-Damage Rebuild Coordination
 

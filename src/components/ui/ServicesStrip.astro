@@ -72,10 +72,10 @@ const homeCityServices = (await getCollection('services'))
         from the homepage. Inherits the section's text colour (light + dark). */}
     {homeCityServices.length > 0 && (
       <div class="mt-12">
-        <h3 class="text-sm font-black uppercase tracking-widest mb-4" style="color: inherit; opacity: .8">All our services in {brand.primaryCity}</h3>
+        <h3 class="text-sm font-black uppercase tracking-widest mb-4" style="color: inherit; opacity: .8">All our services in {brand.marketArea}</h3>
         <ul class="flex flex-wrap gap-x-6 gap-y-2 list-none p-0 m-0">
           {homeCityServices.map((s) => (
-            <li><a href={`/services/${s.data.service_slug}/`} class="underline decoration-1 underline-offset-4 hover:opacity-100" style="color: inherit; opacity: .85">{s.data.service_display} in {brand.primaryCity}</a></li>
+            <li><a href={`/services/${s.data.service_slug}/`} class="underline decoration-1 underline-offset-4 hover:opacity-100" style="color: inherit; opacity: .85">{s.data.service_display} in {brand.marketArea}</a></li>
           ))}
         </ul>
       </div>

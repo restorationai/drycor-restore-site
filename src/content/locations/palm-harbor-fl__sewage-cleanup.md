@@ -41,7 +41,7 @@ After removal, all hard surfaces are treated with EPA-registered disinfectants r
 
 ## Reaching Palm Harbor from Thonotosassa
 
-DRYCOR RESTORE's base in Thonotosassa puts crews on SR-54 west toward the Suncoast Parkway, then south into Pinellas County, reaching Palm Harbor's eastern neighborhoods before cutting across to communities closer to the Gulf. Because Palm Harbor is not a single incorporated city but an unincorporated community spanning a wide stretch of northern Pinellas, the actual drive time varies meaningfully depending on where in Palm Harbor the loss has occurred. Properties near the Alderman Road corridor are accessible from the north, while homes closer to the Ozona and Crystal Beach areas at the southern end of the Palm Harbor community require routing through Dunedin. DRYCOR RESTORE dispatches 24/7, so crews are moving toward the loss while you are still on the phone.
+DRYCOR RESTORE's base in the Tampa Bay area puts crews on SR-54 west toward the Suncoast Parkway, then south into Pinellas County, reaching Palm Harbor's eastern neighborhoods before cutting across to communities closer to the Gulf. Because Palm Harbor is not a single incorporated city but an unincorporated community spanning a wide stretch of northern Pinellas, the actual drive time varies meaningfully depending on where in Palm Harbor the loss has occurred. Properties near the Alderman Road corridor are accessible from the north, while homes closer to the Ozona and Crystal Beach areas at the southern end of the Palm Harbor community require routing through Dunedin. DRYCOR RESTORE dispatches 24/7, so crews are moving toward the loss while you are still on the phone.
 
 ## Palm Harbor Insurance Coordination
 

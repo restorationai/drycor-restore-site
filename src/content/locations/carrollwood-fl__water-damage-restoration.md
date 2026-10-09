@@ -34,7 +34,7 @@ We start with extraction using truck-mounted or portable pumps depending on how 
 
 ## Reaching Carrollwood from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, a short run across northern Hillsborough County to Carrollwood. Because we operate 24/7, a crew can be dispatched the moment you call, day or night, whether it's a burst washing machine hose at 2 a.m. or storm intrusion during an evening thunderstorm. We coordinate directly with whoever's on-site, homeowner, tenant, or property manager, so there's no delay waiting for someone to meet us at the door.
+DRYCOR RESTORE is based in the Tampa Bay area, a short run across northern Hillsborough County to Carrollwood. Because we operate 24/7, a crew can be dispatched the moment you call, day or night, whether it's a burst washing machine hose at 2 a.m. or storm intrusion during an evening thunderstorm. We coordinate directly with whoever's on-site, homeowner, tenant, or property manager, so there's no delay waiting for someone to meet us at the door.
 
 ## Carrollwood Insurance Coordination
 

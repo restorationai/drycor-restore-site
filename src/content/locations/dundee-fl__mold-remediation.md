@@ -36,9 +36,9 @@ Once the scope is clear, the affected area is sealed with polyethylene containme
 
 Because Dundee homes often feature block construction with interior furring strips and older fiberglass batt insulation, our crews are accustomed to removing and replacing these assemblies rather than attempting surface-only treatment, which rarely resolves the underlying saturation in that building type.
 
-## Reaching Dundee from Thonotosassa
+## Reaching Dundee From Our Tampa Bay Base
 
-DRYCOR RESTORE operates 24 hours a day, seven days a week. From our Thonotosassa base, the most direct route to Dundee runs west on I-4 to US-27 South, putting our crews into Polk County within a reasonable drive regardless of time of day. For properties on the north side of Dundee near Lake Haines, we typically approach via SR-542 to keep off the heavier US-27 commercial corridor. If you are calling from the southern end of town near the Lake Rosalie Road area, let the dispatcher know and we can route accordingly to reach you faster.
+DRYCOR RESTORE operates 24 hours a day, seven days a week. From our Tampa Bay base, the most direct route to Dundee runs west on I-4 to US-27 South, putting our crews into Polk County within a reasonable drive regardless of time of day. For properties on the north side of Dundee near Lake Haines, we typically approach via SR-542 to keep off the heavier US-27 commercial corridor. If you are calling from the southern end of town near the Lake Rosalie Road area, let the dispatcher know and we can route accordingly to reach you faster.
 
 ## Dundee Insurance and HOA Coordination
 

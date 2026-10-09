@@ -38,7 +38,7 @@ Storage continues until your home passes structural drying milestones, we coordi
 
 ## Reaching Dunedin from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 out of Thonotosassa, and Dunedin is reachable via SR-580 west through Oldsmar and Safety Harbor, a route that stays navigable even when I-275 backs up after a major storm event. For properties closer to the waterfront or the downtown corridor near the marina, crews can stage on Douglas Avenue or Skinner Boulevard without the access complications that narrower historic streets sometimes create in older Florida beach towns. Dispatch is available around the clock, so a call at 2 a.m. after a pipe failure reaches a live coordinator, not a voicemail.
+DRYCOR RESTORE operates 24/7 out of its Tampa Bay base, and Dunedin is reachable via SR-580 west through Oldsmar and Safety Harbor, a route that stays navigable even when I-275 backs up after a major storm event. For properties closer to the waterfront or the downtown corridor near the marina, crews can stage on Douglas Avenue or Skinner Boulevard without the access complications that narrower historic streets sometimes create in older Florida beach towns. Dispatch is available around the clock, so a call at 2 a.m. after a pipe failure reaches a live coordinator, not a voicemail.
 
 ## Local Note
 

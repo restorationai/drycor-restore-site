@@ -85,4 +85,4 @@ For smaller visible patches, say, a few square inches of surface mold on a bathr
 
 If you're in the research phase and not sure whether your situation is a DIY problem or a professional one, the honest answer is: when in doubt, get the inspection. A professional report either gives you peace of mind or gives you a remediation plan. A negative DIY kit result in a home with active moisture intrusion gives you false confidence.
 
-DRYCOR RESTORE offers mold inspection and testing services in Thonotosassa and the surrounding Hillsborough County area. If you've had a recent leak, noticed a persistent smell, or just want to know what you're dealing with, call (813) 829-1091 to schedule an assessment.
+DRYCOR RESTORE offers mold inspection and testing services across Tampa Bay and the surrounding Hillsborough County area. If you've had a recent leak, noticed a persistent smell, or just want to know what you're dealing with, call (813) 829-1091 to schedule an assessment.

@@ -40,7 +40,7 @@ Post-damage rebuilds follow the same licensed general contracting framework but 
 
 ## Reaching Sun City Center from Our Thonotosassa Location
 
-Drycor Restore operates out of Thonotosassa, and Sun City Center sits roughly 30 miles to the south via I-75. The route is straightforward, and we serve the area around the clock. For post-damage rebuilds and renovation consultations, we schedule site visits at times that work for you and confirm arrival windows in advance.
+Drycor Restore operates out of its Tampa Bay base, and Sun City Center sits roughly 30 miles to the south via I-75. The route is straightforward, and we serve the area around the clock. For post-damage rebuilds and renovation consultations, we schedule site visits at times that work for you and confirm arrival windows in advance.
 
 ## Local Note
 

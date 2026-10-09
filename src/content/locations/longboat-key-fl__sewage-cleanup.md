@@ -38,7 +38,7 @@ Final clearance involves moisture readings at multiple depths and a surface ATP 
 
 ## Reaching Longboat Key from Thonotosassa
 
-DRYCOR RESTORE operates 24/7, and the route to Longboat Key from the Thonotosassa base runs south on I-75 to the Sarasota exits, then west across the causeway onto the island. The island is accessible from the north via the Longboat Pass Bridge from Anna Maria Island, or from the south via the New Pass Bridge from Lido Key. Knowing which end of the island the call is coming from helps dispatch route the crew efficiently, especially during the peak winter season when Gulf of Mexico Drive sees heavy snowbird traffic. When you call (813) 829-1091, give the dispatcher the address and the nearest cross street so the team can confirm the best bridge approach.
+DRYCOR RESTORE operates 24/7, and the route to Longboat Key from the Tampa Bay base runs south on I-75 to the Sarasota exits, then west across the causeway onto the island. The island is accessible from the north via the Longboat Pass Bridge from Anna Maria Island, or from the south via the New Pass Bridge from Lido Key. Knowing which end of the island the call is coming from helps dispatch route the crew efficiently, especially during the peak winter season when Gulf of Mexico Drive sees heavy snowbird traffic. When you call (813) 829-1091, give the dispatcher the address and the nearest cross street so the team can confirm the best bridge approach.
 
 ## Longboat Key Insurance and HOA Coordination
 

@@ -34,9 +34,9 @@ The first priority on any fire loss is stabilization: boarding windows and doors
 
 From there, the process moves through documented debris removal, HEPA vacuuming of soot from framing and cavities, and thermal fogging or hydroxyl treatment for odor neutralization. Structural materials are assessed for char depth before any decision is made about replacement versus cleaning. Older tongue-and-groove wood ceilings common in island cottages often look worse than they are structurally; careful cleaning and encapsulation can preserve them where demolition would be unnecessary and costly. Throughout every phase, photo documentation is maintained for insurance purposes.
 
-## Reaching Anna Maria from Thonotosassa
+## Reaching Anna Maria From Our Tampa Bay Base
 
-DRYCOR RESTORE operates around the clock, and the route from Thonotosassa to Anna Maria Island runs west on I-4 to I-275, then south to the Manatee Avenue bridge crossing onto the island. Because Anna Maria has a single main corridor, the crew coordinates with the property owner on the best staging point before arrival, particularly for larger losses where multiple vehicles and equipment trailers are involved. Calling (813) 829-1091 immediately after the fire department clears the scene is the fastest way to get that coordination started.
+DRYCOR RESTORE operates around the clock, and the route from its Tampa Bay base to Anna Maria Island runs west on I-4 to I-275, then south to the Manatee Avenue bridge crossing onto the island. Because Anna Maria has a single main corridor, the crew coordinates with the property owner on the best staging point before arrival, particularly for larger losses where multiple vehicles and equipment trailers are involved. Calling (813) 829-1091 immediately after the fire department clears the scene is the fastest way to get that coordination started.
 
 ## Anna Maria Insurance Coordination
 

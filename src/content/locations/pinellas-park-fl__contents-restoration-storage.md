@@ -38,7 +38,7 @@ Items that need extended drying or specialized cleaning are packed out to our se
 
 ## Reaching Pinellas Park from Thonotosassa
 
-DRYCOR RESTORE operates 24/7 out of Thonotosassa, with Pinellas Park reachable via I-4 West to I-275 South across the Howard Frankland Bridge. The route is direct and well-traveled, which matters when contents are sitting in standing water and every hour counts. Once on the Pinellas side, crews can reach the city's central and western neighborhoods efficiently via US-19 or Park Boulevard, the two main north-south and east-west corridors that bisect the city.
+DRYCOR RESTORE operates 24/7 out of its Tampa Bay base, with Pinellas Park reachable via I-4 West to I-275 South across the Howard Frankland Bridge. The route is direct and well-traveled, which matters when contents are sitting in standing water and every hour counts. Once on the Pinellas side, crews can reach the city's central and western neighborhoods efficiently via US-19 or Park Boulevard, the two main north-south and east-west corridors that bisect the city.
 
 ## Pinellas Park Insurance Coordination
 

@@ -38,7 +38,7 @@ Once documentation is complete, our crew secures the structure: temporary roof t
 
 Drying on a barrier island requires attention to outdoor humidity conditions. Anna Maria's ambient relative humidity stays elevated for days after a storm passes, which means simply opening windows is counterproductive. We deploy commercial dehumidifiers and air movers in a closed-drying configuration, monitoring moisture readings in walls, subfloors, and ceiling cavities with thermal imaging and pin-type meters until readings return to acceptable baselines. Structural repairs, including roof decking, framing, drywall, and flooring, follow once the structure is confirmed dry.
 
-## Reaching Anna Maria from Thonotosassa
+## Reaching Anna Maria From Our Tampa Bay Base
 
 Anna Maria Island is accessible via the Manatee Avenue Bridge (SR 64) from the mainland, with the island itself reached by continuing west through Holmes Beach and Bradenton Beach before arriving at Anna Maria at the island's north end. Our team travels this corridor regularly and understands that post-storm bridge access can be restricted by Manatee County emergency management when surge levels are elevated or debris is present on the causeway. We monitor those closures in real time and stage equipment on the mainland side when necessary so we can move the moment access reopens. Because we operate 24/7, we can begin the intake process and coordinate logistics by phone while access is still restricted, so no time is lost once the road is clear.
 

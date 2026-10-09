@@ -41,7 +41,7 @@ From there, the process follows the IICRC S500 and S520 standards that govern pr
 
 ## Reaching Holmes Beach from Thonotosassa
 
-DRYCOR RESTORE is based in Thonotosassa, and the route to Holmes Beach typically runs west on I-4, south on I-275, and across the Sunshine Skyway corridor toward Bradenton before crossing the Manatee Avenue causeway onto Anna Maria Island. Because Holmes Beach is at the island's northern end, crews arriving from the mainland reach it after crossing through Bradenton Beach. That geography matters after a major storm: bridge closures and post-storm traffic on the causeways can affect access, and DRYCOR RESTORE monitors road conditions to route around delays. Because hours are 24/7, a call placed in the middle of the night after a squall moves through gets the same response as a daytime call.
+DRYCOR RESTORE is based in the Tampa Bay area, and the route to Holmes Beach typically runs west on I-4, south on I-275, and across the Sunshine Skyway corridor toward Bradenton before crossing the Manatee Avenue causeway onto Anna Maria Island. Because Holmes Beach is at the island's northern end, crews arriving from the mainland reach it after crossing through Bradenton Beach. That geography matters after a major storm: bridge closures and post-storm traffic on the causeways can affect access, and DRYCOR RESTORE monitors road conditions to route around delays. Because hours are 24/7, a call placed in the middle of the night after a squall moves through gets the same response as a daytime call.
 
 ## Holmes Beach Insurance Coordination
 

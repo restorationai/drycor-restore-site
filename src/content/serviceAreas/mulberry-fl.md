@@ -49,7 +49,7 @@ Once the drying or remediation scope is complete and documented, DRYCOR RESTORE 
 
 ## Coverage and how fast we can get there
 
-From the Thonotosassa base, Mulberry is roughly 35 to 40 miles southwest, with the most direct routing running US-92 west to I-4, then south on SR-37 into the city. Because DRYCOR RESTORE operates 24/7, a call at 2 a.m. after a pipe failure or a storm breach gets the same response as a call during business hours. Dispatch is live around the clock at (813) 829-1091.
+From the Tampa Bay base, Mulberry is roughly 35 to 40 miles southwest, with the most direct routing running US-92 west to I-4, then south on SR-37 into the city. Because DRYCOR RESTORE operates 24/7, a call at 2 a.m. after a pipe failure or a storm breach gets the same response as a call during business hours. Dispatch is live around the clock at (813) 829-1091.
 
 ## Building stock, site conditions, and permits in Mulberry
 

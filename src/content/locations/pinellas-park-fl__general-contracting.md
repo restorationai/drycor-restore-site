@@ -50,7 +50,7 @@ DRYCOR RESTORE documents the damage, provides itemized scoping, and communicates
 
 ## Reaching Pinellas Park from Thonotosassa
 
-DRYCOR RESTORE's home base in Thonotosassa puts the crew on I-4 West to I-275 South, crossing into Pinellas County and reaching Pinellas Park in well under an hour under normal traffic conditions. For project work, kitchen remodels, bathroom renovations, full reconstruction, scheduling is coordinated in advance, and the team is available around the clock for urgent post-damage situations that require immediate assessment before a rebuild begins.
+DRYCOR RESTORE's home base in the Tampa Bay area puts the crew on I-4 West to I-275 South, crossing into Pinellas County and reaching Pinellas Park in well under an hour under normal traffic conditions. For project work, kitchen remodels, bathroom renovations, full reconstruction, scheduling is coordinated in advance, and the team is available around the clock for urgent post-damage situations that require immediate assessment before a rebuild begins.
 
 ## Local Note
 

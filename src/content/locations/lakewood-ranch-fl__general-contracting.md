@@ -40,7 +40,7 @@ For HOA-governed properties, we prepare and submit the documentation the Archite
 
 ## Reaching Lakewood Ranch from Thonotosassa
 
-Our base in Thonotosassa puts Lakewood Ranch within practical reach via I-75 south to the University Parkway or State Road 70 corridors. Because we operate around the clock, scheduling consultations and coordinating material deliveries to Lakewood Ranch job sites is straightforward regardless of when a damage event or project need surfaces. For post-damage rebuilds especially, getting eyes on the property quickly matters, and that access is available to Lakewood Ranch homeowners any time.
+Our base in the Tampa Bay area puts Lakewood Ranch within practical reach via I-75 south to the University Parkway or State Road 70 corridors. Because we operate around the clock, scheduling consultations and coordinating material deliveries to Lakewood Ranch job sites is straightforward regardless of when a damage event or project need surfaces. For post-damage rebuilds especially, getting eyes on the property quickly matters, and that access is available to Lakewood Ranch homeowners any time.
 
 ## Local Note: Builder-Grade Finishes and What's Behind Them
 

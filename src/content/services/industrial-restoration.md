@@ -1,8 +1,8 @@
 ---
 archetype: "service-landing"
-title: "Industrial Restoration in Thonotosassa | DRYCOR RESTORE"
-h1: "Industrial Restoration in Thonotosassa"
-meta_description: "24/7 industrial restoration in Thonotosassa and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
+title: "Industrial Restoration in Tampa Bay | DRYCOR RESTORE"
+h1: "Industrial Restoration in Tampa Bay"
+meta_description: "24/7 industrial restoration in Tampa Bay and surrounding areas. IICRC-certified, insurance billing accepted. Call (813) 829-1091."
 primary_keyword: "industrial restoration thonotosassa"
 secondary_keywords: ["industrial water damage", "warehouse restoration", "manufacturing facility restoration", "industrial fire damage", "plant restoration services"]
 search_intent: "local_b2b"
@@ -53,6 +53,6 @@ Thonotosassa and the surrounding Tampa Bay industrial corridor see heavy summer 
 
 ## Service area
 
-DRYCOR RESTORE works industrial and commercial losses across Thonotosassa and the surrounding Tampa Bay area, including Plant City, Lutz, Zephyrhills, and the industrial corridors nearer Tampa. Crews are IICRC Certified and OSHA trained, licensed under CBC1253966, and available 24/7 for facilities that can't afford an open-ended timeline on getting back into production.
+DRYCOR RESTORE works industrial and commercial losses across Tampa Bay and the surrounding Tampa Bay area, including Plant City, Lutz, Zephyrhills, and the industrial corridors nearer Tampa. Crews are IICRC Certified and OSHA trained, licensed under CBC1253966, and available 24/7 for facilities that can't afford an open-ended timeline on getting back into production.
 
 If water, fire, or storm damage has taken a warehouse, plant, or manufacturing floor offline, call DRYCOR RESTORE at (813) 829-1091 to get a facility assessment started and a written scope of work moving.
