@@ -25,8 +25,8 @@ export const brand = {
   // keep the canonical NAP number above — humans dial the tracked line,
   // Google sees consistent NAP. Empty = feature off (default at scaffold;
   // filled by the call-tracking provisioning step).
-  trackingPhone: "(352) 424-6035",
-  trackingPhoneRaw: "+13524246035",
+  trackingPhone: "(877) 369-9074",
+  trackingPhoneRaw: "+18773699074",
   email: "team@drycor.com",
   hours: "24/7",
   foundedYear: "2005",
