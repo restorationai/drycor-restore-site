@@ -75,10 +75,13 @@ const reviews = ((B.gbpReviews as { author: string; rating: number; text: string
   .slice(0, 3)
   .map((r) => ({ author: r.author, rating: r.rating, when: r.when, quote: excerpt(r.text) }));
 
+// Review count only at 100+, the same rule as ReviewsStrip / ReviewsSection /
+// reviews.astro (Robert 09-28: hide the review count, keep the rating + stars).
+const showCount = countNum >= 100;
 const lead = topRated
-  ? `${name} is a top-rated ${trade} company in ${area}, with a ${rating}-star Google rating across ${count} reviews.`
+  ? `${name} is a top-rated ${trade} company in ${area}, with a ${rating}-star Google rating${showCount ? ` across ${count} reviews` : ""}.`
   : hasRating && ratingNum >= 4
-    ? `${area} homeowners rate ${name} ${rating} out of 5 stars across ${count} Google reviews.`
+    ? `${area} homeowners rate ${name} ${rating} out of 5 stars${showCount ? ` across ${count} Google reviews` : " on Google"}.`
     : `Here is what ${name} brings to every ${trade} job in ${area}.`;
 
 const show = Boolean(city && name) && (hasRating || reviews.length > 0);
