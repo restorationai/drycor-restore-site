@@ -65,7 +65,7 @@ export const brand = {
   certifications: ["IICRC Certified Firm", "IICRC WRT (Water)", "EPA Lead-Safe Certified", "OSHA Trained", "NAERMC-(Mold)"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.linkedin.com/company/drycor-restore/", "https://www.bing.com/maps?ss=ypid.YND295ED88552C26BD", "https://homeguide.com/fl/tampa/water-damage-restoration/drycor-restore-B7Lx1MPyy"] as string[],
+  sameAsUrls: ["https://www.linkedin.com/company/drycor-restore/", "https://maps.google.com/maps?cid=14845211442582042575", "https://www.yelp.com/biz/drycor-restore-thonotosassa-2", "https://homeguide.com/fl/tampa/water-damage-restoration/drycor-restore-B7Lx1MPyy"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
