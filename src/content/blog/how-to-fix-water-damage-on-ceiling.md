@@ -42,7 +42,7 @@ Do not skip this step. Patching the ceiling before the source is fixed is money 
 
 A sagging or bulging ceiling is a safety hazard and should be treated as one. Waterlogged drywall can weigh 30 to 50 pounds per sheet when saturated, and the paper facing and joint compound that hold it in place lose strength quickly when wet. If you see a pronounced bow, a soft spot that gives when you press it gently with a broom handle, or active dripping through the ceiling surface, keep people out of that room.
 
-For a bulging ceiling with standing water trapped above it: carefully puncture the lowest point with a screwdriver to let water drain in a controlled stream rather than waiting for a collapse. Set a bucket below, then get a professional on-site to assess the structure. This is not an overreaction. Ceiling collapses from water loading are well-documented, and the IICRC S500 standard for [water damage response](https://www.iicrc.org/page/IICRCS500) specifically classifies ceiling assemblies as a structural concern when saturation is present.
+For a bulging ceiling with standing water trapped above it: carefully puncture the lowest point with a screwdriver to let water drain in a controlled stream rather than waiting for a collapse. Set a bucket below, then get a professional on-site to assess the structure. This is not an overreaction. Ceiling collapses from water loading are well-documented, and the IICRC S500 standard for [water damage response](https://iicrc.org/s500/) specifically classifies ceiling assemblies as a structural concern when saturation is present.
 
 ## How Do I Repair a Water-Damaged Ceiling Myself?
 

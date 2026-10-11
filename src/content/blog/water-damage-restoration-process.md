@@ -27,7 +27,7 @@ If you just walked into a flooded room and you're trying to figure out what the 
 
 The first thing a trained crew does is assess and document, not start ripping things apart. On arrival, technicians classify the water source and map every affected surface before a single piece of equipment is deployed. This inspection phase sets the scope for everything that follows.
 
-Water is classified into three categories under the [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500):
+Water is classified into three categories under the [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/):
 
 - **Category 1 (clean water):** Broken supply lines, overflowing sinks, appliance failures. Lowest contamination risk.
 - **Category 2 (gray water):** Washing machine discharge, toilet overflow without solid waste, dishwasher leaks. Contains microorganisms and chemical contaminants.

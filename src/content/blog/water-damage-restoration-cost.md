@@ -58,7 +58,7 @@ The IICRC S500 standard, the industry's governing document for water damage rest
 - **Category 2 (gray water):** Comes from a dishwasher, washing machine drain, or toilet bowl overflow without feces. Contains contaminants that can cause illness. Porous materials typically require removal if they absorbed the water.
 - **Category 3 (black water):** Sewage backups, floodwater from outside, or any water that has been sitting long enough to support microbial growth. Highest contamination risk. Most porous materials that absorbed Cat 3 water must be removed and disposed of, not dried. This is the most expensive category to remediate.
 
-Water category can also change over time. Clean water from a supply line that sits untreated for 48 to 72 hours in Florida's humidity can degrade to Category 2 or 3 as bacteria multiply. That is one reason rapid response matters so much here, and why the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) sets clear protocols for response timing.
+Water category can also change over time. Clean water from a supply line that sits untreated for 48 to 72 hours in Florida's humidity can degrade to Category 2 or 3 as bacteria multiply. That is one reason rapid response matters so much here, and why the [IICRC S500 standard](https://iicrc.org/s500/) sets clear protocols for response timing.
 
 ## Why does Florida humidity make water damage restoration more expensive?
 
