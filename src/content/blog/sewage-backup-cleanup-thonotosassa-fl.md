@@ -70,6 +70,6 @@ If you're dealing with a backup right now, the priority is keeping people out of
 
 **About DRYCOR RESTORE**
 
-DRYCOR RESTORE is an IICRC Certified Firm based in Thonotosassa, FL, licensed under CBC1253966, operating since 2005 with 24/7 emergency service. The company holds a 4.9 Google rating across 27 reviews and is a Managed Repair Preferred Vendor for 34 insurance carriers in Florida. This post was prepared with input from Robert Showalter.
+DRYCOR RESTORE is an IICRC Certified Firm based in Thonotosassa, FL, licensed under CBC1253966, operating since 2005 with 24/7 emergency service. The company is a Managed Repair Preferred Vendor for 34 insurance carriers in Florida. This post was prepared with input from Robert Showalter.
 
 **Need help now?** [Call DRYCOR RESTORE at (813) 829-1091](tel:+18138291091).

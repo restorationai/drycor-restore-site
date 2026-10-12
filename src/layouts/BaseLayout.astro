@@ -173,13 +173,13 @@ const ctx: PageSchemaContext = {
     </style>
   </head>
   <body class="min-h-screen flex flex-col">
-    <div class={`${brand.announcementText ? "block" : "hidden md:block"} bg-cta text-cta-fg text-xs md:text-sm font-bold text-center py-2 px-4 tracking-wider`}>
+    {!brand.hideAnnouncement && <div class={`${brand.announcementText ? "block" : "hidden md:block"} bg-cta text-cta-fg text-xs md:text-sm font-bold text-center py-2 px-4 tracking-wider`}>
       {brand.announcementText
         ? <>{brand.announcementText}</>
         : isLicensed
         ? <>Licensed &amp; Insured &mdash; {brand.primaryCity}, {brand.primaryState}{" "}{brand.specialistPhrase}</>
         : <>{brand.primaryCity}, {brand.primaryState}{" "}{brand.specialistPhrase} &mdash; {brand.announcementSuffix}</>}
-    </div>
+    </div>}
     <Header />
     <Breadcrumb trail={breadcrumb} />
     <main class="flex-1 pb-14 md:pb-0">

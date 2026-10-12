@@ -91,8 +91,10 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  // Client direction (Robert, 2026-10-08 call): replaces the default bar text site-wide.
-  announcementText: "Serving the Panhandle hurricane-affected area",
+  // Client direction (Robert, 2026-10-12 email): "Remove panhandle pages and banner."
+  // No site-wide announcement bar.
+  announcementText: "",
+  hideAnnouncement: true,
   homeAboutBlurb: "DRYCOR RESTORE serves the Tampa Bay area from our Thonotosassa office with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
