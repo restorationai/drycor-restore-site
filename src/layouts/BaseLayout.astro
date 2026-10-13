@@ -177,8 +177,8 @@ const ctx: PageSchemaContext = {
       {brand.announcementText
         ? <>{brand.announcementText}</>
         : isLicensed
-        ? <>Licensed &amp; Insured &mdash; {brand.primaryCity}, {brand.primaryState}{" "}{brand.specialistPhrase}</>
-        : <>{brand.primaryCity}, {brand.primaryState}{" "}{brand.specialistPhrase} &mdash; {brand.announcementSuffix}</>}
+        ? <>Licensed &amp; Insured &middot; {brand.primaryCity}, {brand.primaryState}{" "}{brand.specialistPhrase}</>
+        : <>{brand.primaryCity}, {brand.primaryState}{" "}{brand.specialistPhrase} &middot; {brand.announcementSuffix}</>}
     </div>}
     <Header />
     <Breadcrumb trail={breadcrumb} />
