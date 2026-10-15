@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "34",
+  gbpReviewCount: "36",
   gbpReviews: [
+    { author: "Margo", rating: 5, text: "I had a refrigerator leak in my kitchen, resulting in water damage to my floors and cabinets. I contacted Drycor and they were out assessing my damage within the hour, even though it was a Saturday morning. The owner, Robert Showalter, was extremely sensitive to my emotional state and immediately…", when: "October 2026" },
+    { author: "Jeremy", rating: 5, text: "Robert and the Drycor team were amazing during our flood damage restoration. Very knowledgeable in all the processes.", when: "October 2026" },
     { author: "Joyce", rating: 5, text: "I have used the services of Robert Showalter on 2 occasions. One required extensive work and much time and effort dealing with the insurance company. On both projects, Robert handled all aspects of our home restoration as well as dealing with the insurance company. His communication with us was…", when: "October 2026" },
     { author: "Tim", rating: 5, text: "Robert and his team were instrumental in securing the full settlement amount, necessary to restore damages caused by a fallen tree on my home. They worked extensively to deliver my home back to a pre-loss condition and delivered above and beyond my expectations. Highly recommended for handling loss…", when: "October 2026" },
     { author: "Peter", rating: 5, text: "Great response, action AND follow up! Top quality people, process, equipment and materials. Hard working and conscientious crew on job-site. Knowledgeable office staff handling the complicated paperwork that accompanies these projects. Was refreshing to see an old school business with a hands on…", when: "October 2026" },
     { author: "Jeremy", rating: 5, text: "Robert and team are always on top of every issue. I’m amazed at how fast they respond and the fact they always respond and show up. Really appreciate it!", when: "October 2026" },
-    { author: "Jake", rating: 5, text: "Great company did a great job clean professional work was very helpful and responsive with all our questions", when: "October 2026" },
-    { author: "Michael", rating: 5, text: "Working with said company was a great experience. Very professional and timely. I would absolutely recommend this company for any type of construction work.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services across Tampa Bay, FL.",
   // Rob 2026-09-15: replaces "we work with all insurance carriers" (no carrier logos/names)
