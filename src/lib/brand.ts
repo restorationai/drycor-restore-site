@@ -6,13 +6,13 @@ export const brand = {
   slug: "drycor-restore",
   displayName: "DRYCOR RESTORE",
   shortName: "DRYCOR RESTORE",
-  legalName: "Showalter Construction & Restoration, LLC",
+  legalName: "DRYCOR RESTORE",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "DryCor Restore",
+  dbaName: "DRYCOR RESTORE TAMPA - 24/7 Emergency Plumbing, Water Damage and Mold Remediation",
   domain: "drycor.com",
   canonicalUrl: "https://drycor.com",
   phone: "(813) 829-1091",
