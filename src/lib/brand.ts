@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "37",
+  gbpReviewCount: "67",
   gbpReviews: [
-    { author: "Siavash", rating: 5, text: "We were pleased with services provided by the Showalter Construction & Restoration. They were thorough and professional in all their work. Si Farvardin", when: "October 2026" },
-    { author: "Margo", rating: 5, text: "I had a refrigerator leak in my kitchen, resulting in water damage to my floors and cabinets. I contacted Drycor and they were out assessing my damage within the hour, even though it was a Saturday morning. The owner, Robert Showalter, was extremely sensitive to my emotional state and immediately…", when: "October 2026" },
-    { author: "Jeremy", rating: 5, text: "Robert and the Drycor team were amazing during our flood damage restoration. Very knowledgeable in all the processes.", when: "October 2026" },
-    { author: "Joyce", rating: 5, text: "I have used the services of Robert Showalter on 2 occasions. One required extensive work and much time and effort dealing with the insurance company. On both projects, Robert handled all aspects of our home restoration as well as dealing with the insurance company. His communication with us was…", when: "October 2026" },
-    { author: "Tim", rating: 5, text: "Robert and his team were instrumental in securing the full settlement amount, necessary to restore damages caused by a fallen tree on my home. They worked extensively to deliver my home back to a pre-loss condition and delivered above and beyond my expectations. Highly recommended for handling loss…", when: "October 2026" },
-    { author: "Peter", rating: 5, text: "Great response, action AND follow up! Top quality people, process, equipment and materials. Hard working and conscientious crew on job-site. Knowledgeable office staff handling the complicated paperwork that accompanies these projects. Was refreshing to see an old school business with a hands on…", when: "October 2026" },
+    { author: "Austin", rating: 5, text: "Had an issue with some mold and called Drycore. Charles spoke with me and walked me through the process and answered all of the questions I had!", when: "October 2026" },
+    { author: "Taylor", rating: 5, text: "I had a few questions about water restoration, and Charles was great to work with. He was very helpful, knowledgeable, and took the time to answer my questions. I really appreciate his help!", when: "October 2026" },
+    { author: "Molli", rating: 5, text: "Couldn’t say enough good things about Charles and his team. Charles has so much knowledge about all things restoration and mitigation. Couldn’t recommend him and his team enough", when: "October 2026" },
+    { author: "Carolyn", rating: 5, text: "Great service. Quick response and very professional.", when: "October 2026" },
+    { author: "Gregory", rating: 5, text: "DryCor Restore meets the mark with their workmanship. Their company name is most fitting. As they're accessible, accountable, and accurate with their scope of work!", when: "October 2026" },
+    { author: "Tyson", rating: 5, text: "Exceptional company. Charles is amazing!", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services across Tampa Bay, FL.",
   // Rob 2026-09-15: replaces "we work with all insurance carriers" (no carrier logos/names)
