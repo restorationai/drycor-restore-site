@@ -1,7 +1,7 @@
 ---
 archetype: "legal"
-title: "Terms of Service | DRYCOR RESTORE"
-h1: "Terms of Service"
+title: "Terms & Conditions | DRYCOR RESTORE"
+h1: "Terms & Conditions"
 meta_description: "Terms of Service | {brand.display_name}."
 primary_keyword: "drycor restore terms"
 secondary_keywords: []
@@ -9,43 +9,79 @@ search_intent: "navigational_legal"
 priority: 1.0
 plan_hash: "b88bc7e30cf24f75"
 generated_at: "2026-09-03T11:39:00.351277+00:00"
-manual_override: false
+manual_override: true
 internal_links: []
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Terms of Service"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Terms & Conditions"}]
 faq: []
 ref: "terms"
 rendered: true
 ---
-DryCor Restore is a trade name of **Showalter Construction & Restoration, LLC**, a Florida limited liability company, 10798 Florence Ave, Thonotosassa, FL 33592.
+DryCor Restore is a trade name of **Showalter Construction & Restoration, LLC**, a Florida limited liability company.
 
-## Who This Policy Covers
+**Last Updated:** September 29, 2026  
+**Company Name:** Showalter Construction & Restoration DBA DryCor Restore  
+**Website:** https://www.drycor.com/
 
-These terms apply to visitors and prospective customers who use this website or contact Drycor Restore to request services. By submitting a contact form, requesting an estimate, or engaging our crew, you acknowledge the general framework described here. The actual service relationship is governed by the signed work-authorization form you receive before any work begins, that document controls scope, pricing, and timelines, not this page.
+## 1. Program Description and Acceptance of Terms
 
-## Service Area and Estimates
+Showalter Construction & Restoration DBA DryCor Restore ("Company," "we," "our," or "us") operates one or more text messaging, email, and call programs (collectively, the "Programs") to communicate with customers and prospects regarding our services. These Programs may include, without limitation:
 
-Drycor Restore operates within the greater Tampa Bay region and surrounding communities in Hillsborough County and neighboring counties in Florida. We do not guarantee service availability in every location, if you are outside our current coverage area, we will tell you promptly so you can find a qualified local provider.
+- Service-related alerts and reminders.
+- Customer support and scheduling updates.
+- Post-project follow-up communications, including satisfaction surveys, Net Promoter Score (NPS) collection, qualitative feedback about completed work, and invitations to leave public reviews on third-party platforms.
+- Where permitted, limited informational or promotional messages related to our services.
 
-Estimates provided by phone, email, or on-site walkthrough are good-faith assessments based on visible conditions at the time of inspection. They are not binding contracts. Hidden damage, water behind walls, mold inside cavities, structural deterioration beneath finished surfaces, is common in restoration work and may affect final scope. A signed work-authorization form, reviewed and agreed to by you before work starts, is the binding agreement between you and Drycor Restore.
+By providing your contact information (including your mobile phone number and email address) and opting in to receive messages from us, or by using our Website or services, you agree to these Terms & Conditions and our Privacy Policy (together, the "Terms"). If you do not agree, please do not enroll in any Program or use the Website.
 
-## Payment Terms and Accepted Methods
+- Program / Brand Name(s): "Showalter Construction & Restoration DBA DryCor Restore Customer Communications"
+- Program Description: One-time and recurring communications by SMS, MMS, phone, and email related to service scheduling and support, post-project surveys (including NPS), feedback collection, and invitations to leave public reviews, as well as other service-related and, where permitted, limited promotional messages.
 
-Payment terms are outlined in your work-authorization form. Where insurance is involved, we coordinate directly with your carrier and document the loss to support your claim, but any portion not covered by your policy (deductibles, exclusions, or out-of-pocket costs) remains your responsibility. We accept payment by check, major credit cards, and electronic transfer; specific accepted methods will be confirmed at the time of service. Work will not begin until authorization is signed, and final payment is due per the schedule in that agreement.
+## 2. Message Frequency and Charges
 
-## Liability and Scope of Work
+- Message and data rates may apply.
+- Message frequency may vary based on your interactions with us and which Programs you join (for example, number of projects, survey requests, or inbound inquiries).
+- Your wireless carrier may charge you for text messages according to your mobile plan. You are responsible for any such charges.
 
-Drycor Restore operates as a licensed contractor under Florida state regulations. Our liability is limited to the scope of work described in your signed authorization. We are not responsible for pre-existing conditions, damage caused by delayed reporting of a loss, or outcomes resulting from homeowner or third-party actions taken before or during our work. We carry general liability and workers' compensation coverage appropriate to our license class, your adjuster or property manager may request certificates of insurance directly.
+## 3. Opt-In and Opt-Out
 
-Scope changes, additional demolition, expanded drying zones, supplemental repairs, require written approval before work proceeds. Verbal agreements made on-site do not modify the signed authorization.
+You may opt in to receive messages from us by, for example, submitting a form on our Website that includes consent language, requesting text or email updates, providing your information during a service interaction, or otherwise agreeing to receive communications.
 
-## Insurance Coordination
+**Opt-Out Instructions (STOP):**
 
-When you authorize us to communicate with your insurance carrier, we act on your behalf to document the loss, submit photo evidence, and coordinate scope with your adjuster. We do not negotiate settlements or provide legal advice. The claim remains yours; we support the documentation process.
+- To stop receiving text messages from a Program, reply "STOP" to any message we send you.
+- After you send "STOP," we may send you a one-time confirmation message to confirm that you have been unsubscribed from that Program. After this, you will no longer receive messages from that specific Program, but you may still receive messages from other Programs you have joined (unless and until you opt out of those Programs as well).
 
-## Dispute Resolution
+**Help Instructions (HELP):**
 
-If a dispute arises from services provided by Drycor Restore, both parties agree to attempt resolution through direct communication first. Contact us at team@drycor.com or (813) 829-1091. If direct resolution is not reached, disputes will be handled under Florida law in Hillsborough County. Nothing in these terms limits your rights under applicable Florida consumer protection statutes.
+- If you need assistance with a Program, reply "HELP" to any message or contact us using the information in Section 6 (Customer Support).
 
-## Questions
+You may also contact us directly using the information in Section 6 to request that we stop sending messages via SMS, email, or phone.
 
-For questions about these terms, reach us at team@drycor.com or by mail at 10798 Florence Ave, Thonotosassa, FL 33592.
+## 4. Carrier Disclosures
+
+Carriers are not liable for any delayed or undelivered messages. Availability of a Program and performance of message delivery may be affected by your carrier's coverage and network conditions.
+
+## 5. Post-Project Survey and Review Requests
+
+After a project or service is completed, we may contact you by phone, SMS/MMS, or email to:
+
+- Request that you complete a satisfaction survey.
+- Collect a Net Promoter Score (NPS) or other rating regarding your experience.
+- Gather qualitative feedback about the work that was performed.
+- Ask you to leave a review on public platforms (such as online review or social media sites), at your discretion.
+
+Your participation in surveys, feedback requests, or public reviews is voluntary. Declining to participate will not affect your ability to receive services from us.
+
+## 6. Customer Support and Contact Information
+
+If you have questions about these Terms or any Program, or if you need help, please contact us:
+
+- Phone: (877) 369-9074
+- Email: robert@showalter.co
+- Mailing Address: 10798 Florence Ave., Thonotosassa, FL 33592
+
+You may also reply HELP to any text message for assistance.
+
+## 7. Link to Privacy Policy
+
+For more information about how we collect, use, and share your information, including information collected through the Programs and the Website, please review our [Privacy Policy](/privacy/) (Section 8, "Privacy Policy").

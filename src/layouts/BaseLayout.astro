@@ -171,6 +171,26 @@ const ctx: PageSchemaContext = {
         }
       }
     </style>
+    {/* RealWork: the exact sitewide <head> code RealWork sent DryCor (09-29,
+        clients/drycor-restore/docs/realwork/widget-code.txt). Script is:inline
+        so Astro emits it byte-for-byte; the job feed mounts on /recent-projects/
+        (#rwl-output). Kept last in <head> so the div cannot push any head tags
+        into <body>. */}
+<meta name="google-site-verification" content="-Mqtnni5m2O6_q1kgNPJk2GWn7ubTcS8gSrnqHsFpHA" />
+<script is:inline type="text/javascript">
+(function(){
+             var d = document, t = 'script',
+                 o = d.createElement(t),
+                 s = d.getElementsByTagName(t)[0];
+                 o.src = 'https://app.realworklabs.com/static/plugin/loader.js?v=' + new Date().getTime();
+                 window.addEventListener('rwlPluginReady', function () {
+                     window.rwlPlugin.init('https://app.realworklabs.com', 'njoalZIXzraNbsMq');
+                }, false);
+                s.parentNode.insertBefore(o, s);
+
+            }());
+</script>
+<div id="rwl-neighborhood"></div>
   </head>
   <body class="min-h-screen flex flex-col">
     {!brand.hideAnnouncement && <div class={`${brand.announcementText ? "block" : "hidden md:block"} bg-cta text-cta-fg text-xs md:text-sm font-bold text-center py-2 px-4 tracking-wider`}>

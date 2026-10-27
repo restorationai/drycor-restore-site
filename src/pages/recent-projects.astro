@@ -1,0 +1,32 @@
+---
+// Recent Projects: the RealWork job feed. The sitewide loader in
+// BaseLayout's <head> renders the listing into #rwl-output (client
+// request, RealWork 09-29 for DryCor, Robert cc'd).
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import CtaBanner from "~/components/CtaBanner.astro";
+import { brand } from "~/lib/brand";
+
+const title = `Recent Projects | ${brand.displayName}`;
+const meta = `See recent restoration projects completed by ${brand.displayName}.`;
+---
+
+<BaseLayout
+  title={title}
+  meta_description={meta}
+  breadcrumb={[{ name: "Home", url: "/" }, { name: "Recent Projects" }]}
+>
+  <section class="section-first">
+    <div class="container-wide max-w-3xl mx-auto py-14">
+      <h1>Recent Projects</h1>
+      <p class="text-lg opacity-80 mt-4">
+        A look at jobs our crew has recently completed.
+      </p>
+    </div>
+  </section>
+  <section>
+    <div class="container-wide pb-14">
+      <div id="rwl-output"></div>
+    </div>
+  </section>
+  <CtaBanner />
+</BaseLayout>
