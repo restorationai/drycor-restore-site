@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "67",
+  gbpReviewCount: "68",
   gbpReviews: [
     { author: "Austin", rating: 5, text: "Had an issue with some mold and called Drycore. Charles spoke with me and walked me through the process and answered all of the questions I had!", when: "October 2026" },
     { author: "Taylor", rating: 5, text: "I had a few questions about water restoration, and Charles was great to work with. He was very helpful, knowledgeable, and took the time to answer my questions. I really appreciate his help!", when: "October 2026" },
