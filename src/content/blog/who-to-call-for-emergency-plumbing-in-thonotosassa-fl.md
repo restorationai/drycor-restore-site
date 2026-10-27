@@ -56,6 +56,6 @@ If you're already past the point of a quick fixture repair, the faster next step
 
 **About DRYCOR RESTORE**
 
-DRYCOR RESTORE is an IICRC Certified Firm based in Thonotosassa, FL, operating since 2005 under Florida license CBC1253966. The crew holds IICRC Water Restoration Technician (WRT) certification and handles water damage, burst pipes, sewage backups, and related emergency plumbing calls across the greater Tampa Bay area, with a 4.9 average rating from 34 Google reviews.
+DRYCOR RESTORE is an IICRC Certified Firm based in Thonotosassa, FL, operating since 2005 under Florida license CBC1253966. The crew holds IICRC Water Restoration Technician (WRT) certification and handles water damage, burst pipes, sewage backups, and related emergency plumbing calls across the greater Tampa Bay area, with a 4.9 average Google rating.
 
 **Need help now?** [Call DRYCOR RESTORE at (813) 829-1091](tel:+18138291091).

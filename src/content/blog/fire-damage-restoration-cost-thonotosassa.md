@@ -79,6 +79,6 @@ Once the structure is secured and the scope is written, rebuild work (framing, d
 
 **About DRYCOR RESTORE**
 
-The company is an IICRC Certified Firm serving Thonotosassa, Tampa, Brandon, Plant City, and the surrounding Tampa Bay area since 2005, holding Florida contractor license CBC1253966. Its crews handle fire and smoke damage restoration, general contracting and reconstruction, water and flood mitigation, mold remediation, and related emergency services across the region, with 24/7 response and a 4.9 Google rating from 37 reviews as of this writing.
+The company is an IICRC Certified Firm serving Thonotosassa, Tampa, Brandon, Plant City, and the surrounding Tampa Bay area since 2005, holding Florida contractor license CBC1253966. Its crews handle fire and smoke damage restoration, general contracting and reconstruction, water and flood mitigation, mold remediation, and related emergency services across the region, with 24/7 response and a 4.9 Google rating as of this writing.
 
 **Need help now?** [Call DRYCOR RESTORE at (813) 829-1091](tel:+18138291091).

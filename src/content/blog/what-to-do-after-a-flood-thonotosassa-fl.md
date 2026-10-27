@@ -64,6 +64,6 @@ If you're not sure whether your situation needs a professional crew, a same-day 
 
 **About DRYCOR RESTORE**
 
-Founded in 2005 and based in Thonotosassa, FL, this IICRC Certified Firm holds a 4.9-star Google rating across 34 reviews and Florida contractor license CBC1253966. The team carries IICRC Water Damage Restoration Technician (WRT) certification, EPA Lead-Safe certification, OSHA training, and mold remediation certification through NAERMC. They respond around the clock to water, flood, and storm damage calls across Hillsborough County, including Thonotosassa, Tampa, Brandon, and Plant City, handling everything from emergency water extraction and flood damage restoration to mold remediation and full reconstruction.
+Founded in 2005 and based in Thonotosassa, FL, this IICRC Certified Firm holds a 4.9-star Google rating and Florida contractor license CBC1253966. The team carries IICRC Water Damage Restoration Technician (WRT) certification, EPA Lead-Safe certification, OSHA training, and mold remediation certification through NAERMC. They respond around the clock to water, flood, and storm damage calls across Hillsborough County, including Thonotosassa, Tampa, Brandon, and Plant City, handling everything from emergency water extraction and flood damage restoration to mold remediation and full reconstruction.
 
 **Need help now?** [Call DRYCOR RESTORE at (813) 829-1091](tel:+18138291091).
