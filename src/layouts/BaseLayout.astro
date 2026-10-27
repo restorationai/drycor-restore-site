@@ -174,10 +174,9 @@ const ctx: PageSchemaContext = {
     {/* RealWork: the exact sitewide <head> code RealWork sent DryCor (09-29,
         clients/drycor-restore/docs/realwork/widget-code.txt). Script is:inline
         so Astro emits it byte-for-byte; the job feed mounts on /recent-projects/
-        (#rwl-output). Kept last in <head> so the div cannot push any head tags
-        into <body>. The Bump Out mount is hidden below lg: under ~900px RealWork's
-        widget throws (reviewCount of undefined, 2026-10-27) and shows a
-        "Something went wrong loading this widget" box above the header. */}
+        (#rwl-output). The code's #rwl-neighborhood div sits first in <body>
+        (a div in <head> made Astro close the head there and drop <body>'s
+        classes; browsers put it there anyway). */}
 <meta name="google-site-verification" content="-Mqtnni5m2O6_q1kgNPJk2GWn7ubTcS8gSrnqHsFpHA" />
 <script is:inline type="text/javascript">
 (function(){
@@ -192,9 +191,12 @@ const ctx: PageSchemaContext = {
 
             }());
 </script>
-<div id="rwl-neighborhood" class="hidden lg:block"></div>
   </head>
   <body class="min-h-screen flex flex-col">
+    {/* RealWork Bump Out mount, hidden below lg: under ~900px RealWork's widget
+        throws (reviewCount of undefined, 2026-10-27) and shows a "Something went
+        wrong loading this widget" box above the header. */}
+    <div id="rwl-neighborhood" class="hidden lg:block"></div>
     {!brand.hideAnnouncement && <div class={`${brand.announcementText ? "block" : "hidden md:block"} bg-cta text-cta-fg text-xs md:text-sm font-bold text-center py-2 px-4 tracking-wider`}>
       {brand.announcementText
         ? <>{brand.announcementText}</>
