@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "68",
+  gbpReviewCount: "60",
   gbpReviews: [
-    { author: "Austin", rating: 5, text: "Had an issue with some mold and called Drycore. Charles spoke with me and walked me through the process and answered all of the questions I had!", when: "October 2026" },
-    { author: "Taylor", rating: 5, text: "I had a few questions about water restoration, and Charles was great to work with. He was very helpful, knowledgeable, and took the time to answer my questions. I really appreciate his help!", when: "October 2026" },
-    { author: "Molli", rating: 5, text: "Couldn’t say enough good things about Charles and his team. Charles has so much knowledge about all things restoration and mitigation. Couldn’t recommend him and his team enough", when: "October 2026" },
-    { author: "Carolyn", rating: 5, text: "Great service. Quick response and very professional.", when: "October 2026" },
-    { author: "Gregory", rating: 5, text: "DryCor Restore meets the mark with their workmanship. Their company name is most fitting. As they're accessible, accountable, and accurate with their scope of work!", when: "October 2026" },
-    { author: "Tyson", rating: 5, text: "Exceptional company. Charles is amazing!", when: "October 2026" },
+    { author: "Dan", rating: 5, text: "Charles Thompson is a true professional and really cares about his customers and what he does. Highly recommend.", when: "October 2026" },
+    { author: "Cameron", rating: 5, text: "Charles is great and he genuinely cares about helping people put their homes and lives back together after a disaster. He takes pride in what he does, treats people with respect, and wants to make difficult situations easier for homeowners.", when: "October 2026" },
+    { author: "Kevin", rating: 5, text: "Charles is a trusted partner when it comes to mitigation work.", when: "October 2026" },
+    { author: "Clark", rating: 5, text: "Charles Thompson and the team at Drycor of Tampa are the real deal. As a restoration company ourselves, we're picky about who we send people to, and Drycor is the only company in Tampa we trust. Their work is thorough, professional, and done right the first time, and Charles treats every customer…", when: "October 2026" },
+    { author: "Nelson", rating: 5, text: "Helpful and friendly staff. Would def use these guys again!!", when: "October 2026" },
+    { author: "Roger", rating: 5, text: "Great company and Highly recommend them.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services across Tampa Bay, FL.",
   // Rob 2026-09-15: replaces "we work with all insurance carriers" (no carrier logos/names)
