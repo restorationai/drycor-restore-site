@@ -70,6 +70,9 @@ export const brand = {
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
   gbpReviewCount: "55",
+  // Robert 2026-09-28: "hide the review count, keep the 5.0 rating and stars"
+  // (client pin no-review-count-home). HomeProof + the homepage FAQ obey it.
+  hideReviewCount: true as boolean,
   gbpReviews: [
     { author: "Cameron", rating: 5, text: "Charles is great and he genuinely cares about helping people put their homes and lives back together after a disaster. He takes pride in what he does, treats people with respect, and wants to make difficult situations easier for homeowners.", when: "October 2026" },
     { author: "Kevin", rating: 5, text: "Charles is a trusted partner when it comes to mitigation work.", when: "October 2026" },
