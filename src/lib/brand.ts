@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "55",
+  gbpReviewCount: "54",
   // Robert 2026-09-28: "hide the review count, keep the 5.0 rating and stars"
   // (client pin no-review-count-home). HomeProof + the homepage FAQ obey it.
   hideReviewCount: true as boolean,
