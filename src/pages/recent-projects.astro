@@ -30,3 +30,14 @@ const meta = `See recent restoration projects completed by ${brand.displayName}.
   </section>
   <CtaBanner />
 </BaseLayout>
+
+<style is:global>
+  /* RealWork's review/job cards are white but set no text colour, so they
+     inherited the site's white body text: review text vanished and the
+     "Business response" boxes read white on light gray (Jamie, 11-11).
+     Dark ink (the site's `dark` token) inside the cards only; text RealWork
+     colours itself (names, dates) keeps its own colour. */
+  #rwl-output .rwlCard {
+    color: #16181d;
+  }
+</style>
