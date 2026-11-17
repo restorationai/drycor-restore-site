@@ -74,7 +74,7 @@ export const brand = {
   // (client pin no-review-count-home). HomeProof + the homepage FAQ obey it.
   hideReviewCount: true as boolean,
   gbpReviews: [
-    { author: "Yong", rating: 5, text: "I have had the opportunity to work with Charles Thompson and love him! He is a great communicator and follows up even if it doesn’t turn out to be a full blown water remediation job and just needs some help taking care of minor things. I highly recommend working with him to help you in a time of…", when: "November 2026" },
+    { author: "Derek", rating: 5, text: "Great company to work with on all aspects. They were upfront on costs, met timeline for the repairs. Overall, great to deal with. Would definitely recommend.", when: "November 2026" },
     { author: "Cameron", rating: 5, text: "Charles is great and he genuinely cares about helping people put their homes and lives back together after a disaster. He takes pride in what he does, treats people with respect, and wants to make difficult situations easier for homeowners.", when: "October 2026" },
     { author: "Kevin", rating: 5, text: "Charles is a trusted partner when it comes to mitigation work.", when: "October 2026" },
     { author: "Clark", rating: 5, text: "Charles Thompson and the team at Drycor of Tampa are the real deal. As a restoration company ourselves, we're picky about who we send people to, and Drycor is the only company in Tampa we trust. Their work is thorough, professional, and done right the first time, and Charles treats every customer…", when: "October 2026" },
