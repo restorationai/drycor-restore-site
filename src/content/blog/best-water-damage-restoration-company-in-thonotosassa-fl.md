@@ -54,7 +54,7 @@ Showalter Construction & Restoration, LLC, located at 12208 Hazen Ave in Thonoto
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| DryCor Restore | 4.9 | 55 | Yes | Yes |
+| DryCor Restore | 4.9 | 57 | Yes | Yes |
 | Gladiator Restoration | 4.8 | 44 | Not listed | Not listed |
 | SERVPRO of NE Hillsborough County/Plant City | 4.9 | 211 | Not listed | Not listed |
 | Expert Water Removal - Tampa Water Damage Restoration | 4.9 | 1,889 | Not listed | Not listed |
