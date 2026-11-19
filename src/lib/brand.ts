@@ -69,13 +69,13 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "55",
+  gbpReviewCount: "57",
   // Robert 2026-09-28: "hide the review count, keep the 5.0 rating and stars"
   // (client pin no-review-count-home). HomeProof + the homepage FAQ obey it.
   hideReviewCount: true as boolean,
   gbpReviews: [
+    { author: "Corey", rating: 5, text: "Great company to work with just follow the plan.", when: "November 2026" },
     { author: "Derek", rating: 5, text: "Great company to work with on all aspects. They were upfront on costs, met timeline for the repairs. Overall, great to deal with. Would definitely recommend.", when: "November 2026" },
-    { author: "Chetan", rating: 5, text: "Robert and team have been wonderful to work with. He is extremely knowledgeable about the process and is very thorough in his work. We look forward to the continued work to completion with the renovation work.", when: "November 2026" },
     { author: "Cameron", rating: 5, text: "Charles is great and he genuinely cares about helping people put their homes and lives back together after a disaster. He takes pride in what he does, treats people with respect, and wants to make difficult situations easier for homeowners.", when: "October 2026" },
     { author: "Kevin", rating: 5, text: "Charles is a trusted partner when it comes to mitigation work.", when: "October 2026" },
     { author: "Clark", rating: 5, text: "Charles Thompson and the team at Drycor of Tampa are the real deal. As a restoration company ourselves, we're picky about who we send people to, and Drycor is the only company in Tampa we trust. Their work is thorough, professional, and done right the first time, and Charles treats every customer…", when: "October 2026" },
