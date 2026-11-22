@@ -1,7 +1,7 @@
 ---
 archetype: "home"
 title: "DRYCOR RESTORE | Restoration Services in Tampa Bay, FL"
-h1: "24/7 Restoration Services in Thonotosassa, FL & the Tampa Bay Area"
+h1: "24/7 Restoration Services in Tampa Bay"
 meta_description: "DRYCOR RESTORE provides 24/7 water, fire, mold, and storm damage restoration across Tampa and the Tampa Bay area. Licensed, insured, IICRC-certified. Call (813) 829-1091."
 primary_keyword: "restoration services tampa"
 secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]

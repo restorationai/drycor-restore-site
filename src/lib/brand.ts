@@ -47,7 +47,7 @@ export const brand = {
   // SERVICE REGION (Santino 2026-11-19): multi-metro clients name the region
   // on every region-wide surface (see src/lib/region.ts); city pages and the
   // address/NAP keep the city. Empty = one-metro client, city wording.
-  serviceRegion: "Thonotosassa, FL & the Tampa Bay Area",
+  serviceRegion: "Tampa Bay",
   serviceRegionDetail: "Brandon, Seffner, Valrico, Plant City, Riverview, Wesley Chapel, Lutz, Zephyrhills",
   // Marketing area for coverage copy (Robert 2026-10-09: "Thonotosassa is
   // mentioned many many times on the website"). Lead with the metro; the
