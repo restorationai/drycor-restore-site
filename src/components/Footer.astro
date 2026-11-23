@@ -23,9 +23,10 @@ const IG_ICON = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentCo
 <footer class="bg-white text-navy-900 pt-24 pb-12 mt-0">
   <div class="container-wide grid gap-12 lg:grid-cols-12">
     <div class="lg:col-span-4">
-      {brand.logoUrl && (
-        <img src={brand.logoUrl} alt={`${brand.displayName} logo`} class="h-16 md:h-20 w-auto mb-6" width="48" height="48" loading="lazy" />
-      )}
+      {/* White footer (Jamie 2026-11-23): the main logo's white "DRY" and
+          "RESTORE" vanish on white. logo-light-bg.png is the same mark with
+          that lettering in the brand dark #16181d; the header keeps logo.png. */}
+      <img src="/images/logo-light-bg.png" alt={`${brand.displayName} logo`} class="h-16 md:h-20 w-auto mb-6" width="1000" height="387" loading="lazy" />
       <div class="font-display text-2xl font-black tracking-tight text-navy-900">{brand.displayName}</div>
       <p class="mt-4 text-navy-900/70 text-sm leading-relaxed mb-0">{brand.tagline}</p>
       {/* SERVICE REGION (11-19): where we work AND where the office is; the
