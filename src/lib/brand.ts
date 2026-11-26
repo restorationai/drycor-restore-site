@@ -83,6 +83,8 @@ export const brand = {
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.linkedin.com/company/drycor-restore/", "https://maps.google.com/maps?cid=14845211442582042575", "https://www.yelp.com/biz/drycor-restore-thonotosassa-2", "https://homeguide.com/fl/tampa/water-damage-restoration/drycor-restore-B7Lx1MPyy"] as string[],
+  credentials: [{"name": "Contractor License", "kind": "license", "number": "CBC1253966", "state": "FL", "url": "https://www.myfloridalicense.com/wl11.asp", "holder": "company"}, {"name": "IICRC Certified Firm", "kind": "certification", "authority": "IICRC", "holder": "company"}, {"name": "IICRC WRT (Water)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "WRT"}, {"name": "EPA Lead-Safe Certified", "kind": "certification", "authority": "U.S. EPA", "holder": "company"}, {"name": "OSHA Trained", "kind": "certification", "holder": "company"}, {"name": "NAERMC-(Mold)", "kind": "certification", "holder": "company"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "Licensed in FL (#CBC1253966)"}, {"text": "IICRC-certified technicians (WRT)"}, {"text": "IICRC Certified Firm"}, {"text": "EPA Lead-Safe Certified"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
