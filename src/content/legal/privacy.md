@@ -38,7 +38,7 @@ We collect information in three primary ways: (a) information you provide to us,
 
 ### 8.2.1 Information You Provide Voluntarily
 
-When you submit information through the Website or otherwise interact with us—such as by requesting service, requesting an estimate, scheduling an appointment, starting a chat, contacting us, or participating in a Program—we may collect information you choose to provide, including:
+When you submit information through the Website or otherwise interact with us, such as by requesting service, requesting an estimate, scheduling an appointment, starting a chat, contacting us, or participating in a Program: we may collect information you choose to provide, including:
 
 - Identifiers and contact information (such as name, email address, phone number, and mailing/service address).
 - Service request and project details (such as service type, project dates, preferred appointment windows, photos or attachments you upload, and notes you provide).

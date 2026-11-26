@@ -53,12 +53,12 @@ Typical costs for renovation and remodeling work vary significantly by scope, ma
 
 | Scenario | Typical range |
 |---|---|
-| Bathroom remodel (cosmetic, tile, vanity, fixtures) | $8,000 – $18,000 |
-| Bathroom remodel (full gut, new plumbing rough-in) | $18,000 – $35,000 |
-| Kitchen remodel (cabinets, counters, appliances) | $25,000 – $65,000 |
-| Post-damage room rebuild (drywall, flooring, paint) | $6,000 – $20,000 |
-| Post-damage rebuild with structural framing | $20,000 – $60,000+ |
-| Whole-home renovation (multi-room, full permit pull) | $60,000 – $200,000+ |
+| Bathroom remodel (cosmetic, tile, vanity, fixtures) | $8,000 to $18,000 |
+| Bathroom remodel (full gut, new plumbing rough-in) | $18,000 to $35,000 |
+| Kitchen remodel (cabinets, counters, appliances) | $25,000 to $65,000 |
+| Post-damage room rebuild (drywall, flooring, paint) | $6,000 to $20,000 |
+| Post-damage rebuild with structural framing | $20,000 to $60,000+ |
+| Whole-home renovation (multi-room, full permit pull) | $60,000 to $200,000+ |
 
 Every project is different, and DRYCOR RESTORE provides a written scope before any work begins, no surprises after demo starts. Homeowners insurance typically covers post-damage reconstruction that is directly caused by a covered peril (water, fire, storm); cosmetic upgrades and code-upgrade costs are handled differently and depend on the specific policy.
 

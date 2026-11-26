@@ -65,11 +65,11 @@ Typical costs for storm damage restoration vary significantly based on the size 
 
 | Scenario | Typical range |
 |---|---|
-| Minor roof breach, limited water intrusion, single room | $2,500 – $6,000 |
-| Moderate roof damage, attic and ceiling water intrusion | $6,000 – $15,000 |
-| Tree impact with structural framing damage | $12,000 – $35,000 |
-| Multiple roof sections breached, widespread interior water | $20,000 – $60,000+ |
-| Full reconstruction after major structural loss | $60,000 – $150,000+ |
+| Minor roof breach, limited water intrusion, single room | $2,500 to $6,000 |
+| Moderate roof damage, attic and ceiling water intrusion | $6,000 to $15,000 |
+| Tree impact with structural framing damage | $12,000 to $35,000 |
+| Multiple roof sections breached, widespread interior water | $20,000 to $60,000+ |
+| Full reconstruction after major structural loss | $60,000 to $150,000+ |
 
 Every loss is different, and DRYCOR RESTORE provides a written scope before any work begins so you know exactly what is being done and why. Homeowners insurance typically covers sudden and accidental storm damage, wind, hail, falling trees, though coverage for pre-existing deterioration or deferred maintenance is often excluded; your adjuster or policy documents will clarify your specific limits.
 

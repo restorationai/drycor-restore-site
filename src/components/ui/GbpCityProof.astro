@@ -19,8 +19,8 @@ const review = hasRating && reviews.length > 0 ? reviews[cityHash(city) % review
 // Rob 2026-09-28 / 09-15 call: hide the review COUNT until triple digits.
 const ratingTail = Number(count) >= 100 ? `★ ${rating} · ${count} Google reviews` : `★ ${rating} on Google`;
 const heading = isHqCity(city)
-  ? `Headquartered right here in ${city} — ${ratingTail}`
-  : `Serving ${city} from our ${brand.marketArea} headquarters — ${ratingTail}`;
+  ? `Headquartered right here in ${city}: ${ratingTail}`
+  : `Serving ${city} from our ${brand.marketArea} headquarters: ${ratingTail}`;
 const reviewsUrl = brand.placeId
   ? `https://search.google.com/local/reviews?placeid=${brand.placeId}`
   : brand.googleCid
@@ -41,7 +41,7 @@ const reviewsUrl = brand.placeId
         {review && (
           <blockquote class="m-0 mt-4 p-0 border-0 text-white/80 text-sm leading-relaxed">
             “{review.text}”
-            <span class="text-white/60 font-bold"> — {review.author}{review.when ? `, ${review.when}` : ""}</span>
+            <span class="text-white/60 font-bold">{review.author}{review.when ? `, ${review.when}` : ""}</span>
           </blockquote>
         )}
         {reviewsUrl && (

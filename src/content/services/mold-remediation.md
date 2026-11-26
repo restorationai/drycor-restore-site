@@ -62,12 +62,12 @@ Typical costs run across a wide range depending on the size of the affected area
 
 | Scenario | Typical industry range |
 |---|---|
-| Single bathroom, surface growth only | $500 – $1,500 |
-| Single room, drywall removal required | $1,500 – $4,000 |
-| Crawl space remediation | $2,000 – $6,000 |
-| Attic remediation (moderate coverage) | $3,000 – $8,000 |
-| Whole-structure or multi-room loss | $8,000 – $30,000+ |
-| HVAC system mold contamination | $3,000 – $10,000 |
+| Single bathroom, surface growth only | $500 to $1,500 |
+| Single room, drywall removal required | $1,500 to $4,000 |
+| Crawl space remediation | $2,000 to $6,000 |
+| Attic remediation (moderate coverage) | $3,000 to $8,000 |
+| Whole-structure or multi-room loss | $8,000 to $30,000+ |
+| HVAC system mold contamination | $3,000 to $10,000 |
 
 Every loss is different, and DRYCOR RESTORE provides a written scope of work before any remediation begins. Homeowners insurance coverage for mold varies significantly by policy, most standard policies cover mold that results directly from a covered peril (a burst pipe, storm-driven water intrusion) but exclude mold from long-term neglect or maintenance issues. Reviewing your declarations page with your adjuster before work begins is the fastest way to understand what your policy will pay.
 

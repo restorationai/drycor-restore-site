@@ -57,12 +57,12 @@ Typical costs run from a few hundred dollars for a single broken window to sever
 
 | Scenario | Typical industry range |
 |---|---|
-| Single window or door board-up | $150 – $400 |
-| Multiple openings (3–6 windows/doors) | $500 – $1,200 |
-| Small roof tarp (up to 200 sq ft) | $300 – $700 |
-| Large roof tarp (200–1,000 sq ft) | $700 – $2,500 |
-| Fire-damage board-up, full structure | $1,500 – $4,500 |
-| Combined board-up and tarping, storm loss | $1,200 – $3,500 |
+| Single window or door board-up | $150 to $400 |
+| Multiple openings (3–6 windows/doors) | $500 to $1,200 |
+| Small roof tarp (up to 200 sq ft) | $300 to $700 |
+| Large roof tarp (200–1,000 sq ft) | $700 to $2,500 |
+| Fire-damage board-up, full structure | $1,500 to $4,500 |
+| Combined board-up and tarping, storm loss | $1,200 to $3,500 |
 
 Homeowners insurance typically covers emergency board-up and tarping as a mitigation expense when the underlying loss (storm, fire, impact) is a covered peril, meaning this work is usually reimbursable, not out-of-pocket.
 

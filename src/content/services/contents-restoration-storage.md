@@ -61,12 +61,12 @@ Typical costs depend on the volume of items, the type of loss (smoke, water, or 
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room, water damage, minimal contents | $800 – $2,500 |
-| Single room, smoke/soot damage | $1,500 – $4,000 |
-| Whole-house pack-out, water damage | $4,000 – $12,000 |
-| Whole-house pack-out, fire/smoke | $6,000 – $20,000+ |
-| Document and photo drying (small quantity) | $300 – $1,500 |
-| Extended climate-controlled storage (per month) | $200 – $600 |
+| Single room, water damage, minimal contents | $800 to $2,500 |
+| Single room, smoke/soot damage | $1,500 to $4,000 |
+| Whole-house pack-out, water damage | $4,000 to $12,000 |
+| Whole-house pack-out, fire/smoke | $6,000 to $20,000+ |
+| Document and photo drying (small quantity) | $300 to $1,500 |
+| Extended climate-controlled storage (per month) | $200 to $600 |
 
 Every loss is different, the number of items, contamination category, and required cleaning methods all shift the final number. DRYCOR RESTORE provides a written scope before any work begins so there are no surprises. Homeowners insurance typically covers contents restoration when the underlying loss (fire, water, storm) is a covered peril; your policy's contents coverage limit and deductible apply.
 

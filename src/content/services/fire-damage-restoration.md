@@ -56,12 +56,12 @@ Typical costs vary widely depending on the size of the fire, the materials invol
 
 | Scenario | Typical industry range |
 |---|---|
-| Contained kitchen fire, one room, no structural damage | $3,000 – $8,000 |
-| Single-room fire with smoke spread to adjacent areas | $8,000 – $20,000 |
-| Multi-room fire with structural damage, no roof involvement | $20,000 – $60,000 |
-| Whole-house fire with roof or structural compromise | $60,000 – $150,000+ |
-| Contents pack-out and off-site cleaning (per job) | $2,500 – $10,000 |
-| Odor neutralization treatment only (post-cleaning) | $500 – $2,500 |
+| Contained kitchen fire, one room, no structural damage | $3,000 to $8,000 |
+| Single-room fire with smoke spread to adjacent areas | $8,000 to $20,000 |
+| Multi-room fire with structural damage, no roof involvement | $20,000 to $60,000 |
+| Whole-house fire with roof or structural compromise | $60,000 to $150,000+ |
+| Contents pack-out and off-site cleaning (per job) | $2,500 to $10,000 |
+| Odor neutralization treatment only (post-cleaning) | $500 to $2,500 |
 
 Homeowners insurance typically covers fire damage restoration, including smoke cleanup, contents, and temporary housing, subject to your deductible and policy limits. DRYCOR RESTORE provides a written scope of work before any work begins, and we handle the documentation your carrier needs to process the claim.
 

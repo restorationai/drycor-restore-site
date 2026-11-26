@@ -58,11 +58,11 @@ Typical costs for sewage cleanup and sanitization depend on how far the contamin
 
 | Scenario | Typical industry range |
 |---|---|
-| Single fixture backup, limited spread, hard surfaces only | $1,500 – $4,000 |
-| Single room, porous flooring and lower-wall drywall affected | $3,500 – $8,000 |
-| Main-line backup, multiple rooms, subfloor removal required | $7,000 – $18,000 |
-| Finished basement with sewage intrusion | $10,000 – $25,000+ |
-| Septic overflow with exterior and crawlspace involvement | $8,000 – $20,000+ |
+| Single fixture backup, limited spread, hard surfaces only | $1,500 to $4,000 |
+| Single room, porous flooring and lower-wall drywall affected | $3,500 to $8,000 |
+| Main-line backup, multiple rooms, subfloor removal required | $7,000 to $18,000 |
+| Finished basement with sewage intrusion | $10,000 to $25,000+ |
+| Septic overflow with exterior and crawlspace involvement | $8,000 to $20,000+ |
 
 Every loss is different, and DRYCOR RESTORE provides a written scope of work before any work begins so you know exactly what is included. Homeowners insurance policies that include sewer backup or service-line endorsements typically cover extraction, demolition of affected materials, disinfection, and structural drying, though coverage limits and deductibles vary by policy.
 

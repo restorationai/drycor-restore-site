@@ -56,12 +56,12 @@ Typical costs run from under $2,000 for a small, clean-water loss caught quickly
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room, clean water (Category 1), caught within hours | $1,200 – $3,500 |
-| Multi-room, clean water with flooring removal | $3,500 – $7,000 |
-| Category 2 (gray water), partial wall demo required | $4,500 – $9,000 |
-| Category 3 (sewage / black water), containment required | $7,000 – $15,000+ |
-| Crawl space or subfloor saturation | $2,500 – $6,500 |
-| Finished basement or slab-on-grade with flooring systems | $5,000 – $12,000 |
+| Single room, clean water (Category 1), caught within hours | $1,200 to $3,500 |
+| Multi-room, clean water with flooring removal | $3,500 to $7,000 |
+| Category 2 (gray water), partial wall demo required | $4,500 to $9,000 |
+| Category 3 (sewage / black water), containment required | $7,000 to $15,000+ |
+| Crawl space or subfloor saturation | $2,500 to $6,500 |
+| Finished basement or slab-on-grade with flooring systems | $5,000 to $12,000 |
 
 Every loss is different, square footage, material types, water category, and how long the water sat all affect the final number. DRYCOR RESTORE provides a written scope before work begins so there are no surprises. Homeowners insurance typically covers sudden and accidental water losses, burst pipes, appliance failures, storm-driven intrusion, but generally excludes gradual leaks or flood events, which require a separate flood policy.
 
